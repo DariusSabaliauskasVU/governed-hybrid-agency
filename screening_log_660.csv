@@ -1,0 +1,661 @@
+id,decision,reason,year,title,venue
+2,EXCLUDE,"manufacturing app, LLM tool",2026,Decentralised task planning and motion coordination for scalable multi-robot collaborative manufacturing,Robotics and Computer-Integrated Manufacturin
+3,EXCLUDE,evacuation coordination demo,2026,LLM-Guided Multi-Agent Evacuation Coordination via Episodic Memory and Cognitive Task Analysis,AAMAS 2026 - Proceedings of the 25th Internat
+4,EXCLUDE,cybersecurity rule generation,2026,SigmaForge: Retrieval-Enhanced Sigma Rule Generation with DAG-Based Quality Evaluation,Lecture Notes on Data Engineering and Communi
+7,EXCLUDE,conceptual cognitive-robotics essay,2026,"Bio-inspired cognitive robotics vs. embodied AI for socially acceptable, civilized robots",Frontiers in Robotics and AI
+8,EXCLUDE,MLLM navigation benchmark,2026,Can MLLMs Find Their Way in a City? Exploring Emergent Navigation from Web-Scale Knowledge,EACL 2026 - 19th Conference of the European C
+9,INCLUDE,"cognitive architecture, perception integration",2026,Navigation and Interaction for Blind Users via a Cognitive Architecture,Proceedings of the AAAI Conference on Artific
+10,INCLUDE,modular LLM cognitive architecture,2026,A Modular LLM-Based Cognitive Architecture for Sensitive Contexts: A Case Study on Local Home Automation,International Conference on Agents and Artifi
+11,INCLUDE,self-evolving cognitive agent framework,2026,CogAgent: Self-Evolving Cognitive Agents for Multi-Source Fraud Detection in Heterogeneous Financial Networks,WWW 2026 - Proceedings of the ACM Web Confere
+12,EXCLUDE,remote sensing review,2026,"Remote Sensing Image Intelligent Interpretation From a Language-Centered Perspective: Principles, methods, and challenges",IEEE Geoscience and Remote Sensing Magazine
+13,EXCLUDE,education cognitive-diagnosis app,2026,2T-Agent: A Generative Agent-Driven Framework for Teacher-Like Thinking in Cognitive Diagnosis; [2T-Agent：生成式智能体驱动的类教师思维认知诊断框架],Jisuanji Xuebao/Chinese Journal of Computers
+14,EXCLUDE,philosophical free-will essay,2026,Minds of their own? Decoding free will in large language models,AI and Society
+16,INCLUDE,metacognitive deliberation framework,2026,Learning to Deliberate: Meta-policy Collaboration for Agentic LLMs with Multi-agent Reinforcement Learning,Proceedings of the AAAI Conference on Artific
+17,EXCLUDE,cyber pentest agent app,2026,Building adaptative and transparent cyber agents with local language models,Expert Systems with Applications
+18,EXCLUDE,motion forecasting application,2026,X-Gen: Synergizing Extended LSTM and Generative Diffusion for Cognition-Aware Motion Forecasting,International Journal of Intelligent Systems
+21,EXCLUDE,LLM prompting verification method,2026,Factored Internal Verification Enhances Large Language Model Factuality,Communications in Computer and Information Sc
+22,EXCLUDE,"ACT-R, no foundation model",2025,VSM-ACTR 2: a human-like decision making model with metacognition for manufacturing solutions,Computational and Mathematical Organization T
+23,EXCLUDE,education review essay,2026,From algorithms to tutors: tracing the evolution of generative AI in education,SN Social Sciences
+24,EXCLUDE,human-LLM cognition comparison,2026,Hebbian inertia and massless reasoning: comparative cognitive architecture in human and large language model systems,Quality and Quantity
+25,EXCLUDE,focus-group persona app,2026,Exploring Accessible Focus Groups with Cognitive Persona Generation and AI Agents,Studies in Computational Intelligence
+26,EXCLUDE,social simulation platform,2026,BotVerse: Real-Time Event-Driven Simulation of Social Agents,AAMAS 2026 - Proceedings of the 25th Internat
+27,EXCLUDE,metacognition-VFM survey,2026,Metacognitive Artificial Intelligence in Vision Foundation Models: Research Challenges,IEEE Intelligent Systems
+28,EXCLUDE,cyberbullying detection app,2026,RaSA-BoDX: A meta-cognitive reasoning framework for cyberbullying language detection and mitigation using multi-agent systems,Knowledge-Based Systems
+30,EXCLUDE,pedestrian modeling review,2025,Review on Behavior Models for Pedestrians Interacting with Automated Vehicles; [行人与智能汽车交互行为建模关键技术综述],Zhongguo Gonglu Xuebao/China Journal of Highw
+31,EXCLUDE,LLM knowledge-integration method,2026,THINKNOTE: Enhancing Knowledge Integration and Utilization of Large Language Models via Constructivist Cognition Modeling,19th Conference of the European Chapter of th
+32,EXCLUDE,CoT calibration method,2026,Deep Hidden Cognition Facilitates Reliable Chain-of-Thought Reasoning,Proceedings of the AAAI Conference on Artific
+33,EXCLUDE,procedure automation app,2026,AutoGraph: An intelligent knowledge-graph agent for procedure automation and dynamic human reliability support in high-risk industries,Reliability Engineering and System Safety
+34,EXCLUDE,"ontology teaming, no architecture",2025,Enabling interoperable human–AI teaming for automation in construction and manufacturing via Digital Twins and Sliding Work Sharing ontologies,Journal of Industrial Information Integration
+36,EXCLUDE,entity matching application,2026,CGEM: A cognitive-guided network for human-aligned entity matching,Neurocomputing
+39,INCLUDE,"cognitive navigation architecture, VLM+memory",2026,"USV-3.0: Cognitive maritime navigation through vision-language models, Human-in-the-Loop learning, and spatio-temporal memory",Ocean Engineering
+40,EXCLUDE,agentic AI survey,2026,From Generative to Agentic: A Survey of Autonomous AI Systems and Their Evolving Capabilities,Proceedings of the International Conference o
+43,EXCLUDE,conversational health agent app,2026,Adaptive Conversational Agents Through Cognitive and Emotion-Aware User Profiling,Lecture Notes in Networks and Systems
+47,INCLUDE,hierarchical OODA-LLM agent architecture,2026,HOLA: Hierarchical OODA-LLM Agent Architecture with Commander-like Cognition,IEEE Transactions on Games
+49,EXCLUDE,SOC incident response app,2026,Event-Driven Agentic SOC (ED-ASOC): Supervisor-Based LLM Framework for Dynamic Incident Response and SOAR Orchestration,Proceedings of the International Symposium on
+50,EXCLUDE,livestock IDSS application,2026,From numerical perception to cognitive decision: a weather-enhanced and knowledge-guided approach for proactive environmental management in livestock facilities,Expert Systems with Applications
+51,EXCLUDE,philosophical essay,2026,EPISTEMIC CERTAINTY AND THE LIMITS OF INFORMATIONAL KNOWLEDGE: A PHILOSOPHICAL INQUIRY,Journal of Daoist Studies
+56,EXCLUDE,flowchart generation app,2026,IUFlowGen: An AI System for Converting Procedural Texts into Flowcharts,Lecture Notes in Computer Science
+57,EXCLUDE,knowledge lakes data concept,2026,Knowledge Lakes for Cognitive Systems: Integration of Graph Databases and Ontologies,Proceedings - 2026 International Russian Smar
+60,EXCLUDE,MLLM street-view app,2026,StreetViewGPT: A Street View Image Scene Perception and Reasoning Method Based on Multimodal Large Language Model,IEEE Journal of Selected Topics in Applied Ea
+61,EXCLUDE,MoE module design study,2025,Beyond sparsity: an empirical study of structured collaboration in modular AI,Neurocomputing
+63,EXCLUDE,digital twin industry chapter,2026,"Self-Evolving Twins: Shaping Ethical, Resilient, and Human-Centered Industry 5.0",Generative and Open AI in Industry 5.0
+68,EXCLUDE,affective LLM mental-health review,2026,"Computational Empathy in Affective LLMs: Architectures, Evaluation, and Clinical Deployment Challenges",IEEE Transactions on Affective Computing
+70,EXCLUDE,pose estimation application,2026,Dual Coding Theory in Action: Language-Assisted Human Pose Estimation in Videos,Proceedings of the AAAI Conference on Artific
+71,EXCLUDE,code-gen multi-agent method,2026,Mitigating Cognitive Vulnerabilities in Code Generation via Multi-Agent Adversarial Debate,WWW 2026 - Proceedings of the ACM Web Confere
+72,EXCLUDE,art visual interpretation system,2025,How i Perceive It: Human Memory-Augmented Analogical Reasoning for Machine Visual Interpretation,"Proceedings - SIGGRAPH Asia 2025 Art Papers, "
+73,INCLUDE,LLM-embedded cognitive architecture,2026,Development of a Dementia Care Training System that Learns with Dementia Patient Agents based on LLM-Embedded in Cognitive Architecture,HAI 2025 - Proceedings of the 13th Internatio
+74,EXCLUDE,education tutoring app,2026,A Multi-Agent Collaborative Framework for Personalized Teaching: Dynamic Cognitive Modeling and Iterative Optimization Approach,Proceedings of 2025 4th International Confere
+75,EXCLUDE,misinformation simulation app,2026,An Agent-Based Simulation Framework for Misinformation Susceptibility Test with LLMs: Insights from Psychological Factors,Communications in Computer and Information Sc
+77,EXCLUDE,braille sensor application,2026,A Pen-Shaped Visual-Tactile Sensor System for Braille Recognition with Multimodal Fusion and LLM-Enhanced Feedback,IEEE Sensors Journal
+79,EXCLUDE,power systems LLM review,2026,Large language models in power systems toward cognitive intelligence: A literature review,Applied Energy
+80,EXCLUDE,surveillance summarization app,2026,A Visual-Language Agent for Summarizing Surveillance Footage Using Vision Transformers and Agentic LLM,Proceedings of the IEEE International Confere
+81,EXCLUDE,cognitive-habits benchmark study,2026,Towards Understanding the Cognitive Habits of Large Reasoning Models,Machine Intelligence Research
+82,INCLUDE,"LLM cognitive architecture, KG controller",2026,Embrace LLM-Based Cognitive Architecture to Boost Team Problem-Solving in Open-Ended Tasks,Systems
+83,EXCLUDE,quantum cognition LLM study,2026,Identifying Quantum Structure in AI Language: Evidence for Evolutionary Convergence of Human and Artificial Cognition,Entropy
+86,EXCLUDE,waterway scheduling app,2026,An LLM-based Waterway Scheduling Agent Integrated with Semantic Perception and Evolutionary Optimization,Proceedings - 2026 IEEE 4th International Con
+89,INCLUDE,LLM in eBICA cognitive architecture,2026,Integrating LLMs and self-regulated learning in cognitive architectures: a case study in essay-writing tutoring,Cognitive Systems Research
+90,EXCLUDE,predictive processing theory,2026,Higher-Level Cognition Under Predictive Processing: Structural Representations and Grounded Cognition,Minds and Machines
+91,EXCLUDE,e-nose olfactory application,2025,"Enhancing Artificial Olfactory Reasoning via Integration of Electronic Nose Sensing, Large Language Models, and Knowledge Graphs: A Case Study on Coffee E-Nose",Sensors and Materials
+92,EXCLUDE,vision-language navigation review,2026,"Large-Scale Model-Enhanced Vision-Language Navigation: Recent Advances, Practical Applications, and Future Challenges",Sensors
+93,EXCLUDE,cyber defense survey,2026,Large language models for cyberattack defense: a critical survey,Knowledge and Information Systems
+94,INCLUDE,human-like cognition VQA architecture,2026,SHC: Deeply Activating Human-Like Cognitive Ability for Visual Question Answering,IEEE Transactions on Pattern Analysis and Mac
+95,EXCLUDE,manufacturing agents review,2026,"Agent technologies in smart manufacturing: A comprehensive review of evolution, architectures, and edge–cloud deployment",Advanced Engineering Informatics
+96,EXCLUDE,aging assistance application,2026,Personalized Multimodal AI and AR System for Remote Cognitive Assistance in Aging-in-Place,IEEE Access
+97,EXCLUDE,speech-act semantic embedding,2025,Semantic Space Embedding of Speech Act Intensions,Optical Memory and Neural Networks (Informati
+98,EXCLUDE,no foundation-model engagement,2026,Features for developing agents with a sense of belonging,Cognitive Systems Research
+99,EXCLUDE,fMRI semantic decoding,2025,BrainSeek: A neural-driven deep semantic reasoning framework from functional magnetic resonance imaging signals,Engineering Applications of Artificial Intell
+100,EXCLUDE,conceptual LLM-AGI analysis,2026,The Role of LLMs in AGI,Lecture Notes in Computer Science
+101,EXCLUDE,manufacturing data fusion app,2026,Semantic Translation and LLM-RAG Fusion of Multi-Source Heterogeneous Data for Production Cognition in Discrete Manufacturing,Electronics (Switzerland)
+103,EXCLUDE,LLM agent latency survey,2026,Minimizing Response Latency in LLM-Based Agent Systems: A Comprehensive Survey,IEEE Access
+104,INCLUDE,metacognitive agent architecture MUSE,2026,Metacognition for Unknown Situations and Environments (MUSE),Neural Networks
+105,EXCLUDE,VLA efficiency method,2026,MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation,Proceedings of the AAAI Conference on Artific
+106,EXCLUDE,MLLM reasoning method,2026,Chain-of-Cognition Through Multi-Agent Collaboration Against Cross-Modal Cognitive Interference,"IEEE Transactions on Audio, Speech and Langua"
+109,EXCLUDE,cognition-inspired RAG method,2026,Human Cognition Inspired RAG with Knowledge Graph for Complex Problem Solving,Proceedings of the AAAI Conference on Artific
+110,EXCLUDE,cockpit recommendation app,2026,PC-LLMRec: Large Language Model for Personalized Interaction Recommendations in Intelligent Cockpit,IET Intelligent Transport Systems
+111,EXCLUDE,AR conversational assistant study,2026,AI-Powered Conversational Assistance in Augmented Reality for Multi-Step Tasks,Proceedings - 2026 IEEE Conference on Virtual
+112,INCLUDE,"multi-LLM cognitive architecture, roles",2026,Cognitive Grounding for Perspective Integration in Multi-LLM Systems,Computers
+113,INCLUDE,modular neurosymbolic agent architecture,2026,Adaptive Modular Agent Architecture for Hybrid Two-Level Reasoning,Lecture Notes in Computer Science
+114,EXCLUDE,LLM categorization study,2026,"Golden Gate Bridge, as Always? Eliciting Prototypical Places From Autoregressive Large Language Models via Category Production",Transactions in GIS
+115,EXCLUDE,exercise annotation app,2026,CogEA: A Multi-Agent System for Cognitive Ability Annotation of Exercises by Simulating Human Behaviors,AAMAS 2026 - Proceedings of the 25th Internat
+116,INCLUDE,neuro-symbolic affective cognitive system,2026,Sentiment Analysis on Steroids: A Hybrid Model Using LLMs and Symbolic AI for Affective Reasoning in a Compassionate System,Lecture Notes in Networks and Systems
+117,EXCLUDE,philosophical essay,2026,Can generative artificial intelligence be considered a cognitive subject? An analytic analysis,AI and Society
+119,EXCLUDE,LLM ontology interpretability,2026,Uncovering Ontology Knowledge in Large Language Models,Data Intelligence
+120,EXCLUDE,brain-inspired LLM reasoning method,2026,Neural Ensemble of Thought: Toward Human-like AI through Brain-inspired Reasoning,International Winter Conference on Brain-Comp
+125,EXCLUDE,fixture design manufacturing app,2026,LLM-based rigid-flexible collaborative fixture optimization design of near-net-shaped jet engine blade machining,Journal of Manufacturing Processes
+126,EXCLUDE,bias reasoning position paper,2026,"Towards Detecting, Mitigating and Explaining Biased and Fallacious Reasoning in Large Language Models",AAMAS 2026 - Proceedings of the 25th Internat
+127,EXCLUDE,materials MAS review,2026,Applications of multi-agent systems in computational materials science; [多智能体在物理材料计算领域的应用],Wuli Xuebao/Acta Physica Sinica
+129,INCLUDE,dual-process agent architecture,2026,Towards Self-Evolving Agents: A Dual-Process Framework for Continual Context Refinement,Electronics (Switzerland)
+130,INCLUDE,"task-based cognitive architecture, neuro-symbolic",2026,The AGI-Powered Metaverse: A Decentralized Task-Based Cognitive Architecture,IEEE Access
+131,EXCLUDE,ontology verification app,2026,Automating OntoClean Ontology Verification,Lecture Notes in Computer Science
+132,INCLUDE,five-layer multimodal cognitive architecture,2025,Multimodal Cognitive Architecture with Local Generative AI for Industrial Control of Concrete Plants on Edge Devices,Sensors
+134,EXCLUDE,LLM backdoor attack,2026,ShadowCoT: Cognitive Hijacking for Stealthy Reasoning Backdoors in LLMs,IEEE Transactions on Information Forensics an
+136,EXCLUDE,media framing analysis,2026,"Generative AI, large language models, and their agentic framing in news media",AI and Society
+137,EXCLUDE,code review multi-agent app,2026,Agentic Code Review: A Multi-Agent Framework with Meta-Cognitive Reflection and Human-in-The-Loop Alignment,2026 IEEE 2nd Secure and Trustworthy Cyberinf
+139,EXCLUDE,defense compound-AI talk,2026,"AI Systems That Think, Team, and Fight: A New Paradigm for Defense",Proceedings of the International Florida Arti
+142,EXCLUDE,conceptual position essay,2026,Artificial Human Intelligence: The Role of Humans in the Development of Next Generation AI,IEEE Transactions on Emerging Topics in Compu
+143,INCLUDE,ACT-R-inspired LLM memory architecture,2026,Human-Like Remembering and Forgetting in LLM Agents: An ACT-R-Inspired Memory Architecture,HAI 2025 - Proceedings of the 13th Internatio
+144,EXCLUDE,vehicle motion planning app,2026,PlanAgent: A Multi-modal Large Language Agent for Closed-loop Vehicle Motion Planning,IEEE Transactions on Cognitive and Developmen
+145,EXCLUDE,info-seeking copilot study,2026,"""can You Tell Me?"": Designing Copilots to Support Human Judgement in Online Information Seeking",CHIIR 2026 - Proceedings of the 2026 Conferen
+146,INCLUDE,working-memory multi-agent architecture,2026,GraphCogent: Mitigating LLMs' Working Memory Constraints via Multi-Agent Collaboration in Complex Graph Understanding,WWW 2026 - Proceedings of the ACM Web Confere
+147,INCLUDE,ACT-R plus LLM robot memory,2026,A Path to Gradual Individual Experience and Recollection for Social Robots Based on a Cognitive Architecture,Lecture Notes in Computer Science
+148,EXCLUDE,clinical copilot user study,2026,Augmenting Clinical Decision-Making with an Interactive and Interpretable AI Copilot: A Real-World User Study with Clinicians in Nephrology and Obstetrics,Conference on Human Factors in Computing Syst
+150,EXCLUDE,power O&M cognitive-twin app,2025,From Forecasting to Foresight: Building an Autonomous O&M Brain for the New Power System Based on a Cognitive Digital Twin,Electronics (Switzerland)
+151,EXCLUDE,philosophy of AI mentality,2026,Three frameworks for AI mentality,Frontiers in Psychology
+153,INCLUDE,cognition-centered agent framework,2026,CCM-FCC: LLM-powered cognition-centered AI agent framework for proactive human-robot collaboration,Robotics and Computer-Integrated Manufacturin
+155,EXCLUDE,mental-health conceptual framework,2026,Clinical Reach into the Cognitive Space (CRITiCS): Outline conceptual framework for safe use of generative artificial intelligence in mental health decision-mak,BJPsych Bulletin
+157,EXCLUDE,cognitive search retrieval app,2026,LLM-Enabled Cognitive Search for Context-Aware Knowledge Retrieval from Heterogeneous Data Sources,2026 IEEE International Conference for Conver
+160,EXCLUDE,opinion summarization agent app,2026,Simulating Collaborative Cognition: an LLM Agent Framework for Multi-Stance Public Opinion Summarization,Cognitive Computation
+163,EXCLUDE,embodied navigation method,2026,Expand Your SCOPE: Semantic Cognition over Potential-Based Exploration for Embodied Visual Navigation,Proceedings of the AAAI Conference on Artific
+164,INCLUDE,survey cognitive memory architectures,2026,A Survey of Memory Models for Virtual Agents and Humans: From Psychological Foundations to Computational Architectures,Lecture Notes in Computer Science
+165,EXCLUDE,e-commerce decision-support app,2026,Reproducible Expert Weight Elicitation via LLM Multi-Agent Simulation: A Best–Worst Method Decision Support Framework for AI-Driven E-Commerce Platform Evaluati,Applied Sciences (Switzerland)
+166,EXCLUDE,digital literacy support app,2026,Building Resilient Users: Towards Adaptive Support for Enhanced Digital Literacy in Information Access Systems,Lecture Notes in Computer Science
+167,EXCLUDE,cognitive phenotyping review,2026,"A review of the emergence of AI-driven cognitive digital phenotyping: Multimodal sensing, foundation models, and the path toward digital twins for human cogniti",Computer Science Review
+169,EXCLUDE,long-video understanding method,2025,VidCog: Empowering LLM with Long Video Understanding via Human-like Temporal Cognitive Loop,Proceedings of the 7th ACM International Conf
+170,INCLUDE,cognitive shell architecture BALLERINA,2026,The cognitive architecture of symbolic identity: Structuring coherence in human–AI reasoning systems,Cognitive Systems Research
+171,EXCLUDE,human-AI cooperation essay,2026,"Human–AI social cooperation: convergences, divergences, and challenges; [人类与人工智能在社会互动中合作行为的异同与挑战]",Chinese Science Bulletin
+172,EXCLUDE,agent security risks survey,2026,A Survey on Autonomy-Induced Security Risks in Large Model-Based Agents,IEEE Transactions on Pattern Analysis and Mac
+175,EXCLUDE,conceptual paradigm essay,2025,From Static Prediction to Mindful Machines: A Paradigm Shift in Distributed AI Systems,Computers
+177,EXCLUDE,social anxiety therapy system,2026,Fear Is a Bad Gambler: Designing for Cognitive Co-Creation in AI-Mediated Social Exposure,Conference on Human Factors in Computing Syst
+178,EXCLUDE,dyslexia intervention app,2026,"Decoding Dyslexia, One Emotion at a Time: An AI-Powered Generative Framework",IEEE Transactions on Affective Computing
+179,EXCLUDE,tactical decision-support app,2026,Agentic Command Assistant: Integrating Visual Perception with Generative AI for Advanced Tactical Decision Support,ICKECS 2026 - Proceedings of 4th IEEE Interna
+180,EXCLUDE,project-based learning app,2026,A Human-AI Collaborative Strategy for Project-Based Learning Using Large Language Models,Communications in Computer and Information Sc
+181,EXCLUDE,creativity comparison study,2026,Are Semantic Networks Associated with Idea Originality in Artificial Creativity? A Comparison with Human Agents,Conference on Human Factors in Computing Syst
+182,EXCLUDE,human-AI teaming study,2026,The Role of Shared Mental Models in Driving Knowledge Complementarity: Enhancing Human–AI Team Effectiveness,International Journal of Human-Computer Inter
+183,EXCLUDE,LLM psychological reasoning method,2026,From Stimuli to Minds: Enhancing Psychological Reasoning in LLMs via Bilateral Reinforcement Learning,Proceedings of the AAAI Conference on Artific
+185,EXCLUDE,cognitive reframing counseling app,2026,CARE: Collaborative Cognitive Reframing in Large Language Models via Reasoning for Psychological Counseling,Communications in Computer and Information Sc
+186,EXCLUDE,LLM reasoning metacognition method,2026,RefRea: Reference-Guided Reasoning with Meta-Cognition for Accurate Language Model Agents,Proceedings of the AAAI Conference on Artific
+187,EXCLUDE,situated learning evaluation,2026,The Robot Maze Test: An Evaluation of Situated Learning for Humans and Machine Agents,Proceedings of the International Florida Arti
+188,EXCLUDE,SOC alert enrichment app,2026,AI-Based Asynchronous Alert Enrichment Framework for Scalable Security Operations Centers,2026 International Conference on Smart Futuri
+189,EXCLUDE,microservice deployment app,2026,Enhancing Edge Microservice Deployment Efficiency with an LLM-Empowered Multi-agent Framework,Communications in Computer and Information Sc
+190,EXCLUDE,genomic MAS review,2026,Innovative Multi-Agent Architectures Propelling Genomic Analysis in General and Oncology Domains,International Conference on Agents and Artifi
+191,INCLUDE,neuro-symbolic cognitive architecture ACT-FLEX,2026,ACT-FLEX: A Symbolic and Generative AI integration Architecture for Generalisable and Explainable Robotic Disassembly Tasks,Robotics and Computer-Integrated Manufacturin
+192,EXCLUDE,V2X offloading application,2025,From Numerical Optimization to Cognitive Decision-Making: A Neuroscience-Inspired Framework for Safety-Critical Vehicular,BlockNetSys 2025 - Proceedings of the 2025 AC
+195,EXCLUDE,MAS decision-making method,2026,AgentCDM: Enhancing Multi-Agent Collaborative Decision-Making via ACH-Inspired Structured Reasoning,Proceedings of the AAAI Conference on Artific
+196,EXCLUDE,GUI testing review,2026,"A process-centric review of large language models in graphical user interface testing: architectures, lifecycle impact, and challenges",PeerJ Computer Science
+197,EXCLUDE,opinion propagation simulation,2026,Simulating Public Opinion Propagation on Social Media Using Large Language Model-based Agents,Journal of Systems Science and Systems Engine
+198,EXCLUDE,personality commonsense KG dataset,2026,PCoKG: Personality-aware Commonsense Reasoning with Debate,Proceedings of the AAAI Conference on Artific
+199,EXCLUDE,LLM cognitive bias study,2026,"Exploring Cognitive Bias Impact, Detection and Mitigation in Large Language Models",AAMAS 2026 - Proceedings of the 25th Internat
+201,EXCLUDE,social robotics design perspective,2026,Towards Emotion-Aware and Context-Sensitive Decision-Making in Social Robotics: Insights from MUSIC4D and MHARA,Lecture Notes in Computer Science
+203,EXCLUDE,social cognition simulation,2026,Social Cognition Simulation with Large Language Model-driven Agents; [基于大语言模型智能体的社会认知模拟],Xitong Fangzhen Xuebao / Journal of System Si
+205,EXCLUDE,embodied common-sense benchmark,2026,"A Little Less Conversation, a Little More Action, Please: Investigating the Physical Common-Sense of LLMs in a 3D Embodied Environment",Lecture Notes in Computer Science
+207,EXCLUDE,design education RAG app,2026,System Design and Evaluation of RAG-Enhanced Digital Humans in Design Education: Analyzing Cognitive Load and Instructional Efficiency,Applied Sciences (Switzerland)
+208,EXCLUDE,education pedagogy essay,2026,Scaffolding critical thinking with generative AI: Design principles for integrating large language models in higher education,Computers and Education: Artificial Intellige
+210,EXCLUDE,deception game-theory framework,2026,Generative-Conjectural LLM Equilibrium for Agentic AI Deception with Applications to Spearphishing,Lecture Notes in Computer Science
+211,EXCLUDE,explainability cognitive framework,2026,Cartesian Methodical Doubt: A Cognitive Framework for Reasoning and Explainability in AI Systems,Lecture Notes in Computer Science
+213,EXCLUDE,search diversification agent,2025,DIVAgent: A Diversified Search Agent that Mimics the Human Search Process,CIKM 2025 - Proceedings of the 34th ACM Inter
+215,EXCLUDE,tutoring CoT strategy app,2026,An Empirical Investigation of Adaptive Cognitive Guidance Strategy Optimization Driven by Hierarchical Chain-of-Thought Reasoning in Large Language Models,Engineering Reports
+216,EXCLUDE,video segmentation app,2026,Cognitive-Load-Aware Multimodal Video Segmentation for Adaptive Consumer Media Systems,Digest of Technical Papers - IEEE Internation
+217,EXCLUDE,maritime perception application,2026,Design and System Implementation of an Active Perception Architecture for Maritime Targets Based on the Cognitive Mechanism of Large Models,IEEE Sensors Journal
+220,EXCLUDE,industrial trust-aware agent app,2026,TATA: A Trust-Aware Task-Oriented Agent Framework for Industrial Intelligence Scenarios,"Computers, Materials and Continua"
+222,EXCLUDE,tutoring dialogue planning app,2026,Learning from Long-Term Engagement: Adaptive Tutoring Dialogue Planning for Personalized Education,Proceedings of the AAAI Conference on Artific
+225,EXCLUDE,LVLM decoding hallucination method,2025,MPI-CD: Multi-Path Information Contrastive Decoding for Mitigating Hallucinations in Large Vision-Language Models,MM 2025 - Proceedings of the 33rd ACM Interna
+226,EXCLUDE,GenAI healthcare review,2026,"Generative AI for healthcare: fundamentals, challenges, and perspectives",Science China Information Sciences
+227,EXCLUDE,battery prognostics app,2026,Large language models for battery prognostics,Journal of Energy Chemistry
+228,EXCLUDE,"knowledge tracing, no FM",2026,Metacognitive skills driven knowledge tracing,Expert Systems with Applications
+229,INCLUDE,identity-grounded cognitive architecture,2026,Heterogeneous Debate Engine: Identity-Grounded Cognitive Architecture for Resilient LLM-Based Ethical Tutoring,Lecture Notes in Computer Science
+231,EXCLUDE,UAV technology review,2026,Intelligent Unmanned Aerial Vehicles for Low-altitude Economy: A Review of the Technology Framework and Future Prospects; [低空经济赋能者：智能无人机技术体系综述与展望],Dianzi Yu Xinxi Xuebao/Journal of Electronics
+232,EXCLUDE,disaster infrastructure review,2026,"Large language models and AI agents in disaster-resilient infrastructure: concepts, applications, pathways, and challenges",Reliability Engineering and System Safety
+236,EXCLUDE,battery coordination app,2026,Large language models enable semantic-guided hierarchical games for intelligent battery coordination,Advanced Engineering Informatics
+237,EXCLUDE,geospatial understanding app,2026,LLM-GeoTextCog: A Cognitive Enhancement Framework for Geospatial Scene Understanding in Geographic Texts Using Large Language Models,Transactions in GIS
+238,EXCLUDE,personal info curation app,2026,Generative AI as a Cognitive Partner: Redesigning Personal Information Systems for Proactive Contextual Curation,Lecture Notes in Networks and Systems
+240,EXCLUDE,microscopy LLM review,2026,ChatMicroscopy: A Perspective Review of Large Language Models for Next-Generation Optical Microscopy,Applied Sciences (Switzerland)
+241,INCLUDE,multilayer agentic cognitive framework,2026,Integrating agentic AI and digital twins for intelligent decision-making systems,Array
+245,EXCLUDE,HRC safety review,2026,A Systematic Review of Safety-Driven Approaches in Human–Robot Collaborative Systems,Sensors
+248,EXCLUDE,classroom dialogue dataset,2026,InstructQA: Constructing a Chinese Classroom Dialogue Dataset via NLP and Cognitive Modeling with Optimized Learning Algorithms,Proceedings of 2026 3rd International Confere
+249,EXCLUDE,knowledge collaboration system,2026,Architecture of an Intelligent Environment for Multidisciplinary Research,Communications in Computer and Information Sc
+250,EXCLUDE,ToM debate method,2026,DebaToM: An Innovative Debate Framework for Theory of Mind Reasoning Using Large Language Models,"IEEE Transactions on Audio, Speech and Langua"
+251,EXCLUDE,conceptual epistemics essay,2026,Where and How AI Shapes our Thinking is the Key Point,Philosophy and Technology
+252,EXCLUDE,LLM education QA method,2026,Eliminate-Then-Select: A human-centric reasoning framework for educational question answering with LLMs,Information Processing and Management
+253,EXCLUDE,domain workload estimation,2025,Inferring Cognitive Workload from Symbolic Gaze Sequences Using Large Language Models,IEEE Access
+255,INCLUDE,proposed AGI control architecture,2026,Ontogenesis of AGI Consciousness in ChatGPT Enabled by an External Control Module,Lecture Notes in Networks and Systems
+257,EXCLUDE,cultural heritage application,2026,Generative AI for Cultural Heritage Promotion: A Multi-Agent System Implementation,2026 25th International Symposium INFOTEH-JAH
+259,EXCLUDE,search personalization application,2026,SPARK: Search Personalization via Agent-Driven Retrieval and Knowledge-sharing,Proceedings of the 19th ACM International Con
+262,EXCLUDE,RAG retrieval method,2026,Multi-Stage Deep Incremental Reasoning: A Multi-Modal Retrieval Method Driven by Large Language Models and Knowledge Graphs,2026 6th International Conference on Artifici
+263,EXCLUDE,3D comparison MLLM application,2026,Comp-PointLLM: An explainable multimodal large language model for 3D object comparison,Journal of Computational Design and Engineeri
+268,EXCLUDE,"symbolic injection, no architecture",2026,Exploration of the Impact from Early Injection of Symbolic Knowledge into a Language Model,Lecture Notes in Networks and Systems
+269,EXCLUDE,construction inspection application,2026,VS-BIM: A cognitive map-driven framework enhancing MLLM for automatic safety inspection in construction,Advanced Engineering Informatics
+271,EXCLUDE,no foundation-model engagement,2026,Ladder of Intentions: Unifying Agent Architectures for Explainability and Transferability,Lecture Notes in Computer Science
+272,EXCLUDE,cybersecurity agent application,2026,LLM-Powered Autonomous Security Agents for Next-Generation Cyber Defence,2026 IEEE 5th International Conference on AI 
+275,EXCLUDE,foundry domain review,2026,A Review of Applications and Challenges of Large Language Models for Foundry Intelligence in the Casting Industry,"Computers, Materials and Continua"
+276,EXCLUDE,conceptual ToM AGI,2026,Theory of Mind as a Core Component of Artificial General Intelligence,Lecture Notes in Computer Science
+278,INCLUDE,cognitive design patterns LLM agents,2026,Applying Cognitive Design Patterns to General LLM Agents,Lecture Notes in Computer Science
+280,EXCLUDE,search simulation application,2025,UXSim: Towards a Hybrid User Search Simulation,CIKM 2025 - Proceedings of the 34th ACM Inter
+281,EXCLUDE,water systems application,2026,A Hydro-Intelligence Body: Cognitive Architecture for Project-Oriented Autonomous Water Systems Driven by Multi-Modal Sensing and Water Utility Panel,IEEE Transactions on Consumer Electronics
+282,EXCLUDE,wearable sensing application,2026,From Sensing to Sense-Making: A Framework for On-Person Intelligence with Wearable Biosensors and Edge LLMs,Sensors
+283,EXCLUDE,opera animation application,2026,CEDA-Opera: A Cognitive-Execution Decoupling System for Peking Opera Animation Generation,2026 6th International Conference on Artifici
+284,EXCLUDE,coding education application,2026,From Black Box to Learning Artifact: A Proposed Pedagogical Redesign of AI Coding Assistants for Novice Programmers,Conference on Human Factors in Computing Syst
+288,EXCLUDE,counseling agent application,2026,A counselor-inspired agent framework for AI counselors to enhance client engagement,Technology in Society
+289,EXCLUDE,social physics simulation,2025,Quantum-inspired modeling of social impact in complex networks with artificial intelligent agents,Scientific Reports
+290,EXCLUDE,power system application,2026,Key Technologies of Specialized Large Language Model for Operation of Next-era Distribution System: A Prospective Study; [新型配电系统运行专用大模型关键技术展望],Zhongguo Dianji Gongcheng Xuebao/Proceedings 
+291,EXCLUDE,LLM language critique,2026,A sentence is worth a thousand pictures: can large language models understand hum4n L4ngu4ge and the W0rld behind W0rds?,"Philosophical transactions. Series A, Mathema"
+292,EXCLUDE,general agentic EGI survey,2026,"Edge General Intelligence Through World Models, Large Language Models, and Agentic AI: Fundamentals, Solutions, and Challenges",IEEE Transactions on Cognitive Communications
+294,EXCLUDE,HCI collaboration platform,2026,Through the Lens of Human-Human Collaboration: An Configurable Research Platform for Exploring Human-Agent Collaboration,Conference on Human Factors in Computing Syst
+295,EXCLUDE,KG-RAG retrieval method,2026,Towards Self-cognitive Exploration: Metacognitive Knowledge Graph Retrieval Augmented Generation,Proceedings of the ACM SIGKDD International C
+296,EXCLUDE,CAN security application,2026,CANalyze-AI: Semantic Zero-Day Detection and Rule Synthesis via LoRA-Fine-Tuned LLM for CAN Security,Lecture Notes in Computer Science
+297,EXCLUDE,visual search application,2026,Empowering Vision Language Models for Training-Free Visual Search via Context-Aware Scanpath Simulation,ICMR 2026 - Proceedings of the 16th ACM Inter
+298,EXCLUDE,conceptual reasoning critique,2026,"Bad Reasoners, the Turing Trap and the Problem of Artificial Dualism",Lecture Notes in Computer Science
+299,EXCLUDE,elderly therapy application,2026,A Principle-Driven Adaptive Policy for Group Cognitive Stimulation Dialogue for Elderly with Cognitive Impairment,Proceedings of the AAAI Conference on Artific
+300,EXCLUDE,traffic forecasting RAG,2026,Hybrid Retrieval-Augmented Generation for Interpretable Traffic Forecasting in Urban ITS,IEEE Canadian Journal of Electrical and Compu
+301,EXCLUDE,recommender system method,2026,Diffusion Generative Recommendation with Continuous Tokens,WWW 2026 - Proceedings of the ACM Web Confere
+303,EXCLUDE,penetration testing application,2026,COAPT: Bridging Semantic-Operational Divide in Autonomous Penetration Testing Through LLM-Driven Cognitive Planning,Big Data Mining and Analytics
+304,INCLUDE,LLM plus cognitive-model agents,2026,LLM-Based Evaluation of Utterances with Implicature Understanding-A Preliminary Study,HAI 2025 - Proceedings of the 13th Internatio
+305,EXCLUDE,manufacturing HRC application,2026,Probing AR-assisted seamless HRC assembly for industry 5.0: Multi-modal mutual cognition and LLM-driven knowledge reasoning,Robotics and Computer-Integrated Manufacturin
+306,EXCLUDE,network optimization application,2026,Intent-Driven Network Optimization Copilot with a Dual-Check Cognitive Agent,IEEE Wireless Communications and Networking C
+308,EXCLUDE,AI safety modeling only,2026,Decentralized Belief Propagation in LLM Agents: A Brain-Inspired Approach to AI Safety Analysis,Lecture Notes in Computer Science
+309,EXCLUDE,Socratic teaching application,2026,A diagnostic-driven multi-agent Socratic teaching system,APIET 2026 - Proceedings of 2026 Asia-Pacific
+311,INCLUDE,LLM-Modulo cognitive systems,2025,Eliciting problem specifications for LLM-Modulo cognitive systems,Cognitive Systems Research
+314,EXCLUDE,compute-in-memory hardware,2026,"Heterogeneous Compute-in-Memory Fabrics for Efficient, Scalable Edge Inference and Learning",Proceedings - International Symposium on Qual
+315,EXCLUDE,robotic low-code application,2025,Towards a next-generation LLM empowered low-code programming industrial robotic system for human-centric smart manufacturing,Journal of Manufacturing Systems
+316,EXCLUDE,generic embodied agent,2026,Empowering Embodied Agents with Semantic Intelligence,Lecture Notes in Computer Science
+317,EXCLUDE,mechanical design review,2026,Large language models in mechanical design of mechatronic systems: A review,Advanced Engineering Informatics
+318,EXCLUDE,business dark-data book,2026,Agentic Hyper-Personalized Dimensions: Six Dimensions of Business Dark Data,Agentic Hyper-Personalized Dimensions: Six Di
+319,EXCLUDE,tokenization writing systems,2026,LLM-OCR-SWPC: Hanzi's Cognitive Advantage and Token Efficiency in Multimodal AI,Proceedings of 2026 18th International Confer
+322,EXCLUDE,"resilience arch, FM unclear",2026,Architectural Resilience in AI-Driven Decision Systems under Adversarial Conditions,2026 IEEE 5th International Conference on AI 
+324,EXCLUDE,requirements engineering study,2026,Influence of LLM Prioritizations on Human Decisions in Requirements Engineering,Lecture Notes in Computer Science
+325,EXCLUDE,lunar IoT application,2025,Cognitive-Enhanced Hierarchical Coordination for Lunar Energy Storage IoT Systems,BlockNetSys 2025 - Proceedings of the 2025 AC
+326,EXCLUDE,industrial twin survey,2026,Cognitive Industrial Twin–a Survey,Lecture Notes in Mechanical Engineering
+327,EXCLUDE,transportation LLM survey,2026,"A survey of large language models in transportation planning: modelling, design and decision-making",Transportmetrica A: Transport Science
+328,EXCLUDE,banking risk application,2026,Knowledge Graph-Enhanced LLMs for Unified Climate-Aware Risk Management in Banking: The Cognitive Bank Architecture,2026 International Conference on Artificial I
+331,EXCLUDE,agent threat framework,2026,The Agentic Kill Chain: A Cognitive Threat Framework for Autonomous Agent Ecosystems,CEUR Workshop Proceedings
+332,EXCLUDE,student simulation education,2026,Simulating student learning behaviors with LLM-based role-playing agents: A data-driven and cognitively inspired framework,Expert Systems with Applications
+333,EXCLUDE,product design application,2026,Real-time dynamic graph construction and reasoning to support human-AI collaborative product conceptual design,Journal of Engineering Design
+336,INCLUDE,cognitive multi-agent architecture,2026,MOSAIC: A Cognitively Motivated Multi-Agent Framework for Interpretable and Training-Free Empathetic Dialogue,Electronics (Switzerland)
+337,INCLUDE,generative-agent cognitive architecture,2026,Generative agents for urban mobility: A cognitive framework for realistic travel behavior simulation,Simulation Modelling Practice and Theory
+338,INCLUDE,"LLM cognitive architecture, social norms",2026,Influence in Motion: Tracing Persuasive Dynamics via LLM based Multi-Agent Networks,Computational Communication Research
+339,EXCLUDE,conceptual sycophancy essay,2026,"The hidden functions of sycophancy in AI systems: steering, consistency, and cognitive dependency",AI and Society
+340,INCLUDE,cognitive architecture LLM planning,2026,SPIRAL: Symbolic LLM Planning via Grounded and Reflective Search,Proceedings of the AAAI Conference on Artific
+341,EXCLUDE,teaching model education,2026,Construction of a Large Language Model-Supported Problem Chain Guided Teaching Model,2026 15th International Conference on Educati
+342,EXCLUDE,secure inference crypto,2026,FLUTE: FSS-Based Secure Two-Party LLM Inference Using Partial Transformer Encryption,IEEE Transactions on Dependable and Secure Co
+343,EXCLUDE,conceptual embodied chapter,2026,Embodied Intelligence,Handbook of Human-Centered Artificial Intelli
+344,EXCLUDE,LLM cognitive benchmark,2026,A Benchmark for Evaluating Cognitive Reasoning in Modern Language Models,Applied Sciences (Switzerland)
+346,EXCLUDE,fake news social modeling,2026,Modeling the Spreading of Fake News Through the Interactions Between Human Heuristics and Recommender Systems,Information (Switzerland)
+348,EXCLUDE,MAS failure attribution,2026,Intention-behavior consistency-based automated failure attribution for LLM-driven multi-agent systems,Expert Systems with Applications
+351,EXCLUDE,eldercare robot application,2026,Personalization and Generative Dialogue in Social Robotics for Eldercare: A User Study,Applied Sciences (Switzerland)
+353,EXCLUDE,V2X orchestration application,2026,A Resilient Edge-Cloud Orchestration Framework for Sustaining Tactical Intelligence Continuity in LLM-Enabled V2X Systems,IEEE Access
+354,EXCLUDE,affective survey study,2026,Empathic Agents and the Emotion of Being Moved: Enhancing Human–Computer Interaction,"Smart Innovation, Systems and Technologies"
+355,EXCLUDE,emotion ontology review,2026,Emotion Ontology From the Perspective of Developmental Robotics: A Review,IEEE Access
+356,EXCLUDE,LLM negotiation evaluation,2026,The Illusion of Rationality: Tacit Bias and Strategic Dominance in Frontier LLM Negotiation Games,IEEE Transactions on Artificial Intelligence
+361,INCLUDE,"cognitive robot architecture, memory",2025,LLM-based robot personality simulation and cognitive system,Scientific Reports
+363,EXCLUDE,generic LLM application,2026,Harnessing Large Language Models for Next-Generation Artificial Intelligence Applications,2026 2nd International Conference on Big Data
+365,EXCLUDE,position paper math reasoning,2026,Why Generating Answers Is Not Enough: An Agentic AI Position Paper on Mathematical Proof and Reasoning,Procedia Computer Science
+366,EXCLUDE,cybersecurity application,2026,Leveraging Generative AI And Reinforcement Learning For Autonomous Cyber Threat Mitigation,2026 IEEE 5th International Conference on AI 
+367,EXCLUDE,deepfake detection application,2026,A cognitive-inspired multimodal framework for robust deepfake detection in asynchronous media,Expert Systems with Applications
+369,EXCLUDE,trust evaluation method,2026,CogTrust: Cognitive Logic-Based framework for dynamic trust evaluation in multi-agent systems,Expert Systems with Applications
+373,EXCLUDE,ITS education review,2026,Intelligent Tutoring Systems from Symbolic AI to LLMs: A Critical Review,2026 6th International Conference on Innovati
+374,EXCLUDE,CBT dialogue application,2026,Balancing Personalization and Protocol Fidelity: A Protocol-Guided Dialogue Architecture for LLMs within Cognitive Behavioral Therapeutic Interventions,CEUR Workshop Proceedings
+375,INCLUDE,metacognition framework LLM ensembles,2026,Implementation of a Metacognition Framework for Self-Awareness and Self-Regulation in Ensembles of LLMs,WWW Companion 2026 - Companion Proceedings of
+377,EXCLUDE,short-answer grading,2026,Automatic Short Answer Grading with LLMs: From Memorization to Reasoning,16th International Learning Analytics and Kno
+378,EXCLUDE,UAV search application,2026,Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology,Proceedings of the AAAI Conference on Artific
+379,EXCLUDE,maritime accident application,2026,Unveiling the influencing factors of maritime accidents through data-driven approaches: leveraging large language model tools,Safety Science
+380,EXCLUDE,manufacturing digital twin,2026,Large Language Model-Augmented Semantic Digital Twins for Real-Time Fault Diagnosis and Closed-Loop Control,Journal of Computing and Information Science 
+381,EXCLUDE,HRC systematic review,2026,"Large language models in human-robot collaboration: A systematic review, trends, and challenges",Journal of Manufacturing Systems
+382,EXCLUDE,electrical simulation application,2026,SOA: Improving Simulation Fidelity in Electrical System Modeling via Bilevel Optimization with LLMs and Fuzzy Rules,IEEE Transactions on Fuzzy Systems
+383,EXCLUDE,cognitive IoT review,2026,"Cognitive Internet of Things: A Review of Theory, Applications, and Recent Advances",IEEE Communications Surveys and Tutorials
+385,EXCLUDE,structural design application,2026,Agentic AI Architecture for Structural Design Automation: From Regulatory Retrieval to Physics-Based Optimization,International Conference on Industrial Cyber 
+387,EXCLUDE,LLM ToM method,2026,DMS-ToM: Enhancing LLMs’ Theory of Mind via Dramaturgy-Driven Mental-State Process,Lecture Notes in Computer Science
+388,INCLUDE,cognitive architecture LLM memory,2026,Cognitive Fallibility in LLMs: Modeling Human Forgetting and Reconstruction Bias to Enhance Trust,2026 IEEE 2nd International Conference on Qua
+390,EXCLUDE,LLM image-schema evaluation,2026,When Cognition Meets Data: An Investigation into Large Language Models' Acquisition of Image Schemas and Their Limitations,Proceedings of 2025 International Conference 
+391,EXCLUDE,cognitive load evaluation,2026,Beyond Accuracy: A Cognitive Load Framework for Mapping the Capability Boundaries of Tool-use Agents,Proceedings of the AAAI Conference on Artific
+392,EXCLUDE,agentic AI review,2026,Beyond automation: Unveiling the potential of agentic intelligence,Renewable and Sustainable Energy Reviews
+393,EXCLUDE,industrial cognitive-arch application,2026,Local LLMs for Industrial Supervision and Control: An Edge AI Event-Driven Architecture for Proactive Operational Context Management in Real Industrial Environm,Electronics (Switzerland)
+394,EXCLUDE,opinion simulation application,2026,DualMind: Towards Understanding Cognitive-Affective Cascades in Public Opinion Dissemination via Multi-Agent Simulation,WWW Companion 2026 - Companion Proceedings of
+395,EXCLUDE,research dialogue assistant,2026,A State-Driven Planning Framework for Research Dialogue Agents with Selective Retrieval-Augmented Generation,2026 International Conference on Advances in 
+396,EXCLUDE,MLLM adapter method,2026,Prompt-Aware Adapter: Learning Adaptive Visual Tokens for Multimodal Large Language Models,IEEE Transactions on Artificial Intelligence
+398,EXCLUDE,psychology intervention study,2026,"Psychometric Assessment of the Efficacy of Thought Management Interventions in engendering Wellbeing, Productivity and Leadership Acumen",Ianna Journal of Interdisciplinary Studies
+399,EXCLUDE,virtual assistant application,2026,AI-Driven Virtual Assistant with Immersive Experience,2026 International Conference on Smart Futuri
+401,EXCLUDE,human-AI teaming study,2026,Read the Room or Lead the Room: Understanding Socio-Cognitive Dynamics in Human-AI Teaming,16th International Learning Analytics and Kno
+403,EXCLUDE,conceptual collective-intelligence talk,2026,From Software Agents to Agentic Scientists: Towards Self-Adaptive Collective Intelligence in Complex Environments,2026 International Conference on Development 
+404,EXCLUDE,6G cognitive-bias tutorial,2026,A Tutorial on Cognitive Biases in Agentic AI-Driven 6G Autonomous Networks,IEEE Open Journal of the Communications Socie
+406,EXCLUDE,industrial robotic cognition,2026,Expectation-Driven and Backtracking Chain-of-Thought With Structured Situational Knowledge Representation for Robotic Cognition and Industrial Situation Underst,IEEE Transactions on Automation Science and E
+407,EXCLUDE,psychology handbook chapter,2026,How Language Shapes the Way we Think,The Routledge Handbook of Communication and S
+412,EXCLUDE,LLM evaluation framework,2027,THiNK: Can Large Language Models Think-Aloud?,Lecture Notes in Computer Science
+413,EXCLUDE,commonsense QA method,2026,Hint-oriented self-suggestive learning for commonsense information processing,Information Processing and Management
+414,EXCLUDE,education multi-agent application,2026,The Framework Design of Intelligent Assessment Tasks Recommendation System for Personalized Learning,Advanced AI Technologies for Improving Educat
+415,EXCLUDE,cyber defense application,2026,Cognitive Shields: Generative and Explainable AI for Autonomous Cyber Defense in Complex Network Ecosystems,The Rise of Explainable and Generative AIDriv
+416,EXCLUDE,IIoT fuzzing security,2026,Self-Evolving Multi-Agent Fuzzing for Industrial IoT with Knowledge-Driven Cognitive Reasoning,Sensors
+417,EXCLUDE,LLM interpretability analysis,2026,Decoupling Knowledge and Reasoning in LLMs: An Exploration Using Cognitive Dual-System Theory,Proceedings of the AAAI Conference on Artific
+418,INCLUDE,eBICA cognitive architecture plus LLM,2026,A Virtual Tutor Based on Integration of LLM with a Cognitive Architecture,Studies in Computational Intelligence
+419,EXCLUDE,ToM recsys benchmark,2026,RecToM: A Benchmark for Evaluating Machine Theory of Mind in LLM-based Conversational Recommender Systems,Proceedings of the AAAI Conference on Artific
+420,INCLUDE,neuro-symbolic-probabilistic architectures,2025,Compositional AI Beyond LLMs: System Implications of Neuro-Symbolic-Probabilistic Architectures,International Conference on Architectural Sup
+421,EXCLUDE,graph similarity MLLM,2026,Seeing graphs like humans: Benchmarking computational measures and MLLMs for similarity assessment,Information Visualization
+422,EXCLUDE,LLM social-dilemma study,2026,LLM agents overcome the machine penalty when acting fairly but not when acting selfishly or altruistically,National Science Review
+425,EXCLUDE,long-context memory method,2026,Ebbinghaus Forgetting Curve and Large Language Model Memory Management: A Cognitive Science-Driven Long-Context Enhancement Framework Design and Prospects,ICICT 2026 - Proceedings of 2026 the 9th Inte
+426,EXCLUDE,HCI transparency study,2026,Sensemaking in Multi-Agent LLM Interfaces: How Users Interpret Transparency and Trustworthiness Cues,Conference on Human Factors in Computing Syst
+427,EXCLUDE,KR/XAI no architecture,2026,Knowledge Representation for Human- and Machine-Centric Explanations,Knowledge Graph and Semantic Web Technology b
+428,EXCLUDE,embodied security application,2026,Enhancing Security in Embodied Intelligence: Attack Detection via Constraint Functions,Lecture Notes in Computer Science
+430,EXCLUDE,financial sentiment application,2026,Expert-level financial sentiment analysis via internal and external financial knowledge fusion,Information Fusion
+431,INCLUDE,synthetic-cognition architecture vs transformers,2026,Beating Transformers Using Synthetic Cognition,Lecture Notes in Computer Science
+434,EXCLUDE,agriculture tutoring application,2025,PlantPal: Tutoring Pest and Disease Knowledge via Large Language Models,Proceedings - SIGGRAPH Asia 2025 Educator's F
+436,EXCLUDE,autonomous navigation application,2026,Exploring the Cognitive Capabilities of Large Language Models in Autonomous and Swarm Navigation Systems,Electronics (Switzerland)
+437,INCLUDE,cognitive agent platform memory,2026,PromptX: A Cognitive Agent Platform with Long-term Memory,WWW Companion 2026 - Companion Proceedings of
+439,EXCLUDE,student simulation review,2026,"Simulating students with large language models: A review of architecture, mechanisms, and role modeling in education with generative AI",Computer Science Review
+440,EXCLUDE,EEG classification application,2026,AutocleanEEG - ICVision: Automated ICA Artifact Classification Using Vision-Language AI,2026 IEEE 5th International Conference on Com
+441,INCLUDE,LIDA cognitive architecture plus VLM,2026,Neuro-Symbolic LIDA’s Semantic Vision System,Lecture Notes in Computer Science
+442,EXCLUDE,CAD retrieval application,2026,"Cognitive 3D CAD model retrieval: a multi-agent system for intent-driven, cross-modal search",Journal of Engineering Design
+443,EXCLUDE,micro-break scheduling,2026,Adaptive Micro-Break Scheduling Using Reinforcement Learning and Multi-Modal Fatigue Detection,Proceedings of 5th International Conference o
+445,EXCLUDE,multimodal RAG planning method,2025,CogPlanner: Unveiling the Potential of Agentic Multimodal Retrieval Augmented Generation with Planning,SIGIR-AP 2025 - Proceedings of the 2025 Annua
+446,EXCLUDE,adaptive scaffolding review,2026,A Multi-Dimensional Framework for Adaptive Scaffolding in Large Language Model,2026 6th International Conference on Innovati
+447,EXCLUDE,mental health survey,2026,From Pattern Recognizers to Personalized Companions: a Survey of Large Language Models in Mental Health,IEEE Transactions on Affective Computing
+448,EXCLUDE,math instruction application,2025,Utilizing AI Technology to Enhance Primitive Idea-Driven Mathematics Instruction,ICNISC 2025 - 11th Annual International Confe
+449,EXCLUDE,comms knowledge coordination,2026,Adaptive Semantic Compression and Transmission for Cognitive Knowledge Coordination in a Hierarchical LLM-Agents System,IEEE Internet of Things Journal
+451,EXCLUDE,exploratory learning study,2026,Interpreting Interaction Patterns and Cognitive Strategies in LLM-Supported Exploratory Learning: A Mixed-Methods Analysis Using the DOK Framework,Information (Switzerland)
+454,EXCLUDE,metallurgy decision support,2026,LLM-driven human-AI collaborative decision support system for complex industrial processes: A case study in metallurgy,Neural Networks
+456,EXCLUDE,cognitive security chapter,2026,Cognitive Security: Integrating Generative AI for Adaptive and Self-Learning Defenses,Generative Artificial Intelligence for Next-G
+458,EXCLUDE,behavior-tree robot method,2025,Behavior tree generation and adaptation for a social robot control with LLMs,Robotics and Autonomous Systems
+459,EXCLUDE,itinerary planning application,2026,Personalized Itinerary Planning with LLM-Guided Interaction,Recent Advances in Computer Science and Commu
+460,EXCLUDE,legal AI application,2026,Towards Trustworthy Legal AI: A Multi-Agent Approach to Integrating Legislative Knowledge,Lecture Notes in Computer Science
+461,EXCLUDE,emotion understanding application,2026,A cognitive-affective chain-driven framework for emotion understanding,Information Processing and Management
+462,EXCLUDE,world-models networks overview,2026,World Models for Cognitive Agents: Transforming Edge Intelligence in Future Networks,IEEE Communications Magazine
+463,EXCLUDE,business process automation,2026,A Step Towards Cognitive Automation: Integrating LLM Agents with Process Rules,Lecture Notes in Computer Science
+465,EXCLUDE,video RAG application,2027,Multi-RAG: A Multimodal Retrieval-Augmented Generation System for Adaptive Video Understanding,Lecture Notes in Computer Science
+467,EXCLUDE,robot tutor application,2026,Adaptive empathy evaluation: an intelligent social robot tutor with multimodal assessment,Enterprise Information Systems
+468,EXCLUDE,conceptual philosophical proposal,2025,"A Novel Architecture for Understanding, Context Adaptation, Intentionality and Experiential Time in Emerging Post-Generative AI Through Sophimatics",Electronics (Switzerland)
+469,INCLUDE,generative-agent cognitive architecture,2026,GATSim: Urban mobility simulation with generative agents,Transportation Research Part C: Emerging Tech
+472,EXCLUDE,agent design data analysis,2026,CAAD: A Cognitive-Aware Framework for AI Agent Design in Complex Tasks,Lecture Notes in Computer Science
+473,EXCLUDE,manufacturing cognitive twin,2026,GNN-LLM hybrid cognitive architectures for generative task adaptation in multi-human multi-robot collaborative disassembly,Robotics and Computer-Integrated Manufacturin
+474,INCLUDE,cognitive AI memory framework,2026,CAIM: Development and Evaluation of a Cognitive AI Memory Framework for Long-Term Interaction with Intelligent Agents,International Conference on Intelligent User 
+475,EXCLUDE,MAS trust security,2026,The Trust Paradox in LLM-Based Multi-Agent Systems: When Collaboration Becomes a Security Vulnerability,IEEE Transactions on Computational Social Sys
+477,EXCLUDE,workshop front-matter,2025,CogMAEC'25: The 1st Workshop on Cognition-oriented Multimodal Affective and Empathetic Computing,MM 2025 - Proceedings of the 33rd ACM Interna
+478,EXCLUDE,"LLM in ABM, thin",2026,Integrating Large Language Models as Cognitive Agents into the GAMA Platform for Urban Mobility Simulation,Proceedings of the International Florida Arti
+479,EXCLUDE,cybersecurity platform application,2026,Neuro-Adaptive Agentic AI Platform (NAAP): A Cognitive-Technological Framework for Cybersecurity and Human Performance Optimization,2026 IEEE Conference on Artificial Intelligen
+482,EXCLUDE,teaching RAG application,2026,An Intelligent Teaching System with Proactive Cognitive Guidance Based on Retrieval-Augmented Generation,Lecture Notes on Data Engineering and Communi
+483,EXCLUDE,cultural heritage application,2026,Luminara: Transforming Dunhuang Murals into Interactive Narratives Through AI Analysis and Multi-Agent Generation,DIS 2026 - Proceedngs of the 2026 ACM Designi
+484,EXCLUDE,reasoning LLM survey,2026,A survey of slow thinking-based reasoning LLMs using reinforcement learning and test-time scaling law,Information Processing and Management
+486,INCLUDE,cognitive decision auto-formalization,2026,NL2CA: Auto-formalizing Cognitive Decision-Making from Natural Language Using an Unsupervised CriticNL2LTL Framework,Proceedings of the AAAI Conference on Artific
+487,EXCLUDE,visual analytics application,2026,Confirmation Bias Awareness in Visual Information Retrieval via LLM-Guided Interaction-Trace Monitoring,IEEE Pacific Visualization Symposium
+488,INCLUDE,"robotic cognitive architecture, metacognition",2026,AgenticNav: A Hierarchical Multi-Agentic System for LLM-Driven Autonomous Problem-Solving in Robotics,IEEE Access
+489,EXCLUDE,inversion attack security,2026,A Black-Box Inversion Attack on Small Language Models and Differential Privacy-Based Defense,LM-SHIELD 2026 - Workshop on Privacy in Large
+490,INCLUDE,review LLMs cognitive agents,2026,From prompt to persona: a literature review on LLMs as single cognitive agents,Journal of Ambient Intelligence and Humanized
+491,EXCLUDE,explainability framework only,2026,"TAXAL framework: Triadic fusion of cognitive, functional, and causal dimensions for explainability in agentic LLMs",Information Fusion
+492,INCLUDE,System1/2 dual-process architecture,2026,Synthetic Intuition: A System-1/System-2 Architecture for Fast and Slow Thinking in Large Language Models,2026 IEEE 16th Annual Computing and Communica
+493,EXCLUDE,humanoid architecture review,2026,"Integrated Architectures for Generative Humanoids: A Review of Mechanical Design, Perception, and LLM-Driven Control",ICKECS 2026 - Proceedings of 4th IEEE Interna
+494,INCLUDE,cognitive multi-agent declarative/procedural memory LLM,2026,Navigating the Infinite Dynamic Web Space: Effective In-Context Exploration via Cognitive Multi-Agent Collaboration,EACL 2026 - 19th Conference of the European C
+495,EXCLUDE,domain organic electronics review,2026,Recent Advances in Artificial Intelligence in Organic Electronic Research,Advanced Materials
+497,EXCLUDE,business supply-chain no architecture,2026,Intelligence by design: Large language model work integration as strategic enablers for supply chain regeneration through digital and cognitive capabilities,Technological Forecasting and Social Change
+498,EXCLUDE,autonomous driving domain app,2025,LoDriver: A Region-Localized Autonomous Driver Using Large Language Models,"IEEE Intelligent Vehicles Symposium, Proceedi"
+499,EXCLUDE,education conceptual essay,2025,From automation to augmentation: a human-centered framework for generative AI in adaptive educational content creation,CEUR Workshop Proceedings
+501,EXCLUDE,assembly robotics LLM assistant,2025,Hybrid Intelligence for Collaborative Assembly: Integrating Human and Robotic Agents via Shared Perception–Cognition–Action Cycles,2025 International Conference on Sustainable 
+503,EXCLUDE,LLM neuroscience alignment study,2025,From Language to Cognition: How LLMs Outgrow the Human Language Network,EMNLP 2025 - 2025 Conference on Empirical Met
+504,EXCLUDE,RAG tutoring domain app,2025,Intelligent Tutoring Agent with Retrieval-Augmented Generation: A Case Study of Quality Management System Course,2025 5th International Conference on Consumer
+505,EXCLUDE,explainability no cognitive architecture,2025,Bridging Human Cognition and AI: Enhancing Transparency and Explainability with Hierarchical Conceptual Graphs and the Knowing Protocol,Proceedings of Machine Learning Research
+508,EXCLUDE,adaptive education domain app,2025,Leveraging Machine Learning and NLP for Adaptive Education Systems: A Personalized Approach for Children,2025 IEEE International Conference on Quantum
+510,EXCLUDE,SOAR=security false match,2025,An Intelligent Cognitive Framework Integrating SOAR Architecture with Large Language Models and AI Agents for Cyber Defence,2025 IEEE 1st International Conference on Rec
+511,EXCLUDE,robot navigation domain app,2025,LLM-Powered Embodied Intelligence for Socially-Aware Robot Navigation in Human-Robot Interaction,SSTD 2025 - Proceedings of the 19th Internati
+512,EXCLUDE,AI tutor education domain,2025,Exploration of Intelligent Educational Reform in University Foundational Courses Based on AI Tutors,"Proceedings - 2025 China Automation Congress,"
+514,EXCLUDE,coaching app domain cognitive-model,2025,AI That Helps Us Help Each Other: A Proactive System for Scaffolding Mentor-Novice Collaboration in Entrepreneurship Coaching,Proceedings of the ACM on Human-Computer Inte
+515,EXCLUDE,tutoring testbed no architecture,2025,TutorGym: A Testbed for Evaluating AI Agents as Tutors and Students,Lecture Notes in Computer Science
+516,EXCLUDE,manufacturing disassembly domain app,2025,Embodied Augmented Reality Disassembly System for Human-robot-environment Integration; [面向人-机-环境共融的具身增强现实拆解系统],Jixie Gongcheng Xuebao/Journal of Mechanical 
+517,EXCLUDE,optical networks domain app,2025,Synergistic Interplay of Large Language Model and Digital Twin for Autonomous Optical Networks: Field Demonstrations,IEEE Communications Magazine
+518,EXCLUDE,software debugging multi-agent method,2025,UniDebugger: Hierarchical Multi-Agent Framework for Unified Software Debugging,EMNLP 2025 - 2025 Conference on Empirical Met
+519,EXCLUDE,mind-mapping domain app,2025,AI-Driven Multimodal Mind Mapping: A Framework for Enhanced Knowledge Modeling and Human-Computer Interaction,2025 8th International Conference on Algorith
+522,EXCLUDE,mental health XAI domain,2024,XAI Transformer based Approach for Interpreting Depressed and Suicidal User Behavior on Online Social Networks,Cognitive Systems Research
+524,EXCLUDE,chart QA benchmark,2025,CHARTQAPRO: A More Diverse and Challenging Benchmark for Chart Question Answering,Proceedings of the Annual Meeting of the Asso
+526,EXCLUDE,rescue robot navigation domain,2025,Cognitive Map-Driven Intelligent Navigation and Control for Quadruped Medical Rescue Robots,2025 IEEE International Conference on Cyborg 
+528,EXCLUDE,no foundation model,2022,The Need for a Meta-Architecture for Robot Autonomy,Electronic Proceedings in Theoretical Compute
+529,EXCLUDE,remote sensing domain survey,2024,A comprehensive survey and assumption of remote sensing foundation modal; [遥感基础模型发展综述与未来设想],National Remote Sensing Bulletin
+530,EXCLUDE,image emotion domain method,2025,Enhancing Emotion Reasoning for Image Multi-Emotion Prediction,"ICASSP, IEEE International Conference on Acou"
+531,INCLUDE,ToM/BDI agents social modeling LLM,2025,"Beyond Words: Integrating Theory of Mind into Conversational Agents for Human-Like Belief, Desire, and Intention Alignment",Proceedings of the Annual Meeting of the Asso
+533,INCLUDE,TCN memory-metacognition architecture augmenting LLM,2025,AI Feels Time: Augmenting LLMs with a Bio-Inspired Temporal Cognitive Notebook :,2025 3rd International Conference on Foundati
+534,EXCLUDE,mental health CBT domain app,2025,Empathetic AI for Mental Health: A Comparative Study of Retrieval-Augmented Language Models in CBT Applications,3rd International Conference on Intelligent M
+535,EXCLUDE,autonomous driving domain app,2025,A Unified Perception-Language-Action Framework for Adaptive Autonomous Driving,2025 3rd International Conference on Foundati
+536,EXCLUDE,digital twin simulation app,2024,LLM experiments with simulation: Large Language Model Multi-Agent System for Simulation Model Parametrization in Digital Twins,IEEE International Conference on Emerging Tec
+538,EXCLUDE,LLM reasoning cognitive-tools metaphor,2025,TPE: Towards Better Compositional Reasoning over Cognitive Tools via Multi-persona Collaboration,Lecture Notes in Computer Science (including 
+539,INCLUDE,eBICA cognitive architecture plus LLM,2024,Social–Emotional Conversational Agents Based on Cognitive Architectures and Machine Learning,Pattern Recognition and Image Analysis
+542,INCLUDE,embodied cognitive-architecture framework critiquing LLMs,2024,Position: A Call for Embodied AI,Proceedings of Machine Learning Research
+545,EXCLUDE,robot behavior learning domain,2024,Incremental learning of humanoid robot behavior from natural interaction and large language models,Frontiers in Robotics and AI
+546,EXCLUDE,multirobot supervision domain app,2025,Designing Multimodal Nonverbal Communication Cues for Multirobot Supervision Through Event Detection and Policy Mapping,ICMI 2025 - Proceedings of the 27th Internati
+548,EXCLUDE,EEG cognitive-load domain app,2025,NeuroCognitor: Unified EEG-Language Framework for Cognitive Load Analysis via Instruction-Tuned Multi-Task Learning,IEEE Access
+549,EXCLUDE,3D visual grounding domain method,2024,ViewInfer3D: 3D Visual Grounding Based on Embodied Viewpoint Inference,IEEE Robotics and Automation Letters
+551,EXCLUDE,VLM pattern benchmark,2025,GlyphPattern: An Abstract Pattern Recognition for Vision-Language Models,Proceedings of the Annual Meeting of the Asso
+552,EXCLUDE,multimodal CoT method,2024,Cantor: Inspiring Multimodal Chain-of-Thought of MLLM,MM 2024 - Proceedings of the 32nd ACM Interna
+553,EXCLUDE,education EEG conceptual framework,2025,Human-AI Synergy in Medical Education: A Conceptual Framework for Neuro-Adaptive Learning using EEG and LLMs,IEIR 2025 - Proceedings of the 4th Internatio
+554,INCLUDE,ACT-R memory plus LLM/VLM,2025,Retrieving Memory Content from a Cognitive Architecture by Impressions from Language Models for Use in a Social Robot,Applied Sciences (Switzerland)
+555,EXCLUDE,quantum multi-agent no architecture,2025,A Multi-Agent Quantum Chain of Thought Reasoning and Accuracy Accelerators Framework,IEEE International WIE Conference on Electric
+556,EXCLUDE,multi-agent education domain app,2025,E-GPT: A Multi-Agent LLM Framework for Intelligent Educational Assistance,2025 1st International Conference on Advancem
+557,EXCLUDE,LLM cognitive-bias study no-architecture,2024,Do Language Models Exhibit the Same Cognitive Biases in Problem Solving as Human Learners?,Proceedings of Machine Learning Research
+558,EXCLUDE,agentic AI security threat-model,2025,Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents,2025 8th International Conference on Algorith
+562,EXCLUDE,software PM domain app,2025,Agile Software Management with Cognitive Multi-Agent Systems,International Conference on Agents and Artifi
+563,INCLUDE,cognitive architecture hierarchical memory LLM,2025,El Agente: An autonomous agent for quantum chemistry,Matter
+565,INCLUDE,survey cognitive functions LLMs memory/planning/neurosymbolic,2025,Enhancing Cognitive Functions in Large Language Models Towards AGI: A State-of-the-Art Survey and Exploratory Review,2025 10th International Conference on Machine
+567,EXCLUDE,virtual agent VR position-paper,2025,A VR-Based Paradigm for Examining Relationship-Building Behaviors in LLM-Driven Intelligent Virtual Agents (IVAs),IVA 2025 - Adjunct Proceedings of the 25th AC
+568,EXCLUDE,education forum analysis,2025,Leveraging Large Language Models to Detect and Summarize Cognitive Presence in Online Discussion Forums,2025 IEEE Digital Education and MOOCS Confere
+569,EXCLUDE,finance CVA domain app,2025,ACVA: An Agentic LLM-Based Framework for CVA Calculation,Proceedings of the IEEE International Confere
+571,EXCLUDE,neuroscience no foundation model,2019,A normative theory for causal inference and bayes factor computation in neural circuits,Advances in Neural Information Processing Sys
+572,EXCLUDE,LLM context-window memory-analogy method,2025,InfiniteICL: Breaking the Limit of Context Window Size via Long Short-term Memory Transformation,Proceedings of the Annual Meeting of the Asso
+573,EXCLUDE,software engineering domain app,2024,Towards LLM-augmented multiagent systems for agile software engineering,Proceedings - 2024 39th ACM/IEEE Internationa
+574,EXCLUDE,neuroscience no foundation model,2025,The neural correlates of logical-mathematical symbol systems processing resemble those of spatial cognition more than language processing,iScience
+575,EXCLUDE,Sigma quantization false match,2025,SDQ-LLM: Sigma-Delta Quantization for 1-Bit LLMs of Any Size,Frontiers in Artificial Intelligence and Appl
+576,EXCLUDE,medical bias study domain,2025,Modeling Cognitive and Implicit Biases in Multi-Agent Medical Systems for Clinical Diagnoses,Proceedings - 2025 IEEE/CVF International Con
+578,EXCLUDE,wellness app no architecture,2025,Generative AI-Powered Cognitive Agent for Holistic Human Performance Optimization,ICHMS 2025 - 5th IEEE International Conferenc
+580,INCLUDE,CoALA cognitive architecture for LLMs,2024,Cognitive Architectures for Language Agents,Transactions on Machine Learning Research
+582,EXCLUDE,LLM error-pattern study,2025,Do LLMs Make Mistakes Like Students? Exploring Natural Alignments Between Language Models and Human Error Patterns,Lecture Notes in Computer Science
+583,EXCLUDE,education cognitive graph domain,2025,Research on Personalized Cognitive Graph Based on Large Language Models (LLM) for Education,Proceedings - Frontiers in Education Conferen
+584,EXCLUDE,psychology application domain,2025,ARTIFICIAL INTELLIGENCE IN THE WORK OF A PSYCHOLOGIST: AN EXAMPLE OF ANALYSIS OF VERBAL FORECASTS. Part II.; [ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ В ДЕЯТЕЛЬНОСТИ ПСИХОЛОГА: ,Psikhologicheskii Zhurnal
+585,EXCLUDE,education quiz generation,2025,Exploring Multimodal Quiz Generation and Evaluation Aligned with Higher-Order Learning Objectives in Bloom’s Taxonomy,Communications in Computer and Information Sc
+586,EXCLUDE,assembly optimization domain,2025,Human-Robot Collaborative Assembly Line Balancing via LLM-Guided Swarm Optimization,2025 7th International Symposium on Robotics 
+587,EXCLUDE,education comparison study,2025,Emotional Advice Compared Between an Affective Intelligent Authoring Tool and Generative AI: A Cognitive Walkthrough in Medical Mobile Tutor and ChatGPT,"16th International Conference on Information,"
+589,EXCLUDE,emotion-generation method domain,2025,Third-Person Appraisal Agent: Simulating Human Emotional Reasoning in Text with Large Language Models,EMNLP 2025 - 2025 Conference on Empirical Met
+590,EXCLUDE,LLM abstraction method,2024,Enhancing Abstraction in Large Language Models Through Nature-Inspired Semantic Patterns,"2024 IEEE 15th Annual Ubiquitous Computing, E"
+591,EXCLUDE,design collaboration study,2025,Comparing TRIZ and brainstorming in human-agent design collaboration: effects on cognitive processes and performance,Artificial Intelligence for Engineering Desig
+592,EXCLUDE,software IDE domain app,2025,Enhancing Human-IDE Interaction in the SDLC using LLM-based Mediator Agents,Proceedings of the ACM SIGSOFT Symposium on t
+593,INCLUDE,case-based reasoning generative agents review,2025,Case-Based Reasoning in Generative Agents: Review and Prospect,Lecture Notes in Computer Science
+594,INCLUDE,brain-inspired memory architecture reasoning LLM,2025,A brain-inspired memory transformation based differentiable neural computer for reasoning-based question answering,Frontiers in Artificial Intelligence
+595,INCLUDE,neuro-symbolic image-schema understander LLM,2025,Script-based Inferences in an Image Schema Story Understander,CEUR Workshop Proceedings
+597,EXCLUDE,remote sensing foundation model,2025,AllSpark: A Multimodal Spatiotemporal General Intelligence Model With Ten Modalities via Language as a Reference Framework,IEEE Transactions on Geoscience and Remote Se
+599,EXCLUDE,education cognitive evaluation,2025,Evaluating Cognitive Performance Through Prompt-Based Methods Using LLM in Education,Proceedings - 25th IEEE International Confere
+602,EXCLUDE,multi-robot prompting domain,2025,"Evaluating Prompt Strategies for Multi-Robot Planning with ChatGPT: Batch, Interactive, and Algorithmic Modes",Conference Proceedings - IEEE International C
+603,EXCLUDE,cognitive decline medical domain,2025,Automatic Detection of Early Cognitive Decline Using Multimodal Feature Fusion and Transfer Learning on Real-World Conversational Speech,IEEE Journal of Biomedical and Health Informa
+604,EXCLUDE,dexterous grasping domain app,2023,Knowledge Augmentation and Task Planning in Large Language Models for Dexterous Grasping,IEEE-RAS International Conference on Humanoid
+605,INCLUDE,cognitive agent memory/planning LLM,2025,Cognitive Agents in Urban Mobility: Integrating LLM Reasoning into Multi-Agent Simulations,Sensors
+608,EXCLUDE,security orchestration domain,2025,SecLLM-Intent-Driven Orchestration of Heterogeneous Security Devices via MCP Function Calling and Retrieval-Augmented Generation,2025 8th International Conference on Computer
+609,EXCLUDE,prompt-engineering framework,2024,Overall Prompting Effectiveness for Optimising Human-Machine Interaction in Cyber-Physical Systems,Journal of Integrated Design and Process Scie
+612,EXCLUDE,industrial automation integration app,2025,An Architecture for Integrating Large Language Models with Digital Twins and Automation Systems,IEEE International Conference on Emerging Tec
+614,EXCLUDE,urban geospatial LLM domain,2025,CityGPT: Empowering Urban Spatial Cognition of Large Language Models,Proceedings of the ACM SIGKDD International C
+623,INCLUDE,cognitive writing planning/monitoring LLM,2025,A Cognitive Writing Perspective for Constrained Long-Form Text Generation,Proceedings of the Annual Meeting of the Asso
+627,EXCLUDE,LLM security threats domain,2025,Security Threats in the Inference Phase of Large Language Models,Proceedings - 2025 12th International Confere
+630,EXCLUDE,education scoring domain app,2025,CogMAS: A Cognitively-Grounded Multi-Agent Framework for Explainable and Consistent Open-Ended Student Response Scoring,Conference Proceedings - IEEE International C
+631,EXCLUDE,education admin conceptual,2025,Perspectives of AI Applications for Improving Learning and Teaching Processes,AI in Education Systems: Successful Cases and
+632,INCLUDE,neuro-symbolic schematic grounding LLM,2025,Towards a Neuro symbolic Reasoning System Grounded in Schematic Representations,Proceedings of Machine Learning Research
+633,EXCLUDE,security operations false Sigma,2025,Cognitive SOC: Evidence-Backed Narrative Generation for Security Operations with Multi-Agent LLM Architecture,Proceedings of the IEEE International Confere
+634,EXCLUDE,SOAR analysis false match,2024,Impact of Large Language Models in the Healthcare Industry: SOAR Analyses,2024 3rd International Conference on Creative
+636,INCLUDE,System-2 dual-process reasoning review LLM,2025,A Review of System 2 Reasoning from Cognitive Theories to Algorithmic Innovations,IEIR 2025 - Proceedings of the 4th Internatio
+638,EXCLUDE,VQA dual-process method,2025,Fast or Slow? Integrating Fast Intuition and Deliberate Thinking for Enhancing Visual Question Answering,Proceedings of the Annual Meeting of the Asso
+640,EXCLUDE,EEG cognitive impact study,2025,The cognitive impacts of large language model interactions on problem solving and decision making using EEG analysis,Frontiers in Computational Neuroscience
+643,EXCLUDE,SOAR security domain,2025,Toward Robust Security Orchestration and Automated Response in Security Operations Centers with a Hyper-Automation Approach Using Agentic Artificial Intelligenc,Information (Switzerland)
+644,EXCLUDE,disaster alerts domain app,2025,LLM and MCP Enabled AI Agent for Autonomous Multi-Lingual Alerts for Coastal Communities,2025 IEEE 4th International Conference for Ad
+645,EXCLUDE,mental health chatbot domain,2025,Using Nonverbal Cues in Empathic Multi-Modal LLM-Driven Chatbots for Mental Health Support,Proceedings of the ACM on Human-Computer Inte
+646,EXCLUDE,cognitive digital-twin manufacturing survey,2025,A survey of cognitive digital twin and the potential use of LLMs,Manufacturing Letters
+647,EXCLUDE,law ethics essay,2025,Generative AI and Criminal Guilt: When No One Meant to Harm,The Cambridge Handbook of Generative AI and t
+649,INCLUDE,metacognition cognitive architecture LLM agents,2025,CLMC: Code-Level Metacognition for LLM Agents,IEEE International Conference on Data Mining 
+651,EXCLUDE,IoT hub prospective LLM,2025,Context-Aware IoT Smart Hub: A Semantic and Cognitive Architecture for Adaptive Internet of Robotic Things Environments,2025 International Symposium on Internet of T
+652,EXCLUDE,LLM moral-reasoning evaluation,2025,Structured Moral Reasoning in Language Models: A Value-Grounded Evaluation Framework,EMNLP 2025 - 2025 Conference on Empirical Met
+653,EXCLUDE,eye-tracking alignment domain,2025,Eye-tracking as Implicit Feedback for Aligning Large Language Models and Enhancing Human-AI Teaming,Eye Tracking Research and Applications Sympos
+655,EXCLUDE,robot navigation domain method,2024,PoSE: Suppressing Perceptual Noise in Embodied Agents for Enhanced Semantic Navigation,IEEE Robotics and Automation Letters
+656,EXCLUDE,healthcare metaverse domain,2024,Towards human digital twins for healthcare agent-based modeling in the Metaverse,"Human-Centered Metaverse: Concepts, Methods, "
+658,INCLUDE,neuro-symbolic metacognitive planning agent LLM,2025,Metagent-P: A Neuro-Symbolic Planning Agent with Metacognition for Open Worlds,Proceedings of the Annual Meeting of the Asso
+659,EXCLUDE,IVA nudging position paper,2025,Beyond Adaptivity: Proactive Cognitive Nudging and Multimodal Engagement for Overcoming Cognitive Bias,IVA 2025 - Adjunct Proceedings of the 25th AC
+662,EXCLUDE,event forecasting domain app,2025,Beyond Inherent Cognition Biases in LLM-Based Event Forecasting: A Multi-Cognition Agentic Framework,EMNLP 2025 - 2025 Conference on Empirical Met
+667,EXCLUDE,humanities no foundation model,2019,Intersemiotic translation as a creative thinking tool: From Gertrude stein to dance,Transmediations: Communication Across Media B
+668,EXCLUDE,opinion-dynamics social simulation,2024,"Sentimental Agents: Exploring Deliberation, Cognitive Biases, and Decision-making in LLM-based Multiagent Systems",CEUR Workshop Proceedings
+669,EXCLUDE,image aesthetics domain method,2025,Multi-Stage Image Aesthetic Assessment via Chain-of-Thought Reasoning,IEEE Access
+671,INCLUDE,ACT-R memory plus LLM robot,2025,Personalized Interactions With a Social Robot Based on Recollections From a Cognitive Model,CEUR Workshop Proceedings
+673,EXCLUDE,philosophy no foundation model,2020,"From allostatic agents to counterfactual cognisers: active inference, biological regulation, and the origins of cognition",Biology and Philosophy
+674,EXCLUDE,clinical cognitive assessment app,2025,Can Virtual AI Agents Improve Cognitive Assessment? A Virtual Reality Perspective,Proceedings of the 18th ACM International Con
+676,EXCLUDE,LLM math reasoning method,2025,Combining Meta-Knowledge and Schema for Enhanced Mathematical Reasoning,IEIR 2025 - Proceedings of the 4th Internatio
+678,INCLUDE,BDI cognitive agents GenAI planning,2025,Exploiting GenAI for Plan Generation in BDI Agents,Frontiers in Artificial Intelligence and Appl
+679,EXCLUDE,cognitive architectures no foundation-model,2025,Multi-Layered Cognitive Framework for Humanlike Cognition,2025 IEEE 5th International Conference on ICT
+681,INCLUDE,cognitive-architecture perception dataset foundation models,2024,Semantic Primes-Inspired Tacit Knowledge Dataset for Simulating Basic Perception Capabilities of Cognitive Architectures,Lecture Notes in Computer Science (including 
+682,EXCLUDE,LLM analogy reasoning study,2023,Beneath Surface Similarity: Large Language Models Make Reasonable Scientific Analogies after Structure Abduction,Findings of the Association for Computational
+684,EXCLUDE,manufacturing digital-twin app,2025,A Cognitive Digital Twin for Industry 5.0 Based on a Large Language Model Agent,ICHMS 2025 - 5th IEEE International Conferenc
+686,INCLUDE,STARS cognitive-agent LLM grounding,2024,Improving Knowledge Extraction from LLMs for Task Learning through Agent Analysis,Proceedings of the AAAI Conference on Artific
+689,EXCLUDE,security info-detection domain,2025,SHIELD: Distributed Cognitive-Based Multi-Agent Intelligent Detection and De-sensitization System for Sensitive Information,"Proceedings - 2025 China Automation Congress,"
+691,EXCLUDE,world-model method no architecture,2024,WorldGPT: Empowering LLM as Multimodal World Model,MM 2024 - Proceedings of the 32nd ACM Interna
+692,EXCLUDE,construction predictive analytics domain,2023,"Predictive Analytics Based on Digital Twins, Generative AI, and ChatGPT",Proceedings of World Multi-Conference on Syst
+694,EXCLUDE,LLM math reasoning method,2025,Knowledge-Centered Dual-Process Reasoning for Math Word Problems With Large Language Models,IEEE Transactions on Knowledge and Data Engin
+695,INCLUDE,LIDA architecture plus generative AI,2024,Generative AI Can Be Creative Too,Lecture Notes in Computer Science (including 
+696,EXCLUDE,programming multi-agent domain,2025,CodeSync: Multi-Agent System for Programming Assistance and Deterministic Thinking,Proceedings - 2025 2nd International Conferen
+698,EXCLUDE,XAI robustness cognitive-models survey,2024,"Improving deep learning with prior knowledge and cognitive models: A survey on enhancing explainability, adversarial robustness and zero-shot learning",Cognitive Systems Research
+700,EXCLUDE,medical QA domain app,2025,ExplainMed++: Generating Human-Centered Medical QA Summaries with Explanations,2025 International Conference on Artificial I
+703,INCLUDE,cognitive kernel agent LLM perception,2025,Cognitive Kernel: An Open-source Agent System towards Generalist Autopilots,Proceedings of the 2025 Annual Conference of 
+704,EXCLUDE,clinical assessment benchmark,2025,MoCA-Dialog: A Benchmark for Fine-Grained Evaluation of Large Language Models in Clinical Cognitive Assessment Dialogues,Proceedings - 2025 IEEE International Confere
+705,EXCLUDE,exploratory search HCI domain,2025,Navigating the Unknown: A Chat-Based Collaborative Interface for Personalized Exploratory Tasks,International Conference on Intelligent User 
+708,INCLUDE,cognitive-AI architecture generative neuro-symbolic,2025,Next-Generation AI Systems: From Cognitive Models to Real-World Impact,4th International Conference on Applied Artif
+709,EXCLUDE,cognitive plausibility study,2025,Which AI Sees Like Us? Investigating the Cognitive Plausibility of Language and Vision Models via Eye-Tracking in Human-Robot Interaction,Sensors
+710,EXCLUDE,physics education domain,2025,Atomic Learning Objectives and LLMs Labeling: A High-Resolution Approach for Physics Education,15th International Conference on Learning Ana
+711,EXCLUDE,spatial cognition benchmark,2025,DOES SPATIAL COGNITION EMERGE IN FRONTIER MODELS?,13th International Conference on Learning Rep
+712,INCLUDE,multi-memory planning agent LLM,2025,M2PA: A Multi-Memory Planning Agent for Open Worlds Inspired by Cognitive Theory,Proceedings of the Annual Meeting of the Asso
+715,INCLUDE,metacognition/metaknowledge in LLMs,2025,Eliciting metaknowledge in Large Language Models,Cognitive Systems Research
+716,EXCLUDE,dual-process conceptual reframing,2025,Not an Illusion but a Manifestation: Understanding Large Language Model Reasoning Limitations Through Dual-Process Theory,Applied Sciences (Switzerland)
+717,EXCLUDE,navigation domain app,2024,Two-Way Human-Like Navigation System Using Large Language Models,HAI 2024 - Proceedings of the 12th Internatio
+721,INCLUDE,adaptive cognitive architecture LLM agents,2025,Feature Engineering for Agents: An Adaptive Cognitive Architecture for Interpretable ML Monitoring,Proceedings of the International Joint Confer
+722,EXCLUDE,wearable working-memory no foundation-model,2025,ProMemAssist: Exploring Timely Proactive Assistance Through Working Memory Modeling in Multi-Modal Wearable Devices,UIST 2025 - Proceedings of the 38th Annual AC
+723,EXCLUDE,cybersecurity education domain,2025,Blockchain Technology and Sociotechnical Cybersecurity for Educational and Learning Ecosystems,2025 IEEE International Conference on Emergin
+724,INCLUDE,LLM plus cognitive architecture hallucination-verification,2025,Filtering Hallucinations and Omissions in Large Language Models through a Cognitive Architecture,2025 IEEE Symposium on Computational Intellig
+725,INCLUDE,metacognitive learning for LLMs,2024,Toward Autonomy: Metacognitive Learning for Enhanced AI Performance,AAAI Spring Symposium - Technical Report
+726,EXCLUDE,LLM social-reasoning study,2025,"Scaling LLMs' Social Reasoning: Sprinkle Cognitive ""Aha Moment"" into Fundamental Long-thought Logical Capabilities",Proceedings of the Annual Meeting of the Asso
+727,EXCLUDE,EMI security domain app,2025,EMI-Agent: A Cognitive Agent for Natural-Language-Guided Exploration of Sensor Electromagnetic Vulnerabilities,Proceedings - 2025 21st International Confere
+728,EXCLUDE,cyber deception security domain,2025,Cognitive Cyber Deception: An Agentic AI Framework for Dynamically Adaptive Collaborative Honeypots,2nd Asian Conference on Intelligent Technolog
+730,EXCLUDE,grounding conceptual no architecture,2024,The Need for Grounding in LLM-based Dialogue Systems,1st Workshop on Bridging Neurons and Symbols 
+732,EXCLUDE,clinical training domain app,2024,Virtual Standardized LLM-AI Patients for Clinical Practice,Annual Review of CyberTherapy and Telemedicin
+733,EXCLUDE,outdoor navigation domain app,2025,MMCNav: MLLM-empowered Multi-agent Collaboration for Outdoor Visual Language Navigation,ICMR 2025 - Proceedings of the 2025 Internati
+737,EXCLUDE,disaster social simulation domain,2025,Multi-Stage Simulation of Residents’ Disaster Risk Perception and Decision-Making Behavior: An Exploratory Study on Large Language Model-Driven Social–Cognitive,Systems
+740,EXCLUDE,assessment multi-agent domain,2025,MACS: A Cognitive Diversity Multi-Agent Consensus Framework for Bias Mitigation in Automated Evaluation Systems,Proceedings of the International Conference o
+741,EXCLUDE,reverse engineering domain,2025,Large Language Models as Visualization Agents for Immersive Binary Reverse Engineering,Proceedings - 2025 IEEE Working Conference on
+743,EXCLUDE,dementia screening medical,2025,Agentic artificial intelligence in cognitive screening: A translational roadmap for dementia care,Journal of Alzheimer's Disease Reports
+746,EXCLUDE,philosophy conceptual essay,2025,Disembodied Meaning? Generative AI and Understanding,Forum for Linguistic Studies
+752,EXCLUDE,law volume introduction,2025,AI Agents in Law’s Empire: An Introduction to Law and the AI–Human Relationship,"Artificial Intelligence, Humans and the Law"
+753,EXCLUDE,code security domain app,2025,Enhancing Code Security Specification Detection in Software Development with LLM,2025 7th International Conference on Informat
+754,INCLUDE,Bayesian ToM cognitive model LLM,2025,Understanding Epistemic Language with a Language-augmented Bayesian Theory of Mind,Transactions of the Association for Computati
+755,INCLUDE,bootstrapping cognitive agents with LLM,2024,Bootstrapping Cognitive Agents with a Large Language Model,Proceedings of the AAAI Conference on Artific
+759,EXCLUDE,manufacturing cognitive-agent app,2025,Large language model-enabled cognitive agent for self-aware manufacturing,Journal of Manufacturing Systems
+760,EXCLUDE,programming education domain,2025,CoderAgent: Simulating Student Behavior for Personalized Programming Learning with Large Language Models,IJCAI International Joint Conference on Artif
+761,EXCLUDE,emotion dataset domain,2025,CAPE: A Chinese Dataset for Appraisal-based Emotional Generation using Large Language Models,2025 Annual Conference of the Nations of the 
+762,INCLUDE,dual-process neuro-symbolic QA LLM,2025,"Speaking in Words, Thinking in Logic: A Dual-Process Framework in QA Systems",Proceedings of the International Joint Confer
+763,EXCLUDE,eye-tracking analysis domain,2025,Multimodal Behavioral Patterns Analysis with Eye-Tracking and LLM-Based Reasoning,ICMI 2025 - Proceedings of the 27th Internati
+767,EXCLUDE,SAR cognitive-architecture no foundation-model,2025,Towards Trustworthy and Explainable Socially Assistive Robots: A Cognitive Architecture for Dietary Guidance,2025 IEEE International Conference on Simulat
+768,EXCLUDE,software PM domain app,2025,Cognitive Agents Powered by Large Language Models for Agile Software Project Management,Electronics (Switzerland)
+769,EXCLUDE,domain deepfake detection app,2025,Enhancing AAV-Based Industrial Systems With Cognitive IoT: Detecting AI-Manipulated Visual Data Using Graph-Based Methods,IEEE Internet of Things Journal
+771,EXCLUDE,conceptual linguistics essay,2025,CONCEPTUALIZING THE SPACE: HOW NATURAL AND ARTIFICIAL COGNITIVE AGENTS USE TOPOLOGICAL SEMANTICS SCHEMES (BASED ON DESCRIPTIONS OF PAINTINGS FROM THE HERMITAGE ,Epistemology and Philosophy of Science
+773,EXCLUDE,consciousness framework no architecture,2025,"Further N-Frame networking dynamics of conscious observer-self agents via a functional contextual interface: predictive coding, double-slit quantum mechanical e",Frontiers in Computational Neuroscience
+775,EXCLUDE,conceptual misalignment framework,2024,Deciphering AI Decision-Making: A Generalizable Framework of Human-AI Misalignment,Computing in Civil Engineering 2024: Artifici
+777,EXCLUDE,domain trajectory prediction app,2025,GameTraj-LLM: Stackelberg Game-Theoretic Trajectory Prediction for Pedestrian with Large Language Model,2025 9th CAA International Conference on Vehi
+778,EXCLUDE,general multi-agent LLM method,2025,OSC: Cognitive Orchestration through Dynamic Knowledge Alignment in Multi-Agent LLM Collaboration,EMNLP 2025 - 2025 Conference on Empirical Met
+780,EXCLUDE,medical domain application,2025,How to make Medical Large Language Models better utilize medical cases,2025 4th International Conference on Electron
+784,EXCLUDE,general agentic search method,2025,Multi-agent Architecture Search via Agentic Supernet,Proceedings of Machine Learning Research
+786,EXCLUDE,education domain application,2025,Representing and Tracing Students' Cognitive Processes in Project-Based Learning through the Function-Behavior-Structure Framework and Knowledge Graphs,"Proceedings - 2025 IEEE Smart World Congress,"
+787,EXCLUDE,conceptual neuro-symbolic essay,2024,"A functional contextual, observer-centric, quantum mechanical, and neuro-symbolic approach to solving the alignment problem of artificial general intelligence: ",Frontiers in Computational Neuroscience
+788,EXCLUDE,HCI virtual agent study,2025,Exploring Familiarity and Knowledgeability in Conversational Virtual Agents,ACM Transactions on Applied Perception
+789,EXCLUDE,education epistemic study,2024,WIP: Engineering Class Students' Epistemic Cognition when Interacting with Generative AI,Proceedings - Frontiers in Education Conferen
+791,EXCLUDE,panel no architecture,2025,"Augmented Cognition Meets AI: Enhancing Human Performance with Real-Time, Adaptive, and Trustworthy Intelligence",Proceedings of the Human Factors and Ergonomi
+794,INCLUDE,cognitive IBL model vs LLM,2024,Predicting and Understanding Human Action Decisions: Insights from Large Language Models and Cognitive Instance-Based Learning,Proceedings of the AAAI Conference on Human C
+795,EXCLUDE,legal RAG assistant app,2025,GAIus: Combining Genai with Legal Clauses Retrieval for Knowledge-Based Assistant,International Conference on Agents and Artifi
+796,EXCLUDE,LLM metacognition eval no arch,2025,"Large Language Models Have Intrinsic Meta-Cognition, but Need a Good Lens",EMNLP 2025 - 2025 Conference on Empirical Met
+797,EXCLUDE,surveillance VLM domain app,2025,Agent-driven Cognitive Object/Motion/Environment Hybrid Vision-Language Model on CCTV Surveillance-Video Bigdata,2025 3rd International Conference on Foundati
+798,INCLUDE,robotic architecture LLM planning perception,2024,"One to rule them all: natural language to bind communication, perception and action",CEUR Workshop Proceedings
+799,EXCLUDE,NLP emotion domain app,2025,Emotion Change Reasoning in Chinese Multi-Turn Dialogue via Multi-Task Parameter-Efficient Fine-Tuning of Large Language Models,International Journal of Humanoid Robotics
+800,EXCLUDE,neuromorphic hardware,2025,Bio-Inspired Computing with Emerging Devices: Bridging 2D Materials and Neuromorphic Architectures,Proceedings of IEEE Computer Society Annual S
+802,INCLUDE,cognitive model memory augments LLM,2025,Using Memory Contents of a Cognitive Model for Prompt Augmentation of a Large Language Model,2025 IEEE Conference on Cognitive and Computa
+803,EXCLUDE,LLM reasoning distillation method,2025,Enhancing Reasoning Abilities of Small LLMs with Cognitive Alignment,EMNLP 2025 - 2025 Conference on Empirical Met
+806,EXCLUDE,brain decoding neuroscience,2024,Neuro-Vision to Language: Enhancing Brain Recording-based Visual Reconstruction and Language Interaction,Advances in Neural Information Processing Sys
+807,INCLUDE,cognition-inspired agentic ToM LLM,2025,Agentic-ToM: Cognition-Inspired Agentic Processing For Enhancing Theory of Mind Reasoning in Large Language Models,EMNLP 2025 - 2025 Conference on Empirical Met
+809,EXCLUDE,education cognitive diagnosis,2025,Distributed Cognitive Diagnosis Through Multi-Agent Reinforcement and Reasoning,IEIR 2025 - Proceedings of the 4th Internatio
+810,INCLUDE,neurosymbolic image schemas grounding LLM,2025,Grounding Agent Reasoning in Image Schemas: A Neurosymbolic Approach to Embodied Cognition,Proceedings of the International Joint Confer
+811,EXCLUDE,conversational meta-learning weak FM,2025,Adaptive Prompt Intelligence: Towards Self-Evolving Conversational Agents,2025 IEEE 5th International Conference on ICT
+813,INCLUDE,ACT-R cognitive model LLM,2025,LLM-ACTR: from Cognitive Models to LLMs in Manufacturing Solutions,AAAI Spring Symposium - Technical Report
+814,INCLUDE,reflective architecture LLM metacognition,2025,A Reflective Architecture for LLM-Based Systems,Proceedings - 2025 IEEE International Confere
+818,EXCLUDE,grounding essay healthcare,2025,Relevance of Grounding AI for Health Care,Studies in Health Technology and Informatics
+819,EXCLUDE,UAV trajectory domain,2025,Generative Models for Incremental Learning to Advance Autonomous Agent Evolution: A 3D Perspective,European Signal Processing Conference
+820,INCLUDE,cognitive robot OS modular LMM,2025,CognitiveOS: Large Multimodal Model Based System to Endow Any Type of Robot with Generative AI,Proceedings - IEEE International Conference o
+821,EXCLUDE,embodied AI survey feature,2025,Embodied AI: From LLMs to World Models [Feature],IEEE Circuits and Systems Magazine
+822,EXCLUDE,design cognition education,2025,"BOARD # 263: IUSE: Research on Generative Design Thinking: Design Cognition, Tools, and Education","ASEE Annual Conference and Exposition, Confer"
+823,EXCLUDE,explainability legal no arch,2025,Epistemic trustworthiness of AI: (the necessity of) explainable AI in legal decision-making,Research Handbook on Epistemologies of Law
+824,INCLUDE,cognitive architecture episodic memory robots,2024,Synthesizing the temporal self: Robotic models of episodic and autobiographical memory,Philosophical Transactions of the Royal Socie
+826,INCLUDE,dual-process cognitive architecture LLM,2024,Language-Conditioned Robotic Manipulation with Fast and Slow Thinking,Proceedings - IEEE International Conference o
+827,EXCLUDE,analogical reasoning benchmark,2024,ARN: Analogical Reasoning on Narratives,Transactions of the Association for Computati
+833,INCLUDE,hierarchical memory architecture LLM MAS,2025,"A Hybrid, Multi-Layered Memory Architecture for Collaborative Reasoning in Multi-Agent Systems",2025 3rd International Conference on Foundati
+835,INCLUDE,cognitive architecture LLM intention,2025,Intention Reading Architecture for Virtual Agents,Lecture Notes in Computer Science
+837,EXCLUDE,LLM programmatic reasoning method,2025,Spatiotemporal-Modal Cognitive Agents Based on Programmatic Reasoning,2025 6th International Conference on Computer
+839,EXCLUDE,agentic AI finance review,2025,A Review of Agentic Artificial Intelligence: Power of Self-Driven AI in the Future of Financial Autonomy and Enhanced Customer Engagement,Proceedings of 3rd International Conference o
+841,EXCLUDE,cognitive model incidental FM,2024,Learning a Structural Causal Model for Intuition Reasoning in Conversation,IEEE Transactions on Knowledge and Data Engin
+842,EXCLUDE,conceptual agent abstractions,2024,The Cognitive Hourglass: Agent Abstractions in the Large Models Era,Proceedings of the International Joint Confer
+843,INCLUDE,eBICA cognitive architecture LLM,2024,A Socially Acceptable Conversational Agent Based on Cognitive Modeling and Machine Learning,Studies in Computational Intelligence
+844,EXCLUDE,reasoning algorithms weak FM,2025,Disentangling Belief and Inference: Adaptive Algorithms for Individual Human Reasoning,Frontiers in Artificial Intelligence and Appl
+845,INCLUDE,cognitive interaction layers neurosymbolic LLM,2025,Cognitive Interaction Layers for Neuro-Symbolic AI,CEUR Workshop Proceedings
+846,EXCLUDE,nuclear equipment RAG agent,2025,Development of an Intelligent Agent for Optimizing Alarm Deviation in Equipment Health Models Based on Large Language Models,2025 5th International Conference on Intellig
+847,EXCLUDE,AGI survey,2025,"Path to Artificial General Intelligence: Past, present, and future",Annual Reviews in Control
+849,INCLUDE,foundation models cognitive architectures neurosymbolic,2025,"Cognitive Neurosymbolic Artificial Intelligence for Complex Decision-Making: Integrating Foundation Models, Cognitive Architectures, and Knowledge",IEEE Intelligent Systems
+850,EXCLUDE,ToM benchmark no arch,2025,ToM-SSI: Evaluating Theory of Mind in Situated Social Interactions,EMNLP 2025 - 2025 Conference on Empirical Met
+852,EXCLUDE,general MARL LLM method,2025,Enhancing Multi-Agent Systems via Reinforcement Learning with LLM-Based Planner and Graph-Based Policy,Proceedings - IEEE International Conference o
+856,EXCLUDE,education agent application,2025,Xiaohang: Research on the Construction and Application of Educational Intelligent Agents Based on Large Language Models,Proceedings - Frontiers in Education Conferen
+857,INCLUDE,cognitive architecture function-calling LLMs,2025,A Comparative Evaluation of Function-Calling LLMs in a Cognitive Architecture,Conference Proceedings - 2025 IEEE Internatio
+858,INCLUDE,ego-state multi-agent architecture memory,2025,TACLA: An LLM-Based Multi-Agent Tool for Transactional Analysis Training in Education,Proceedings - International Conference on Too
+860,EXCLUDE,cyber threat review,2025,Artificial Intelligence in Cyber Threat Intelligence: A Systematic Review of Techniques and Applications,ICCR 2025 - 3rd International Conference on C
+861,INCLUDE,neurosymbolic VLM verification architecture,2025,Cognitive Consistency Verification: Neuro-Symbolic Approach for Mitigating VLM Hallucination,Proceedings of the IEEE International Confere
+862,INCLUDE,cognitive LLM working memory,2024,Modeling the Driver's Lane-Changing Decision Under the Influence of the Blind Zone Image of an Intelligent Vehicle: A Practice Based on Cognitive-Driven Large L,Proceedings of the 2024 8th CAA International
+865,EXCLUDE,position paper no architecture,2025,Position Paper: Large Language Models need Episodic Memory,Proceedings of the International Joint Confer
+871,EXCLUDE,conceptual embodied cognition essay,2025,Mutual human-robot understanding for a robot-enhanced society: the crucial development of shared embodied cognition,Frontiers in Artificial Intelligence
+872,EXCLUDE,group decision-making survey,2025,"Recent Advances, Critical Reflections, and Future Directions in Large-Scale Group Decision-Making: A Comprehensive Survey","IEEE Transactions on Systems, Man, and Cybern"
+874,EXCLUDE,CoT multimodal reasoning method,2024,Strengths-Leverage Chain-of-Thought: Enhancing Multimodal Reasoning with LLM and LMM,Proceedings - 2024 International Conference o
+876,EXCLUDE,business cognitive bias study,2025,Mediating Cognitive Biases in Business Decisions Using LLMS,Proceedings - 2025 IEEE Conference on Artific
+877,EXCLUDE,LLM cognitive evaluation study,2025,The AI Imitation Game: A Cognitive Comparison of Mimicry in Large Language Models,Proceedings - 2025 IEEE International Confere
+878,INCLUDE,cognitive-RAG framework planning memory,2025,A Cognitive-RAG Framework for Task Planning and Decision Generation,"Proceedings - 2025 China Automation Congress,"
+880,EXCLUDE,embodied QA benchmark agent,2025,CityEQA: A Hierarchical LLM Agent on Embodied Question Answering Benchmark in City Space,EMNLP 2025 - 2025 Conference on Empirical Met
+884,INCLUDE,LLM cognitive agents RAG social,2025,The Irrational LLM: Implementing Cognitive Agents with Weighted Retrieval-Augmented Generation,Proceedings - International Conference on Com
+885,EXCLUDE,cognitive reasoning benchmark,2024,OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI,Advances in Neural Information Processing Sys
+886,EXCLUDE,dual-process prompting method,2025,Prompting Techniques for Reducing Social Bias in LLMs through System 1 and System 2 Cognitive Processes,International Conference Recent Advances in N
+888,EXCLUDE,data science LLM training framework,2025,Cognitive Architectures for Data Science: Integrating Continual Pre-training with Agentic LLM,2025 4th International Conference on Cognitiv
+892,EXCLUDE,deterministic agentic workflow method,2025,Architecting Deterministic Agentic Workflows for Reliable Data Understanding Using LLMs,Proceedings - 2025 IEEE Annual Congress on Ar
+900,EXCLUDE,mental health chatbot app,2025,MindHaven: Retrieval-Augmented Large Language Models for AI-Powered Mental Health Support,Proceedings of the 16th Student Research Conf
+901,INCLUDE,cognitive-agentic architecture LLM self-correction,2025,AI-Enhanced Rescue Drone with Multi-Modal Vision and Cognitive Agentic Architecture,AI (Switzerland)
+902,INCLUDE,metacognition-driven framework LLM,2025,R-CHAR: A Metacognition-Driven Framework for Role-Playing in Large Language Models,EMNLP 2025 - 2025 Conference on Empirical Met
+903,EXCLUDE,electricity bidding domain app,2025,An Explainable Cognitive Bidding Agent for Electricity Markets: A Framework for Zero-Shot Generalization using Large Language Models,2025 IEEE 9th Conference on Energy Internet a
+906,EXCLUDE,belief manipulation vulnerability study,2025,MINDSTATE: Systematic Analysis of Belief Manipulation Vulnerabilities in Multi-Agent LLM Networks,2025 IEEE MIT Undergraduate Research Technolo
+908,EXCLUDE,position paper bio-inspired robotics,2025,Foundational Models for Robotics need to be made Bio-Inspired,Proceedings of IEEE Workshop on Advanced Robo
+909,INCLUDE,metacognitive RAG LLM,2024,Metacognitive Retrieval-Augmented Large Language Models,WWW 2024 - Proceedings of the ACM Web Confere
+910,EXCLUDE,ChatGPT review,2025,"ChatGPT’s Expanding Horizons and Transformative Impact Across Domains: A Critical Review of Capabilities, Challenges, and Future Directions",Computers
+911,EXCLUDE,LLM alignment position,2023,"Taming Simulators: Challenges, Pathways and Vision for the Alignment of Large Language Models",Proceedings of the Inaugural 2023 Summer Symp
+913,EXCLUDE,neural nets RPM comparison,2025,Comparative Analysis of Neural Network Architectures for Raven's Progressive Matrices Pattern Recognition,2025 3rd International Conference on Foundati
+914,EXCLUDE,linguistics container logic weak FM,2025,Teaching in the Zone: The Vygotskyan Turn Meets Educational AI,2025 5th International Conference on Educatio
+915,EXCLUDE,call center GenAI app,2025,Transforming the Working Style of Call Center Agents Through Generative AI,International Journal of Advanced Computer Sc
+917,INCLUDE,cognitive-hierarchical architecture memory planning,2025,MemAGent: A Cognitive-Hierarchical Multi-Agent System for Long-Form Story Generation,2025 3rd International Conference on Computer
+919,INCLUDE,cognitive framework memory beliefs values,2025,"BEE: Belief-Value-Aligned, Explainable, and Extensible Cognitive Framework for Conversational Agents",IVA 2025 - Proceedings of the 25th ACM Intern
+921,EXCLUDE,finance crash prediction app,2025,Predicting Portfolio Price Crashes in the Vietnamese Stock Market Using Large Language Models and Deep Learning Models with Temporal Relational Reasoning,Proceedings - International Conference on Kno
+923,EXCLUDE,agriculture harvesting app,2025,KnowFruitHarvest: An Intelligent Picking Decision and Abnormal Recovery System Based on Knowledge-aware Multimodal Large Language Models,2025 5th International Conference on Network 
+924,EXCLUDE,cognitive architecture no FM,2024,Simulation of Non-Primate Intelligence vs Human Intelligence vs Superhuman AGI vs Alien-Like AGI,Lecture Notes in Computer Science (including 
+925,EXCLUDE,conceptual agent safety position,2025,Safe Systems with Unsafe Agents: Challenges and Opportunities,Proceedings of the International Joint Confer
+926,EXCLUDE,driving interpretability app,2024,Enhancing Interpretability of Autonomous Driving via Human-Like Cognitive Maps: A Case Study on Lane Change,IEEE Transactions on Intelligent Vehicles
+927,EXCLUDE,education knowledge graph no arch,2025,"An Architectural Framework for Educational Knowledge Graphs (IEEE P2807.6): Ontology Design, Llm Integration, and Adaptive Learning Applications",Proceedings - 2025 IEEE Conference on Artific
+929,EXCLUDE,active inference philosophy no FM,2024,How preferences enslave attention: calling into question the endogenous/exogenous dichotomy from an active inference perspective,Phenomenology and the Cognitive Sciences
+930,EXCLUDE,radiology domain soar falsematch,2025,Navigating the AI revolution: will radiology sink or soar?,Japanese Journal of Radiology
+931,EXCLUDE,psychology face detection study,2025,Domain-general object recognition predicts human ability to tell real from AI-generated faces.,Journal of Experimental Psychology: General
+933,EXCLUDE,LLM testing position no arch,2023,Leveraging Cognitive Science for Testing Large Language Models,Proceedings - 5th IEEE International Conferen
+935,EXCLUDE,multi-agent systems survey,2026,Multi-Agent Systems: From Classical Paradigms to Large Foundation Model-Enabled Futures,IEEE-CAA JOURNAL OF AUTOMATICA SINICA
+936,EXCLUDE,software engineering agents column,2026,From Large Language Models to Reasoning and Agents,IEEE SOFTWARE
+937,INCLUDE,LLMs knowledge source cognitive agents,2023,Exploiting Language Models as a Source of Knowledge for Cognitive Agents,"PROCEEDINGS OF THE 2023 AAAI FALL SYMPOSIA, V"
+938,EXCLUDE,O-RAN telecom domain,2026,Toward Autonomous O-RAN: A Multi-Scale Agentic AI Framework for Real-Time Network Control and Management,IEEE NETWORK
+939,EXCLUDE,remote sensing grounding domain,2026,DeepGrounder: Generalized Reasoning for MLLM-Based Remote Sensing Visual Grounding,IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SE
+940,EXCLUDE,GNSS signal domain,2026,Few-Sample GNSS Signal LOS/NLOS Identification via Physical-Semantic Distillation From Large Language Models,IEEE SIGNAL PROCESSING LETTERS
+941,EXCLUDE,remote sensing VLM survey,2026,Data-Driven Vision-Language Models for Remote Sensing: A survey,IEEE GEOSCIENCE AND REMOTE SENSING MAGAZINE
+942,EXCLUDE,robot navigation domain,2026,DS-LABRNav: Land-Air Bimodal Robot Navigation With Traversable Obstacles Base on Vision-Language Model,IEEE ROBOTICS AND AUTOMATION LETTERS
+943,EXCLUDE,human sensing workshop,2025,Generative AI and Foundation Models for Human Sensing (GenAI4HS),COMPANION OF THE 2025 ACM INTERNATIONAL JOINT
+945,EXCLUDE,robotic manipulation planning method,2026,Hierarchical Planning With Object Keypoint-Axis Constraints for Robotic Manipulation: Proposing the PORM Framework,IEEE ROBOTICS \& AUTOMATION MAGAZINE
+946,EXCLUDE,remote sensing segmentation domain,2026,Referring Remote Sensing Image Segmentation With Positive-Incentive Visual Adaptation and Logical Reasoning,IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EA
+947,EXCLUDE,argumentation dialogue benchmark,2026,Benchmarking Explainable Argumentation Dialogue via Freeman's Theory,IEEE INTELLIGENT SYSTEMS
+949,EXCLUDE,enactivism philosophy no FM,2021,Computational enactivism under the free energy principle,SYNTHESE
+950,EXCLUDE,LLM AGI philosophy essay,2025,The Potential of Large Language Models to Achieve Artificial General Intelligence,TOPOI-AN INTERNATIONAL REVIEW OF PHILOSOPHY
+951,EXCLUDE,reasoning model training method,2026,Reasoning Trace Length is an Important Factor in Training Reasoning Models,IEEE TRANSACTIONS ON AUDIO SPEECH AND LANGUAG
+953,EXCLUDE,power knowledge benchmark,2026,PowerIntelBench: Benchmarking Evidence-Grounded and Explainable Reasoning in Power Knowledge Management,IEEE ACCESS
+955,EXCLUDE,networking RL domain,2026,Large Language Model-Enhanced Reinforcement Learning for Low-Altitude Economy Networking,IEEE COMMUNICATIONS MAGAZINE
+956,EXCLUDE,wireless CoT domain,2026,Chain-of-Thought for Large Language Model-Empowered Wireless Communications,IEEE COMMUNICATIONS MAGAZINE
+957,EXCLUDE,remote sensing VLM RL,2026,Effective Reinforcement Learning for Remote Sensing Vision-Language Models via Supervised Knowledge Injection,IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SE
+958,EXCLUDE,neurosymbolic KG verification no cogarch,2026,Symbolic-in-the-Loop: Leveraging Knowledge Graph Engineering to Ensure High-Assurance Generative Artificial Intelligence Outcomes,IEEE INTERNET COMPUTING
+959,EXCLUDE,misinformation multi-agent domain,2026,Misinformation Detection via LLM-Based Expert Discussion Network,IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYS
+961,EXCLUDE,ride-hailing dispatching domain,2026,LLM-ODDR: A Large Language Model Framework for Joint Order Dispatching and Driver Repositioning,IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATI
+962,EXCLUDE,driving style recognition domain,2026,Driving Style Recognition Like an Expert Using Semantic Privileged Information From Large Language Models,IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATI
+963,EXCLUDE,LLM judge bias study,2026,Evaluating and Mitigating LLM-as-a-Judge Bias in Communication Systems,IEEE NETWORK
+964,EXCLUDE,wireless network agents domain,2026,LLM-Driven Collaborative Agents for Wireless Network Management,IEEE NETWORK
+965,EXCLUDE,poultry disease extraction domain,2026,A Comparative Study of Small and Large Language Models for Low-Resource Poultry Disease Knowledge Extraction,IEEE ACCESS
+966,EXCLUDE,education epistemic prompting no arch,2026,Knowing When to Answer: Prompting Epistemically Responsible Behaviors in Large Language Models,IEEE ACCESS
+967,EXCLUDE,AV traffic compliance domain,2026,AutoLegal: Toward Universal Traffic Compliance for Autonomous Vehicles Through Knowledge-Enhanced Language Models and Signal Temporal Logic,IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATI
+968,EXCLUDE,LLM agents review,2026,From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review,IEEE ACCESS
+969,EXCLUDE,robotic control domain,2026,LLM-Guided Adaptive Compensator: Bringing Adaptivity to Robotic Feedback Control With Large Language Model,IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND E
+971,EXCLUDE,numerical reasoning benchmark,2026,SciNumQA: A Benchmark for Complex Numerical Reasoning Over Scientific Tables,IEEE ACCESS
+972,EXCLUDE,modular LLM hallucination pipeline,2026,Mitigating Hallucination in Multimodal Information Systems: A Comparative Analysis of Modular LLM Architectures,IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYS
+973,EXCLUDE,audio reasoning domain,2026,Temporal Audio Narratives: Event Reasoning Through Large Language Models,IEEE ACCESS
+974,EXCLUDE,urban event KG domain,2026,A Generalized Spatio-Temporal Causal Knowledge Graph Framework With Large Language Model-Enhanced Reasoning for Urban Event Management,IEEE ACCESS
+975,EXCLUDE,EEG visual similarity neuroscience,2024,Perceptual Visual Similarity from EEG: Prediction and Image Generation,PROCEEDINGS OF THE 32ND ACM INTERNATIONAL CON
+976,EXCLUDE,outdoor navigation RAG domain,2026,G-DRAGON: Geospatial Reasoning and Dynamic Planning for Retrieval-Augmented Outdoor Navigation,IEEE ROBOTICS AND AUTOMATION LETTERS
+977,EXCLUDE,6G satellite domain app,2026,A Think-Do Architecture for Cognitive Autonomy: LLM-Driven Agentic AI for Sustainable Resource Orchestration in 6G Satellite Networks,IEEE NETWORK
+978,EXCLUDE,power grid monitoring domain,2026,Power-Q: A Hybrid Screener-Analyst Framework Using LLM Agents for Real-Time Grid Monitoring and Diagnostics,IEEE ACCESS
+979,EXCLUDE,6G networks ReAct domain,2026,Reasoning and Acting (ReAct) With Multimodal LLMs: A Framework for Intent Driven 6G Networks,IEEE OPEN JOURNAL OF THE COMMUNICATIONS SOCIE
+980,EXCLUDE,robotic active perception method,2026,Active Perception Strategies for Multimodal Integration and Latent Information Reasoning in Robotic Systems,IEEE SYSTEMS JOURNAL
+982,INCLUDE,cognitive architectures generative models VSA,2023,Bridging Cognitive Architectures and Generative Models with Vector Symbolic Algebras,"PROCEEDINGS OF THE 2023 AAAI FALL SYMPOSIA, V"
+985,INCLUDE,cognitive neuro-symbolic reasoning LLM,2023,Enabling High-Level Machine Reasoning with Cognitive Neuro-Symbolic Systems,"PROCEEDINGS OF THE 2023 AAAI FALL SYMPOSIA, V"
+988,EXCLUDE,clinical summarization domain,2026,GoT-HCS: Graph-of-Thoughts Enhanced Hierarchical Reasoning for Automated Clinical Hospital Course Summarization,IEEE ACCESS
+989,INCLUDE,fusion cognitive architectures generative models,2023,Combining Minds and Machines: Investigating the Fusion of Cognitive Architectures and Generative Models for General Embodied Intelligence,"PROCEEDINGS OF THE 2023 AAAI FALL SYMPOSIA, V"
+990,EXCLUDE,remote sensing scene graph,2026,R2C-MGR2L: Enhancing Multigranularity Relational Representation in Dual-Temporal Optical Remote Sensing Images Through LLM-Based Scene Graph Generation,IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SE
+991,EXCLUDE,multi-hop question generation,2026,Beyond Observations: Improving Multi-Hop Question Generation via Bridging Dependency-Enhanced Counterfactual Supporting,IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYS
+992,EXCLUDE,wireless agentic AI domain,2026,"From Agentification to Self-Evolving Agentic AI for Wireless Networks: Concepts, Approaches, and Future Research Directions",IEEE COMMUNICATIONS MAGAZINE
+994,INCLUDE,ICARUS cognitive architecture generative models,2023,On Using Generative Models in a Cognitive Architecture for Embodied Agents,"PROCEEDINGS OF THE 2023 AAAI FALL SYMPOSIA, V"
+995,EXCLUDE,embodied VLM affordance domain,2026,Embodied Spatial Affordance: Spatial-Aware Affordance Learning for Embodied Navigation and Manipulation,IEEE TRANSACTIONS ON IMAGE PROCESSING
+996,EXCLUDE,geographic QA KG domain,2026,GNLM: A Graph-Native Language Model With Road Name Address-Based Spatial Reasoning for Geographic Question Answering,IEEE ACCESS
+998,EXCLUDE,HRI LLM position paper,2024,Scarecrows in Oz: The Use of Large Language Models in HRI,ACM TRANSACTIONS ON HUMAN-ROBOT INTERACTION
+999,EXCLUDE,philosophy of language essay,2025,Do language models lack communicative intentions?,SYNTHESE
+1002,EXCLUDE,activity recognition domain,2026,Reasoning-Enhanced Few-Shot Human Activity Recognition via Visual Reinforcement Learning,IEEE ACCESS
+1003,INCLUDE,LLMs cognitive architectures integration,2023,Synergistic Integration of Large Language Models and Cognitive Architectures for Robust AI: An Exploratory Analysis,"PROCEEDINGS OF THE 2023 AAAI FALL SYMPOSIA, V"
+1005,EXCLUDE,digital twins physical AI vision,2026,FROM PASSIVE MIRRORS TO ACTIVE AGENTS: Holonic Digital Twins for Physical Artificial Intelligence Over Networks,IEEE VEHICULAR TECHNOLOGY MAGAZINE
+1006,EXCLUDE,UAV object detection domain,2026,DKARNet: Prompt-Guided Knowledge-Driven Multimodal Reasoning Network for UAV Object Detection,IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EA
+1007,INCLUDE,cognitive agents knowledge acquisition LLMs,2023,Automating Knowledge Acquisition for Content-Centric Cognitive Agents Using LLMs,"PROCEEDINGS OF THE 2023 AAAI FALL SYMPOSIA, V"
+1008,EXCLUDE,embodiment theory no FM,2023,Growing An Embodied Generative Cognitive Agent,"PROCEEDINGS OF THE 2023 AAAI FALL SYMPOSIA, V"
+1009,EXCLUDE,agriculture weed monitoring app,2024,Cognitive Computing Advancements: Improving Precision Crop Protection through UAV Imagery for Targeted Weed Monitoring,REMOTE SENSING
+1011,INCLUDE,LLM-based cognitive architecture proposal,2023,A Proposal for a Language Model Based Cognitive Architecture,"PROCEEDINGS OF THE 2023 AAAI FALL SYMPOSIA, V"
+1012,EXCLUDE,conceptual trustworthiness framework,2026,ACT: A Conceptual Framework for Understanding and Controlling Trustworthiness in Controllable AI,IEEE ACCESS
+1014,EXCLUDE,AI-mediated learning study,2026,"Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts",COMPUTERS AND EDUCATION: ARTIFICIAL INTELLIGE
+1015,EXCLUDE,robot companion demo application,2025,Hey Miro! Multimodal Interaction with an Animal-like Robot Companion with Conversational Abilities,2025 20TH ACM/IEEE INTERNATIONAL CONFERENCE O
+1017,EXCLUDE,concept representation essay,2024,Why concepts are (probably) vectors,TRENDS IN COGNITIVE SCIENCES
+1018,EXCLUDE,cognitive architecture no FM,2024,The emergence of compositionality in a brain-inspired cognitive architecture,COGNITIVE SYSTEMS RESEARCH
+1021,INCLUDE,cognitive architecture generative agents social,2023,Psychologically-Valid Generative Agents: A Novel Approach to Agent-Based Modeling in Social Sciences,"PROCEEDINGS OF THE 2023 AAAI FALL SYMPOSIA, V"
+1022,INCLUDE,Common Model Cognition generative AI,2023,A Neuro-Mimetic Realization of the Common Model of Cognition via Hebbian Learning and Free Energy Minimization,"PROCEEDINGS OF THE 2023 AAAI FALL SYMPOSIA, V"
+1024,INCLUDE,cognitive architecture LLM memory metacognition,2026,Through the Looking Glass: A Reconstructive Architecture for Machine Access Consciousness,PROCEEDINGS OF THE 2026 AAAI SPRING SYMPOSIUM
+1026,EXCLUDE,older adults health agent,2025,The Double-Edged Sword: Exploring Older Adults' Interaction and Imagination with an LLM-Enhanced Health Agent,PROCEEDINGS OF THE 13TH INTERNATIONAL CONFERE
+1028,INCLUDE,OntoAgent cognitive architecture neurosymbolic LLM,2026,LLMs as Knowledge Workers,PROCEEDINGS OF THE 2026 AAAI SPRING SYMPOSIUM

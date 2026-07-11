@@ -1,0 +1,51 @@
+id,pass1_decision,pass2_decision,agree,title,venue
+495,EXCLUDE,EXCLUDE,Y,Recent Advances in Artificial Intelligence in Organic Electronic Research,Advanced Materials
+231,EXCLUDE,EXCLUDE,Y,Intelligent Unmanned Aerial Vehicles for Low-altitude Economy: A Review of the T,Dianzi Yu Xinxi Xuebao/Journal of E
+602,EXCLUDE,EXCLUDE,Y,"Evaluating Prompt Strategies for Multi-Robot Planning with ChatGPT: Batch, Inter",Conference Proceedings - IEEE Inter
+80,EXCLUDE,EXCLUDE,Y,A Visual-Language Agent for Summarizing Surveillance Footage Using Vision Transf,Proceedings of the IEEE Internation
+112,INCLUDE,INCLUDE,Y,Cognitive Grounding for Perspective Integration in Multi-LLM Systems,Computers
+857,INCLUDE,INCLUDE,Y,A Comparative Evaluation of Function-Calling LLMs in a Cognitive Architecture,Conference Proceedings - 2025 IEEE 
+145,EXCLUDE,EXCLUDE,Y,"""can You Tell Me?"": Designing Copilots to Support Human Judgement in Online Info",CHIIR 2026 - Proceedings of the 202
+558,EXCLUDE,EXCLUDE,Y,Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for G,2025 8th International Conference o
+941,EXCLUDE,EXCLUDE,Y,Data-Driven Vision-Language Models for Remote Sensing: A survey,IEEE GEOSCIENCE AND REMOTE SENSING 
+94,INCLUDE,INCLUDE,Y,SHC: Deeply Activating Human-Like Cognitive Ability for Visual Question Answerin,IEEE Transactions on Pattern Analys
+809,EXCLUDE,EXCLUDE,Y,Distributed Cognitive Diagnosis Through Multi-Agent Reinforcement and Reasoning,IEIR 2025 - Proceedings of the 4th 
+333,EXCLUDE,EXCLUDE,Y,Real-time dynamic graph construction and reasoning to support human-AI collabora,Journal of Engineering Design
+61,EXCLUDE,EXCLUDE,Y,Beyond sparsity: an empirical study of structured collaboration in modular AI,Neurocomputing
+132,INCLUDE,INCLUDE,Y,Multimodal Cognitive Architecture with Local Generative AI for Industrial Contro,Sensors
+679,EXCLUDE,EXCLUDE,Y,Multi-Layered Cognitive Framework for Humanlike Cognition,2025 IEEE 5th International Confere
+651,EXCLUDE,EXCLUDE,Y,Context-Aware IoT Smart Hub: A Semantic and Cognitive Architecture for Adaptive ,2025 International Symposium on Int
+109,EXCLUDE,EXCLUDE,Y,Human Cognition Inspired RAG with Knowledge Graph for Complex Problem Solving,Proceedings of the AAAI Conference 
+378,EXCLUDE,EXCLUDE,Y,Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic,Proceedings of the AAAI Conference 
+139,EXCLUDE,EXCLUDE,Y,"AI Systems That Think, Team, and Fight: A New Paradigm for Defense",Proceedings of the International Fl
+888,EXCLUDE,INCLUDE,N,Cognitive Architectures for Data Science: Integrating Continual Pre-training wit,2025 4th International Conference o
+659,EXCLUDE,EXCLUDE,Y,Beyond Adaptivity: Proactive Cognitive Nudging and Multimodal Engagement for Ove,IVA 2025 - Adjunct Proceedings of t
+95,EXCLUDE,EXCLUDE,Y,"Agent technologies in smart manufacturing: A comprehensive review of evolution, ",Advanced Engineering Informatics
+919,INCLUDE,INCLUDE,Y,"BEE: Belief-Value-Aligned, Explainable, and Extensible Cognitive Framework for C",IVA 2025 - Proceedings of the 25th 
+188,EXCLUDE,EXCLUDE,Y,AI-Based Asynchronous Alert Enrichment Framework for Scalable Security Operation,2026 International Conference on Sm
+344,EXCLUDE,EXCLUDE,Y,A Benchmark for Evaluating Cognitive Reasoning in Modern Language Models,Applied Sciences (Switzerland)
+1006,EXCLUDE,EXCLUDE,Y,DKARNet: Prompt-Guided Knowledge-Driven Multimodal Reasoning Network for UAV Obj,IEEE JOURNAL OF SELECTED TOPICS IN 
+1002,EXCLUDE,EXCLUDE,Y,Reasoning-Enhanced Few-Shot Human Activity Recognition via Visual Reinforcement ,IEEE ACCESS
+98,EXCLUDE,EXCLUDE,Y,Features for developing agents with a sense of belonging,Cognitive Systems Research
+935,EXCLUDE,EXCLUDE,Y,Multi-Agent Systems: From Classical Paradigms to Large Foundation Model-Enabled ,IEEE-CAA JOURNAL OF AUTOMATICA SINI
+945,EXCLUDE,EXCLUDE,Y,Hierarchical Planning With Object Keypoint-Axis Constraints for Robotic Manipula,IEEE ROBOTICS \& AUTOMATION MAGAZIN
+604,EXCLUDE,EXCLUDE,Y,Knowledge Augmentation and Task Planning in Large Language Models for Dexterous ,IEEE-RAS International Conference o
+81,EXCLUDE,EXCLUDE,Y,Towards Understanding the Cognitive Habits of Large Reasoning Models,Machine Intelligence Research
+342,EXCLUDE,EXCLUDE,Y,FLUTE: FSS-Based Secure Two-Party LLM Inference Using Partial Transformer Encryp,IEEE Transactions on Dependable and
+77,EXCLUDE,EXCLUDE,Y,A Pen-Shaped Visual-Tactile Sensor System for Braille Recognition with Multimoda,IEEE Sensors Journal
+906,EXCLUDE,EXCLUDE,Y,MINDSTATE: Systematic Analysis of Belief Manipulation Vulnerabilities in Multi-A,2025 IEEE MIT Undergraduate Researc
+201,EXCLUDE,EXCLUDE,Y,Towards Emotion-Aware and Context-Sensitive Decision-Making in Social Robotics: ,Lecture Notes in Computer Science
+447,EXCLUDE,EXCLUDE,Y,From Pattern Recognizers to Personalized Companions: a Survey of Large Language ,IEEE Transactions on Affective Comp
+652,EXCLUDE,EXCLUDE,Y,Structured Moral Reasoning in Language Models: A Value-Grounded Evaluation Frame,EMNLP 2025 - 2025 Conference on Emp
+220,EXCLUDE,EXCLUDE,Y,TATA: A Trust-Aware Task-Oriented Agent Framework for Industrial Intelligence Sc,"Computers, Materials and Continua"
+865,EXCLUDE,EXCLUDE,Y,Position Paper: Large Language Models need Episodic Memory,Proceedings of the International Jo
+181,EXCLUDE,EXCLUDE,Y,Are Semantic Networks Associated with Idea Originality in Artificial Creativity?,Conference on Human Factors in Comp
+926,EXCLUDE,EXCLUDE,Y,Enhancing Interpretability of Autonomous Driving via Human-Like Cognitive Maps: ,IEEE Transactions on Intelligent Ve
+475,EXCLUDE,EXCLUDE,Y,The Trust Paradox in LLM-Based Multi-Agent Systems: When Collaboration Becomes a,IEEE Transactions on Computational 
+910,EXCLUDE,EXCLUDE,Y,ChatGPT’s Expanding Horizons and Transformative Impact Across Domains: A Critica,Computers
+288,EXCLUDE,EXCLUDE,Y,A counselor-inspired agent framework for AI counselors to enhance client engagem,Technology in Society
+160,EXCLUDE,EXCLUDE,Y,Simulating Collaborative Cognition: an LLM Agent Framework for Multi-Stance Publ,Cognitive Computation
+940,EXCLUDE,EXCLUDE,Y,Few-Sample GNSS Signal LOS/NLOS Identification via Physical-Semantic Distillatio,IEEE SIGNAL PROCESSING LETTERS
+1018,EXCLUDE,EXCLUDE,Y,The emergence of compositionality in a brain-inspired cognitive architecture,COGNITIVE SYSTEMS RESEARCH
+296,EXCLUDE,EXCLUDE,Y,CANalyze-AI: Semantic Zero-Day Detection and Rule Synthesis via LoRA-Fine-Tuned ,Lecture Notes in Computer Science
+571,EXCLUDE,EXCLUDE,Y,A normative theory for causal inference and bayes factor computation in neural c,Advances in Neural Information Proc

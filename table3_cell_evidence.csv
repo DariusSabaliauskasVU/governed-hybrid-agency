@@ -1,0 +1,133 @@
+architecture_or_family,ability_channel,coverage,coding_note
+Soar + Transformer,P,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+Soar + Transformer,At,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+Soar + Transformer,Act,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+Soar + Transformer,M,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+Soar + Transformer,L,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+Soar + Transformer,R,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+Soar + Transformer,Pl,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+Soar + Transformer,MC,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+Soar + Transformer,C,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+Soar + Transformer,Mot,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+Soar + Transformer,S,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+Soar + Transformer,NS,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+ACT-R + LLM cases,P,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+ACT-R + LLM cases,At,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+ACT-R + LLM cases,Act,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+ACT-R + LLM cases,M,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+ACT-R + LLM cases,L,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+ACT-R + LLM cases,R,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+ACT-R + LLM cases,Pl,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+ACT-R + LLM cases,MC,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+ACT-R + LLM cases,C,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+ACT-R + LLM cases,Mot,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+ACT-R + LLM cases,S,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+ACT-R + LLM cases,NS,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CLARION + LLM roles,P,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CLARION + LLM roles,At,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CLARION + LLM roles,Act,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CLARION + LLM roles,M,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CLARION + LLM roles,L,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CLARION + LLM roles,R,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CLARION + LLM roles,Pl,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CLARION + LLM roles,MC,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CLARION + LLM roles,C,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CLARION + LLM roles,Mot,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CLARION + LLM roles,S,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CLARION + LLM roles,NS,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+ICARUS,P,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+ICARUS,At,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+ICARUS,Act,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+ICARUS,M,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+ICARUS,L,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+ICARUS,R,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+ICARUS,Pl,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+ICARUS,MC,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+ICARUS,C,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+ICARUS,Mot,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+ICARUS,S,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+ICARUS,NS,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CogNGen,P,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CogNGen,At,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CogNGen,Act,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CogNGen,M,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CogNGen,L,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CogNGen,R,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CogNGen,Pl,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CogNGen,MC,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CogNGen,C,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CogNGen,Mot,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CogNGen,S,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CogNGen,NS,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+IWMT,P,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+IWMT,At,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+IWMT,Act,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+IWMT,M,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+IWMT,L,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+IWMT,R,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+IWMT,Pl,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+IWMT,MC,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+IWMT,C,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+IWMT,Mot,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+IWMT,S,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+IWMT,NS,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+SOFAI,P,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+SOFAI,At,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+SOFAI,Act,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+SOFAI,M,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+SOFAI,L,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+SOFAI,R,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+SOFAI,Pl,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+SOFAI,MC,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+SOFAI,C,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+SOFAI,Mot,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+SOFAI,S,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+SOFAI,NS,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+MAP,P,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+MAP,At,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+MAP,Act,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+MAP,M,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+MAP,L,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+MAP,R,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+MAP,Pl,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+MAP,MC,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+MAP,C,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+MAP,Mot,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+MAP,S,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+MAP,NS,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CMC + metacognition proposal,P,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CMC + metacognition proposal,At,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CMC + metacognition proposal,Act,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CMC + metacognition proposal,M,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CMC + metacognition proposal,L,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CMC + metacognition proposal,R,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CMC + metacognition proposal,Pl,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CMC + metacognition proposal,MC,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CMC + metacognition proposal,C,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CMC + metacognition proposal,Mot,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CMC + metacognition proposal,S,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CMC + metacognition proposal,NS,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+MERLIN2 + LLM,P,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+MERLIN2 + LLM,At,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+MERLIN2 + LLM,Act,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+MERLIN2 + LLM,M,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+MERLIN2 + LLM,L,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+MERLIN2 + LLM,R,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+MERLIN2 + LLM,Pl,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+MERLIN2 + LLM,MC,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+MERLIN2 + LLM,C,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+MERLIN2 + LLM,Mot,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+MERLIN2 + LLM,S,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+MERLIN2 + LLM,NS,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CASPER,P,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CASPER,At,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CASPER,Act,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CASPER,M,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CASPER,L,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CASPER,R,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CASPER,Pl,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CASPER,MC,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CASPER,C,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CASPER,Mot,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CASPER,S,present,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.
+CASPER,NS,absent,Sources listed collectively in the Table 3 note; see manuscript Section 4 and cited descriptions.

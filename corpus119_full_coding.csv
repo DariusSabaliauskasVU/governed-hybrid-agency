@@ -1,0 +1,120 @@
+record_id,year,publication_type,maturity,primary_integration_pattern,memory,metacognition,planning,reasoning,verification,grounding,neuro_symbolic,social_normative,learning,title,doi
+9,2026,Conference/workshop,demonstration,interface,no,no,no,no,no,no,no,no,no,Navigation and Interaction for Blind Users via a Cognitive Architecture,10.1609/aaai.v40i46.41263
+10,2026,Conference/workshop,demonstration,interface,yes,no,no,no,no,no,no,no,yes,A Modular LLM-Based Cognitive Architecture for Sensitive Contexts: A Case Study on Local Home Automation,10.5220/0014337400004052
+11,2026,Conference/workshop,comparative,proposal,yes,no,no,yes,no,no,no,yes,no,CogAgent: Self-Evolving Cognitive Agents for Multi-Source Fraud Detection in Heterogeneous Financial Networks,10.1145/3774904.3792667
+16,2026,Conference/workshop,comparative,proposal,no,no,no,yes,no,no,no,yes,no,Learning to Deliberate: Meta-policy Collaboration for Agentic LLMs with Multi-agent Reinforcement Learning,10.1609/aaai.v40i35.40228
+39,2026,Journal,prototype,interface,yes,no,yes,yes,yes,yes,no,yes,no,"USV-3.0: Cognitive maritime navigation through vision-language models, Human-in-the-Loop learning, and spatio-temporal memory",10.1016/j.oceaneng.2026.125010
+47,2026,Journal,prototype,proposal,yes,no,yes,yes,yes,no,no,no,no,HOLA: Hierarchical OODA-LLM Agent Architecture with Commander-like Cognition,10.1109/TG.2026.3689572
+73,2026,Conference/workshop,demonstration,interface,no,no,no,no,no,no,no,no,no,Development of a Dementia Care Training System that Learns with Dementia Patient Agents based on LLM-Embedded in Cognitive Architecture,10.1145/3765766.3765858
+82,2026,Journal,comparative,neurosymbolic,no,no,no,yes,yes,no,no,no,no,Embrace LLM-Based Cognitive Architecture to Boost Team Problem-Solving in Open-Ended Tasks,10.3390/systems14030313
+89,2026,Journal,demonstration,interface,no,yes,yes,yes,no,yes,no,yes,no,Integrating LLMs and self-regulated learning in cognitive architectures: a case study in essay-writing tutoring,10.1016/j.cogsys.2026.101475
+94,2026,Journal,comparative,interface,yes,no,no,yes,yes,yes,no,no,no,SHC: Deeply Activating Human-Like Cognitive Ability for Visual Question Answering,10.1109/TPAMI.2026.3673273
+104,2026,Journal,comparative,proposal,no,yes,no,no,no,no,no,no,yes,Metacognition for Unknown Situations and Environments (MUSE),10.1016/j.neunet.2025.108131
+112,2026,Journal,comparative,proposal,no,no,no,yes,yes,yes,no,no,no,Cognitive Grounding for Perspective Integration in Multi-LLM Systems,10.3390/computers15050277
+113,2026,Conference/workshop,specification,neurosymbolic,no,no,no,yes,no,no,yes,no,no,Adaptive Modular Agent Architecture for Hybrid Two-Level Reasoning,10.1007/978-3-032-18011-7_2
+116,2026,Conference/workshop,demonstration,interface,no,no,no,yes,no,no,no,yes,no,Sentiment Analysis on Steroids: A Hybrid Model Using LLMs and Symbolic AI for Affective Reasoning in a Compassionate System,10.1007/978-3-032-07109-5_19
+129,2026,Journal,comparative,memory,yes,no,no,yes,no,no,no,no,yes,Towards Self-Evolving Agents: A Dual-Process Framework for Continual Context Refinement,10.3390/electronics15061232
+130,2026,Journal,specification,neurosymbolic,yes,no,no,yes,yes,no,no,no,no,The AGI-Powered Metaverse: A Decentralized Task-Based Cognitive Architecture,10.1109/ACCESS.2026.3697396
+132,2025,Journal,demonstration,interface,no,no,no,no,yes,yes,no,no,no,Multimodal Cognitive Architecture with Local Generative AI for Industrial Control of Concrete Plants on Edge Devices,10.3390/s25247540
+143,2026,Conference/workshop,prototype,memory,yes,no,no,no,no,no,no,no,no,Human-Like Remembering and Forgetting in LLM Agents: An ACT-R-Inspired Memory Architecture,10.1145/3765766.3765803
+146,2026,Conference/workshop,comparative,proposal,yes,no,no,yes,no,no,no,yes,no,GraphCogent: Mitigating LLMs' Working Memory Constraints via Multi-Agent Collaboration in Complex Graph Understanding,10.1145/3774904.3792314
+147,2026,Conference/workshop,demonstration,memory,yes,no,no,no,no,no,no,yes,no,A Path to Gradual Individual Experience and Recollection for Social Robots Based on a Cognitive Architecture,10.1007/978-981-95-2379-5_57
+153,2026,Journal,demonstration,proposal,yes,no,no,yes,no,yes,no,no,no,CCM-FCC: LLM-powered cognition-centered AI agent framework for proactive human-robot collaboration,10.1016/j.rcim.2025.103145
+164,2026,Conference/workshop,specification,memory,yes,no,no,yes,no,yes,no,yes,no,A Survey of Memory Models for Virtual Agents and Humans: From Psychological Foundations to Computational Architectures,10.1007/978-3-031-97778-7_8
+170,2026,Journal,specification,neurosymbolic,yes,no,no,yes,no,no,no,yes,no,The cognitive architecture of symbolic identity: Structuring coherence in human–AI reasoning systems,10.1016/j.cogsys.2026.101467
+191,2026,Journal,demonstration,proposal,no,no,no,yes,yes,yes,no,no,no,ACT-FLEX: A Symbolic and Generative AI integration Architecture for Generalisable and Explainable Robotic Disassembly Tasks,10.1016/j.rcim.2026.103277
+229,2026,Conference/workshop,prototype,proposal,yes,no,no,yes,yes,no,no,yes,no,Heterogeneous Debate Engine: Identity-Grounded Cognitive Architecture for Resilient LLM-Based Ethical Tutoring,10.1007/978-981-92-0071-9_9
+241,2026,Journal,specification,proposal,no,no,yes,yes,no,yes,no,no,no,Integrating agentic AI and digital twins for intelligent decision-making systems,10.1016/j.array.2026.100721
+255,2026,Conference/workshop,specification,proposal,no,no,no,no,no,no,no,no,no,Ontogenesis of AGI Consciousness in ChatGPT Enabled by an External Control Module,10.1007/978-3-032-20749-4_5
+278,2026,Conference/workshop,specification,proposal,no,no,yes,yes,no,no,no,no,no,Applying Cognitive Design Patterns to General LLM Agents,10.1007/978-3-032-00800-8_28
+304,2026,Conference/workshop,prototype,interface,no,no,no,no,no,no,no,no,no,LLM-Based Evaluation of Utterances with Implicature Understanding-A Preliminary Study,10.1145/3765766.3765841
+311,2025,Journal,prototype,bootstrapping,no,no,no,yes,no,no,no,no,no,Eliciting problem specifications for LLM-Modulo cognitive systems,10.1016/j.cogsys.2025.101409
+336,2026,Journal,comparative,interface,yes,no,yes,yes,no,yes,no,no,yes,MOSAIC: A Cognitively Motivated Multi-Agent Framework for Interpretable and Training-Free Empathetic Dialogue,10.3390/electronics15102078
+337,2026,Journal,comparative,memory,yes,no,yes,no,yes,no,no,no,no,Generative agents for urban mobility: A cognitive framework for realistic travel behavior simulation,10.1016/j.simpat.2025.103234
+338,2026,Journal,demonstration,proposal,no,no,no,no,no,no,no,yes,no,Influence in Motion: Tracing Persuasive Dynamics via LLM based Multi-Agent Networks,10.5117/CCR2026.2.9.HUAN
+340,2026,Conference/workshop,comparative,proposal,no,no,yes,yes,no,no,no,no,no,SPIRAL: Symbolic LLM Planning via Grounded and Reflective Search,10.1609/aaai.v40i43.40975
+361,2025,Journal,demonstration,interface,yes,no,no,no,yes,no,no,yes,no,LLM-based robot personality simulation and cognitive system,10.1038/s41598-025-01528-8
+375,2026,Conference/workshop,comparative,proposal,no,yes,no,no,no,no,no,no,no,Implementation of a Metacognition Framework for Self-Awareness and Self-Regulation in Ensembles of LLMs,10.1145/3774905.3793124
+388,2026,Conference/workshop,comparative,memory,yes,no,no,yes,no,no,no,no,no,Cognitive Fallibility in LLMs: Modeling Human Forgetting and Reconstruction Bias to Enhance Trust,10.1109/QPAIN69676.2026.11546172
+418,2026,Journal,demonstration,interface,no,no,no,yes,no,yes,no,no,no,A Virtual Tutor Based on Integration of LLM with a Cognitive Architecture,10.1007/978-3-032-13977-1_11
+420,2025,Conference/workshop,specification,neurosymbolic,yes,no,no,yes,no,no,yes,no,no,Compositional AI Beyond LLMs: System Implications of Neuro-Symbolic-Probabilistic Architectures,10.1145/3760250.3762235
+431,2026,Conference/workshop,comparative,comparator_only,no,no,yes,yes,no,no,no,no,no,Beating Transformers Using Synthetic Cognition,10.1007/978-3-032-00686-8_26
+437,2026,Conference/workshop,demonstration,memory,yes,no,no,yes,yes,no,no,no,no,PromptX: A Cognitive Agent Platform with Long-term Memory,10.1145/3774905.3793108
+441,2026,Conference/workshop,demonstration,interface,yes,no,no,no,no,no,yes,no,yes,Neuro-Symbolic LIDA’s Semantic Vision System,10.1007/978-3-032-00686-8_14
+469,2026,Journal,comparative,memory,yes,no,yes,no,no,no,no,no,yes,GATSim: Urban mobility simulation with generative agents,10.1016/j.trc.2026.105576
+474,2026,Conference/workshop,comparative,memory,yes,no,no,no,no,no,no,no,no,CAIM: Development and Evaluation of a Cognitive AI Memory Framework for Long-Term Interaction with Intelligent Agents,10.1145/3742413.3789222
+486,2026,Conference/workshop,comparative,bootstrapping,no,no,no,no,yes,no,no,no,yes,NL2CA: Auto-formalizing Cognitive Decision-Making from Natural Language Using an Unsupervised CriticNL2LTL Framework,10.1609/aaai.v40i3.37155
+488,2026,Journal,prototype,proposal,no,no,yes,yes,yes,yes,no,no,no,AgenticNav: A Hierarchical Multi-Agentic System for LLM-Driven Autonomous Problem-Solving in Robotics,10.1109/ACCESS.2026.3703330
+490,2026,Journal,specification,memory,yes,no,yes,no,no,no,no,yes,no,From prompt to persona: a literature review on LLMs as single cognitive agents,10.1007/s12652-025-05029-4
+492,2026,Conference/workshop,comparative,proposal,no,no,no,yes,no,no,no,no,no,Synthetic Intuition: A System-1/System-2 Architecture for Fast and Slow Thinking in Large Language Models,10.1109/CCWC67433.2026.11393760
+494,2026,Conference/workshop,comparative,proposal,yes,no,yes,no,no,no,no,no,yes,Navigating the Infinite Dynamic Web Space: Effective In-Context Exploration via Cognitive Multi-Agent Collaboration,10.18653/v1/2026.eacl-long.384
+531,2025,Conference/workshop,prototype,interface,no,no,no,no,no,yes,no,yes,no,"Beyond Words: Integrating Theory of Mind into Conversational Agents for Human-Like Belief, Desire, and Intention Alignment",10.18653/v1/2025.findings-acl.287
+533,2025,Conference/workshop,prototype,memory,yes,yes,no,yes,no,no,no,no,no,AI Feels Time: Augmenting LLMs with a Bio-Inspired Temporal Cognitive Notebook :,10.1109/FLLM67465.2025.11390929
+539,2024,Journal,demonstration,interface,no,no,no,no,no,no,no,yes,no,Social–Emotional Conversational Agents Based on Cognitive Architectures and Machine Learning,10.1134/S1054661824700640
+542,2024,Conference/workshop,specification,comparator_only,yes,no,no,yes,no,yes,no,no,no,Position: A Call for Embodied AI,
+554,2025,Journal,demonstration,memory,yes,no,no,no,no,no,no,yes,no,Retrieving Memory Content from a Cognitive Architecture by Impressions from Language Models for Use in a Social Robot,10.3390/app15105778
+563,2025,Journal,comparative,proposal,yes,no,no,no,no,no,no,no,no,El Agente: An autonomous agent for quantum chemistry,10.1016/j.matt.2025.102263
+565,2025,Conference/workshop,specification,proposal,yes,no,yes,yes,no,no,yes,no,no,Enhancing Cognitive Functions in Large Language Models Towards AGI: A State-of-the-Art Survey and Exploratory Review,10.1109/ICMLT65785.2025.11193354
+580,2024,Journal,specification,memory,yes,no,no,yes,no,yes,no,no,no,Cognitive Architectures for Language Agents,
+593,2025,Conference/workshop,specification,memory,yes,no,no,yes,no,no,no,no,no,Case-Based Reasoning in Generative Agents: Review and Prospect,10.1007/978-3-031-96559-3_12
+594,2025,Journal,comparative,comparator_only,yes,no,no,yes,no,no,no,no,no,A brain-inspired memory transformation based differentiable neural computer for reasoning-based question answering,10.3389/frai.2025.1635932
+595,2025,Conference/workshop,demonstration,comparator_only,no,no,no,yes,no,no,yes,no,no,Script-based Inferences in an Image Schema Story Understander,
+605,2025,Journal,prototype,proposal,yes,no,yes,yes,no,no,no,no,no,Cognitive Agents in Urban Mobility: Integrating LLM Reasoning into Multi-Agent Simulations,10.3390/s25185688
+623,2025,Conference/workshop,comparative,proposal,no,no,yes,no,no,no,no,no,no,A Cognitive Writing Perspective for Constrained Long-Form Text Generation,10.18653/v1/2025.findings-acl.511
+632,2025,Conference/workshop,comparative,neurosymbolic,no,no,no,yes,no,yes,yes,no,no,Towards a Neuro symbolic Reasoning System Grounded in Schematic Representations,
+636,2025,Conference/workshop,specification,proposal,no,no,no,yes,no,no,no,no,no,A Review of System 2 Reasoning from Cognitive Theories to Algorithmic Innovations,10.1109/IEIR67391.2025.11491040
+649,2025,Conference/workshop,comparative,proposal,no,yes,no,yes,yes,yes,no,no,no,CLMC: Code-Level Metacognition for LLM Agents,10.1109/ICDMW69685.2025.00295
+658,2025,Conference/workshop,comparative,neurosymbolic,yes,yes,yes,yes,yes,yes,yes,no,no,Metagent-P: A Neuro-Symbolic Planning Agent with Metacognition for Open Worlds,10.18653/v1/2025.findings-acl.1169
+671,2025,Conference/workshop,demonstration,memory,yes,no,no,no,no,no,no,yes,no,Personalized Interactions With a Social Robot Based on Recollections From a Cognitive Model,
+678,2025,Journal,prototype,proposal,no,no,yes,yes,no,no,no,no,no,Exploiting GenAI for Plan Generation in BDI Agents,10.3233/FAIA251223
+681,2024,Conference/workshop,prototype,comparator_only,no,no,yes,yes,no,yes,no,no,no,Semantic Primes-Inspired Tacit Knowledge Dataset for Simulating Basic Perception Capabilities of Cognitive Architectures,10.1007/978-3-031-65572-2_16
+686,2024,Conference/workshop,prototype,bootstrapping,no,no,no,no,no,yes,no,no,no,Improving Knowledge Extraction from LLMs for Task Learning through Agent Analysis,10.1609/aaai.v38i16.29799
+695,2024,Conference/workshop,demonstration,memory,yes,no,no,no,no,yes,yes,no,no,Generative AI Can Be Creative Too,10.1007/978-3-031-65572-2_1
+703,2025,Conference/workshop,comparative,proposal,no,no,yes,no,no,yes,no,no,yes,Cognitive Kernel: An Open-source Agent System towards Generalist Autopilots,10.18653/v1/2025.naacl-demo.29
+708,2025,Conference/workshop,specification,neurosymbolic,no,no,no,yes,no,no,yes,yes,no,Next-Generation AI Systems: From Cognitive Models to Real-World Impact,10.1109/ICAAIC64647.2025.11331180
+712,2025,Conference/workshop,comparative,memory,yes,no,yes,no,no,yes,no,no,yes,M2PA: A Multi-Memory Planning Agent for Open Worlds Inspired by Cognitive Theory,10.18653/v1/2025.findings-acl.1191
+715,2025,Journal,comparative,proposal,no,yes,no,no,yes,no,no,no,yes,Eliciting metaknowledge in Large Language Models,10.1016/j.cogsys.2025.101352
+721,2025,Conference/workshop,comparative,proposal,no,no,yes,no,no,no,no,no,no,Feature Engineering for Agents: An Adaptive Cognitive Architecture for Interpretable ML Monitoring,
+724,2025,Conference/workshop,comparative,neurosymbolic,yes,no,no,yes,no,no,no,yes,yes,Filtering Hallucinations and Omissions in Large Language Models through a Cognitive Architecture,10.1109/CI-NLPSoMeCompanion65206.2025.10977857
+725,2024,Conference/workshop,specification,proposal,no,yes,no,no,no,no,no,no,no,Toward Autonomy: Metacognitive Learning for Enhanced AI Performance,10.1609/aaaiss.v3i1.31270
+754,2025,Journal,comparative,neurosymbolic,no,no,yes,yes,yes,yes,no,yes,no,Understanding Epistemic Language with a Language-augmented Bayesian Theory of Mind,10.1162/tacl_a_00752
+755,2024,Conference/workshop,comparative,bootstrapping,no,no,no,no,no,yes,no,no,yes,Bootstrapping Cognitive Agents with a Large Language Model,10.1609/aaai.v38i1.27822
+762,2025,Conference/workshop,comparative,neurosymbolic,no,no,no,yes,no,no,no,no,no,"Speaking in Words, Thinking in Logic: A Dual-Process Framework in QA Systems",10.1109/IJCNN64981.2025.11229117
+794,2024,Conference/workshop,comparative,proposal,no,no,yes,yes,no,no,no,no,no,Predicting and Understanding Human Action Decisions: Insights from Large Language Models and Cognitive Instance-Based Learning,10.1609/hcomp.v12i1.31607
+798,2024,Conference/workshop,demonstration,interface,no,no,yes,no,no,yes,no,no,no,"One to rule them all: natural language to bind communication, perception and action",
+802,2025,Conference/workshop,prototype,memory,yes,no,no,no,no,no,no,yes,no,Using Memory Contents of a Cognitive Model for Prompt Augmentation of a Large Language Model,10.1109/CogSIMA64436.2025.11079485
+807,2025,Conference/workshop,comparative,proposal,no,no,no,yes,no,no,no,yes,no,Agentic-ToM: Cognition-Inspired Agentic Processing For Enhancing Theory of Mind Reasoning in Large Language Models,10.18653/v1/2025.findings-emnlp.1398
+810,2025,Conference/workshop,specification,neurosymbolic,no,no,no,yes,no,yes,yes,no,no,Grounding Agent Reasoning in Image Schemas: A Neurosymbolic Approach to Embodied Cognition,
+813,2025,Conference/workshop,comparative,neurosymbolic,no,no,no,yes,no,yes,no,no,yes,LLM-ACTR: from Cognitive Models to LLMs in Manufacturing Solutions,10.1609/aaaiss.v5i1.35610
+814,2025,Conference/workshop,specification,proposal,no,yes,no,yes,no,no,no,yes,no,A Reflective Architecture for LLM-Based Systems,10.1109/ACSOS-C66519.2025.00029
+820,2025,Conference/workshop,demonstration,proposal,no,no,no,yes,no,yes,no,no,no,CognitiveOS: Large Multimodal Model Based System to Endow Any Type of Robot with Generative AI,10.1109/ICRA55743.2025.11128224
+824,2024,Journal,specification,memory,yes,no,no,no,no,no,no,no,no,Synthesizing the temporal self: Robotic models of episodic and autobiographical memory,10.1098/rstb.2023.0415
+826,2024,Conference/workshop,comparative,interface,no,no,no,yes,no,no,no,no,yes,Language-Conditioned Robotic Manipulation with Fast and Slow Thinking,10.1109/ICRA57147.2024.10611525
+833,2025,Conference/workshop,prototype,memory,yes,no,no,yes,yes,no,no,no,no,"A Hybrid, Multi-Layered Memory Architecture for Collaborative Reasoning in Multi-Agent Systems",10.1109/FLLM67465.2025.11391226
+835,2025,Conference/workshop,demonstration,interface,no,no,no,no,no,no,no,no,no,Intention Reading Architecture for Virtual Agents,10.1007/978-981-96-3522-1_41
+843,2024,Journal,demonstration,interface,no,no,no,no,no,no,no,yes,no,A Socially Acceptable Conversational Agent Based on Cognitive Modeling and Machine Learning,10.1007/978-3-031-50381-8_31
+845,2025,Conference/workshop,specification,neurosymbolic,yes,no,no,yes,no,no,yes,no,no,Cognitive Interaction Layers for Neuro-Symbolic AI,
+849,2025,Journal,specification,neurosymbolic,no,no,no,yes,yes,yes,yes,no,no,"Cognitive Neurosymbolic Artificial Intelligence for Complex Decision-Making: Integrating Foundation Models, Cognitive Architectures, and Knowledge",10.1109/MIS.2025.3561487
+857,2025,Conference/workshop,comparative,proposal,yes,no,no,no,no,yes,no,yes,no,A Comparative Evaluation of Function-Calling LLMs in a Cognitive Architecture,10.1109/MetroXRAINE66377.2025.11340083
+858,2025,Conference/workshop,demonstration,interface,yes,no,no,no,yes,no,no,yes,no,TACLA: An LLM-Based Multi-Agent Tool for Transactional Analysis Training in Education,10.1109/ICTAI66417.2025.00048
+861,2025,Conference/workshop,comparative,neurosymbolic,no,no,no,no,yes,yes,yes,no,no,Cognitive Consistency Verification: Neuro-Symbolic Approach for Mitigating VLM Hallucination,10.1109/BigData66926.2025.11402484
+862,2024,Conference/workshop,comparative,proposal,yes,no,no,yes,no,no,no,no,no,Modeling the Driver's Lane-Changing Decision Under the Influence of the Blind Zone Image of an Intelligent Vehicle: A Practice Based on Cognitive-Driven Large Language Model,10.1109/CVCI63518.2024.10830245
+878,2025,Conference/workshop,comparative,memory,yes,no,yes,yes,no,yes,no,no,no,A Cognitive-RAG Framework for Task Planning and Decision Generation,10.1109/CAC67268.2025.11487090
+884,2025,Conference/workshop,prototype,memory,yes,no,no,no,no,yes,no,yes,no,The Irrational LLM: Implementing Cognitive Agents with Weighted Retrieval-Augmented Generation,10.1109/ICCCN65249.2025.11134012
+901,2025,Journal,demonstration,proposal,no,no,no,yes,yes,yes,no,no,no,AI-Enhanced Rescue Drone with Multi-Modal Vision and Cognitive Agentic Architecture,10.3390/ai6100272
+902,2025,Conference/workshop,comparative,proposal,no,yes,no,yes,no,no,no,yes,no,R-CHAR: A Metacognition-Driven Framework for Role-Playing in Large Language Models,10.18653/v1/2025.emnlp-main.1372
+909,2024,Conference/workshop,comparative,memory,yes,yes,no,yes,no,no,no,no,no,Metacognitive Retrieval-Augmented Large Language Models,10.1145/3589334.3645481
+917,2025,Conference/workshop,comparative,proposal,no,no,yes,no,no,no,no,no,no,MemAGent: A Cognitive-Hierarchical Multi-Agent System for Long-Form Story Generation,10.1109/ICCVIT67848.2025.11391379
+919,2025,Conference/workshop,prototype,memory,yes,no,no,yes,no,yes,no,yes,no,"BEE: Belief-Value-Aligned, Explainable, and Extensible Cognitive Framework for Conversational Agents",10.1145/3717511.3747067
+937,2023,Conference/workshop,prototype,bootstrapping,no,no,no,yes,no,no,no,no,no,Exploiting Language Models as a Source of Knowledge for Cognitive Agents,
+982,2023,Conference/workshop,specification,neurosymbolic,no,no,no,yes,no,no,no,no,no,Bridging Cognitive Architectures and Generative Models with Vector Symbolic Algebras,
+985,2023,Conference/workshop,specification,neurosymbolic,no,no,no,yes,no,no,yes,no,no,Enabling High-Level Machine Reasoning with Cognitive Neuro-Symbolic Systems,
+989,2023,Conference/workshop,specification,neurosymbolic,no,no,yes,no,no,yes,no,no,no,Combining Minds and Machines: Investigating the Fusion of Cognitive Architectures and Generative Models for General Embodied Intelligence,
+994,2023,Conference/workshop,specification,neurosymbolic,no,no,no,no,no,yes,no,no,no,On Using Generative Models in a Cognitive Architecture for Embodied Agents,
+1003,2023,Conference/workshop,prototype,neurosymbolic,no,no,no,no,no,no,yes,no,no,Synergistic Integration of Large Language Models and Cognitive Architectures for Robust AI: An Exploratory Analysis,
+1007,2023,Conference/workshop,comparative,bootstrapping,no,no,no,no,no,no,no,no,no,Automating Knowledge Acquisition for Content-Centric Cognitive Agents Using LLMs,
+1011,2023,Conference/workshop,specification,neurosymbolic,no,no,no,yes,no,no,no,no,no,A Proposal for a Language Model Based Cognitive Architecture,
+1021,2023,Conference/workshop,specification,interface,no,no,no,no,yes,no,no,yes,no,Psychologically-Valid Generative Agents: A Novel Approach to Agent-Based Modeling in Social Sciences,
+1022,2023,Conference/workshop,prototype,comparator_only,no,no,yes,no,no,no,no,no,no,A Neuro-Mimetic Realization of the Common Model of Cognition via Hebbian Learning and Free Energy Minimization,
+1024,2026,Conference/workshop,comparative,proposal,yes,no,yes,yes,no,no,no,yes,no,Through the Looking Glass: A Reconstructive Architecture for Machine Access Consciousness,
+1028,2026,Conference/workshop,comparative,bootstrapping,no,no,no,yes,yes,no,yes,no,no,LLMs as Knowledge Workers,

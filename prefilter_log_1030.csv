@@ -1,0 +1,1031 @@
+record_id,prefilter_decision,reason,year,title,venue,source
+0,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Performance Support in the Age of Artificial Intelligence,Lecture Notes in Networks and Systems,scopus
+1,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Visio-verbal teleimpedance interface: enabling semi-autonomous control of physical interaction via eye tracking and speech,Frontiers in Robotics and AI,scopus
+2,PASS,,2026,Decentralised task planning and motion coordination for scalable multi-robot collaborative manufacturing,Robotics and Computer-Integrated Manufacturin,scopus
+3,PASS,,2026,LLM-Guided Multi-Agent Evacuation Coordination via Episodic Memory and Cognitive Task Analysis,AAMAS 2026 - Proceedings of the 25th Internat,scopus
+4,PASS,,2026,SigmaForge: Retrieval-Enhanced Sigma Rule Generation with DAG-Based Quality Evaluation,Lecture Notes on Data Engineering and Communi,scopus
+5,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Edge Synapse Net a Neuro-Symbolic Edge-Cloud Nervous System for Real-Time Autonomous Intelligence,CCIC 2026 - Contemporary Computing Innovation,scopus
+6,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Bio-adaptive neuromorphic framework for sustainable building energy management: a cognitive ecosystem for arid climates,Sustainable Energy Technologies and Assessmen,scopus
+7,PASS,,2026,"Bio-inspired cognitive robotics vs. embodied AI for socially acceptable, civilized robots",Frontiers in Robotics and AI,scopus
+8,PASS,,2026,Can MLLMs Find Their Way in a City? Exploring Emergent Navigation from Web-Scale Knowledge,EACL 2026 - 19th Conference of the European C,scopus
+9,PASS,,2026,Navigation and Interaction for Blind Users via a Cognitive Architecture,Proceedings of the AAAI Conference on Artific,scopus
+10,PASS,,2026,A Modular LLM-Based Cognitive Architecture for Sensitive Contexts: A Case Study on Local Home Automation,International Conference on Agents and Artifi,scopus
+11,PASS,,2026,CogAgent: Self-Evolving Cognitive Agents for Multi-Source Fraud Detection in Heterogeneous Financial Networks,WWW 2026 - Proceedings of the ACM Web Confere,scopus
+12,PASS,,2026,"Remote Sensing Image Intelligent Interpretation From a Language-Centered Perspective: Principles, methods, and challenges",IEEE Geoscience and Remote Sensing Magazine,scopus
+13,PASS,,2026,2T-Agent: A Generative Agent-Driven Framework for Teacher-Like Thinking in Cognitive Diagnosis; [2T-Agent：生成式智能体驱动的类教师思维认知诊断框架],Jisuanji Xuebao/Chinese Journal of Computers,scopus
+14,PASS,,2026,Minds of their own? Decoding free will in large language models,AI and Society,scopus
+15,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Epistemic Gain in M-Space: A Metric for AI Governance in Complex Systems,International Journal of Semantic Computing,scopus
+16,PASS,,2026,Learning to Deliberate: Meta-policy Collaboration for Agentic LLMs with Multi-agent Reinforcement Learning,Proceedings of the AAAI Conference on Artific,scopus
+17,PASS,,2026,Building adaptative and transparent cyber agents with local language models,Expert Systems with Applications,scopus
+18,PASS,,2026,X-Gen: Synergizing Extended LSTM and Generative Diffusion for Cognition-Aware Motion Forecasting,International Journal of Intelligent Systems,scopus
+19,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Autonomous Driving Coupled Prediction and Planning Method Considering Multi-Vehicle Game Interaction; [考虑多车博弈的自动驾驶耦合预测规划方法],Qiche Gongcheng/Automotive Engineering,scopus
+20,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,"Neuro-symbolic agentic AI: Architectures, integration patterns, applications, open challenges and future research directions",Computer Science Review,scopus
+21,PASS,,2026,Factored Internal Verification Enhances Large Language Model Factuality,Communications in Computer and Information Sc,scopus
+22,PASS,,2025,VSM-ACTR 2: a human-like decision making model with metacognition for manufacturing solutions,Computational and Mathematical Organization T,scopus
+23,PASS,,2026,From algorithms to tutors: tracing the evolution of generative AI in education,SN Social Sciences,scopus
+24,PASS,,2026,Hebbian inertia and massless reasoning: comparative cognitive architecture in human and large language model systems,Quality and Quantity,scopus
+25,PASS,,2026,Exploring Accessible Focus Groups with Cognitive Persona Generation and AI Agents,Studies in Computational Intelligence,scopus
+26,PASS,,2026,BotVerse: Real-Time Event-Driven Simulation of Social Agents,AAMAS 2026 - Proceedings of the 25th Internat,scopus
+27,PASS,,2026,Metacognitive Artificial Intelligence in Vision Foundation Models: Research Challenges,IEEE Intelligent Systems,scopus
+28,PASS,,2026,RaSA-BoDX: A meta-cognitive reasoning framework for cyberbullying language detection and mitigation using multi-agent systems,Knowledge-Based Systems,scopus
+29,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Revolutionizing predictive maintenance: Remaining useful life forecasting based on cognitive artificial intelligence using knowledge growing system,Ain Shams Engineering Journal,scopus
+30,PASS,,2025,Review on Behavior Models for Pedestrians Interacting with Automated Vehicles; [行人与智能汽车交互行为建模关键技术综述],Zhongguo Gonglu Xuebao/China Journal of Highw,scopus
+31,PASS,,2026,THINKNOTE: Enhancing Knowledge Integration and Utilization of Large Language Models via Constructivist Cognition Modeling,19th Conference of the European Chapter of th,scopus
+32,PASS,,2026,Deep Hidden Cognition Facilitates Reliable Chain-of-Thought Reasoning,Proceedings of the AAAI Conference on Artific,scopus
+33,PASS,,2026,AutoGraph: An intelligent knowledge-graph agent for procedure automation and dynamic human reliability support in high-risk industries,Reliability Engineering and System Safety,scopus
+34,PASS,,2025,Enabling interoperable human–AI teaming for automation in construction and manufacturing via Digital Twins and Sliding Work Sharing ontologies,Journal of Industrial Information Integration,scopus
+35,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Online monitoring of Chinese herbal medicine production process toward lean six sigma: multimodal data fusion based on transformer architecture,Spectrochimica Acta - Part A: Molecular and B,scopus
+36,PASS,,2026,CGEM: A cognitive-guided network for human-aligned entity matching,Neurocomputing,scopus
+37,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,"Special issue on intelligent systems, ISMIS’24 selected papers",Journal of Intelligent Information Systems,scopus
+38,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Building Intelligent Agents Based on the Clarion Cognitive Architecture: Some Essential Principles,International Conference on Agents and Artifi,scopus
+39,PASS,,2026,"USV-3.0: Cognitive maritime navigation through vision-language models, Human-in-the-Loop learning, and spatio-temporal memory",Ocean Engineering,scopus
+40,PASS,,2026,From Generative to Agentic: A Survey of Autonomous AI Systems and Their Evolving Capabilities,Proceedings of the International Conference o,scopus
+41,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,An Effective Cognitive Cybersecurity System of Cognitive Sciences Using Adaptive Transformer-Based Deep Learning Model,Concurrency and Computation: Practice and Exp,scopus
+42,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,ESGME: Generating metaphor explanations from event-related potential signals using large language models,Neurocomputing,scopus
+43,PASS,,2026,Adaptive Conversational Agents Through Cognitive and Emotion-Aware User Profiling,Lecture Notes in Networks and Systems,scopus
+44,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Cognitive AI beyond prediction: toward reasoning and discovery,Materials Horizons,scopus
+45,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,UAV Cybersecurity with Mamba-KAN-Liquid Hybrid Model: Deep Learning-Based Real-Time Anomaly Detection,Drones,scopus
+46,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Analyzing instance representation in cognitive models of phishing decision-making,User Modeling and User-Adapted Interaction,scopus
+47,PASS,,2026,HOLA: Hierarchical OODA-LLM Agent Architecture with Commander-like Cognition,IEEE Transactions on Games,scopus
+48,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,OPERA PERFORMANCE POSE TRANSFER USING TRANSFORMER MODELS FROM AN EMBODIMENT PERSPECTIVE,Journal of Mechanics in Medicine and Biology,scopus
+49,PASS,,2026,Event-Driven Agentic SOC (ED-ASOC): Supervisor-Based LLM Framework for Dynamic Incident Response and SOAR Orchestration,Proceedings of the International Symposium on,scopus
+50,PASS,,2026,From numerical perception to cognitive decision: a weather-enhanced and knowledge-guided approach for proactive environmental management in livestock ,Expert Systems with Applications,scopus
+51,PASS,,2026,EPISTEMIC CERTAINTY AND THE LIMITS OF INFORMATIONAL KNOWLEDGE: A PHILOSOPHICAL INQUIRY,Journal of Daoist Studies,scopus
+52,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Can Transparency Help Clinicians Trust AI? Reframing Trust as an Information Foraging and Sensemaking Loop,Conference on Human Factors in Computing Syst,scopus
+53,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Towards Explainable Decision Support Using Hybrid Neural Models for Logistic Terminal Automation,Lecture Notes in Computer Science,scopus
+54,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Clarity AI an AI Powered Companion for Overthinkers,2026 2nd International Conference on Computin,scopus
+55,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Nurturing AI Language Companions: A Role-Reversal Approach to Language Learning,"Smart Innovation, Systems and Technologies",scopus
+56,PASS,,2026,IUFlowGen: An AI System for Converting Procedural Texts into Flowcharts,Lecture Notes in Computer Science,scopus
+57,PASS,,2026,Knowledge Lakes for Cognitive Systems: Integration of Graph Databases and Ontologies,Proceedings - 2026 International Russian Smar,scopus
+58,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Multi-Layer Moisture Content Prediction for Oyster Mushroom Substrate Using Bidirectional LSTM,2026 International Conference on Artificial I,scopus
+59,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Enhancing quasi-nonlinear long-term cognitive networks with temporal attention for pattern classification,Neurocomputing,scopus
+60,PASS,,2026,StreetViewGPT: A Street View Image Scene Perception and Reasoning Method Based on Multimodal Large Language Model,IEEE Journal of Selected Topics in Applied Ea,scopus
+61,PASS,,2025,Beyond sparsity: an empirical study of structured collaboration in modular AI,Neurocomputing,scopus
+62,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Mission-Specific Trajectory Dispersions for T-SCVx Landing Guidance,IEEE Aerospace Conference Proceedings,scopus
+63,PASS,,2026,"Self-Evolving Twins: Shaping Ethical, Resilient, and Human-Centered Industry 5.0",Generative and Open AI in Industry 5.0,scopus
+64,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Hybrid AI Models Using Symbolic Reasoning and Deep Learning for Cognitive Tasks,Lecture Notes in Networks and Systems,scopus
+65,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,CogGNN: Cognitive Graph Neural Networks in Generative Connectomics,Lecture Notes in Computer Science,scopus
+66,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Topology-Constrained Representation Dynamics for Robust and Stable Transformer Learning,IEEE Access,scopus
+67,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Cognition-inspired Robot Learning and Manipulation for Assembly in Semi-structured Environments,Autonomous Robots,scopus
+68,PASS,,2026,"Computational Empathy in Affective LLMs: Architectures, Evaluation, and Clinical Deployment Challenges",IEEE Transactions on Affective Computing,scopus
+69,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Emotion-Enhanced Dual-Agent Recommendation: Understanding and Leveraging Cognitive Conflicts for Better Personalization,Applied Sciences (Switzerland),scopus
+70,PASS,,2026,Dual Coding Theory in Action: Language-Assisted Human Pose Estimation in Videos,Proceedings of the AAAI Conference on Artific,scopus
+71,PASS,,2026,Mitigating Cognitive Vulnerabilities in Code Generation via Multi-Agent Adversarial Debate,WWW 2026 - Proceedings of the ACM Web Confere,scopus
+72,PASS,,2025,How i Perceive It: Human Memory-Augmented Analogical Reasoning for Machine Visual Interpretation,"Proceedings - SIGGRAPH Asia 2025 Art Papers, ",scopus
+73,PASS,,2026,Development of a Dementia Care Training System that Learns with Dementia Patient Agents based on LLM-Embedded in Cognitive Architecture,HAI 2025 - Proceedings of the 13th Internatio,scopus
+74,PASS,,2026,A Multi-Agent Collaborative Framework for Personalized Teaching: Dynamic Cognitive Modeling and Iterative Optimization Approach,Proceedings of 2025 4th International Confere,scopus
+75,PASS,,2026,An Agent-Based Simulation Framework for Misinformation Susceptibility Test with LLMs: Insights from Psychological Factors,Communications in Computer and Information Sc,scopus
+76,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Brain-Computer Interfaces for Inclusive Education: Transformer Models for Real-Time Cognitive State Detection,2026 2nd International Conference on Cognitiv,scopus
+77,PASS,,2026,A Pen-Shaped Visual-Tactile Sensor System for Braille Recognition with Multimodal Fusion and LLM-Enhanced Feedback,IEEE Sensors Journal,scopus
+78,EXCLUDE,proceedings_frontmatter,2026,"Proceedings of the 27th International Symposium on Quality Electronic Design, ISQED 2026",Proceedings - International Symposium on Qual,scopus
+79,PASS,,2026,Large language models in power systems toward cognitive intelligence: A literature review,Applied Energy,scopus
+80,PASS,,2026,A Visual-Language Agent for Summarizing Surveillance Footage Using Vision Transformers and Agentic LLM,Proceedings of the IEEE International Confere,scopus
+81,PASS,,2026,Towards Understanding the Cognitive Habits of Large Reasoning Models,Machine Intelligence Research,scopus
+82,PASS,,2026,Embrace LLM-Based Cognitive Architecture to Boost Team Problem-Solving in Open-Ended Tasks,Systems,scopus
+83,PASS,,2026,Identifying Quantum Structure in AI Language: Evidence for Evolutionary Convergence of Human and Artificial Cognition,Entropy,scopus
+84,EXCLUDE,proceedings_frontmatter,2026,"12th International Conference on Behavioural and Social Computing, BESC 2025",Lecture Notes in Computer Science,scopus
+85,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,CALM: Continual Associative Learning Model via Sparse Distributed Memory,Technologies,scopus
+86,PASS,,2026,An LLM-based Waterway Scheduling Agent Integrated with Semantic Perception and Evolutionary Optimization,Proceedings - 2026 IEEE 4th International Con,scopus
+87,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Common Sense and the Limits of Inferential-Role Intuitive Theories in the Advent of AI,Minds and Machines,scopus
+88,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,A dual-process neuro-symbolic framework for cognition-driven language understanding,Applied Soft Computing,scopus
+89,PASS,,2026,Integrating LLMs and self-regulated learning in cognitive architectures: a case study in essay-writing tutoring,Cognitive Systems Research,scopus
+90,PASS,,2026,Higher-Level Cognition Under Predictive Processing: Structural Representations and Grounded Cognition,Minds and Machines,scopus
+91,PASS,,2025,"Enhancing Artificial Olfactory Reasoning via Integration of Electronic Nose Sensing, Large Language Models, and Knowledge Graphs: A Case Study on Coff",Sensors and Materials,scopus
+92,PASS,,2026,"Large-Scale Model-Enhanced Vision-Language Navigation: Recent Advances, Practical Applications, and Future Challenges",Sensors,scopus
+93,PASS,,2026,Large language models for cyberattack defense: a critical survey,Knowledge and Information Systems,scopus
+94,PASS,,2026,SHC: Deeply Activating Human-Like Cognitive Ability for Visual Question Answering,IEEE Transactions on Pattern Analysis and Mac,scopus
+95,PASS,,2026,"Agent technologies in smart manufacturing: A comprehensive review of evolution, architectures, and edge–cloud deployment",Advanced Engineering Informatics,scopus
+96,PASS,,2026,Personalized Multimodal AI and AR System for Remote Cognitive Assistance in Aging-in-Place,IEEE Access,scopus
+97,PASS,,2025,Semantic Space Embedding of Speech Act Intensions,Optical Memory and Neural Networks (Informati,scopus
+98,PASS,,2026,Features for developing agents with a sense of belonging,Cognitive Systems Research,scopus
+99,PASS,,2025,BrainSeek: A neural-driven deep semantic reasoning framework from functional magnetic resonance imaging signals,Engineering Applications of Artificial Intell,scopus
+100,PASS,,2026,The Role of LLMs in AGI,Lecture Notes in Computer Science,scopus
+101,PASS,,2026,Semantic Translation and LLM-RAG Fusion of Multi-Source Heterogeneous Data for Production Cognition in Discrete Manufacturing,Electronics (Switzerland),scopus
+102,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Understanding Without Consciousness: Quantum Structures and the Autonomy of Meaning,Foundations of Science,scopus
+103,PASS,,2026,Minimizing Response Latency in LLM-Based Agent Systems: A Comprehensive Survey,IEEE Access,scopus
+104,PASS,,2026,Metacognition for Unknown Situations and Environments (MUSE),Neural Networks,scopus
+105,PASS,,2026,MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation,Proceedings of the AAAI Conference on Artific,scopus
+106,PASS,,2026,Chain-of-Cognition Through Multi-Agent Collaboration Against Cross-Modal Cognitive Interference,"IEEE Transactions on Audio, Speech and Langua",scopus
+107,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Supporting the Traditional Passenger Role: Human-Like In-Car Conversations,Proceedings of MUM 2025 - The 24th Internatio,scopus
+108,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Cognitive schema-driven knowledge tracing based on hierarchical memory networks: Learning transfer modeling under multi-level cognitive architecture,Expert Systems with Applications,scopus
+109,PASS,,2026,Human Cognition Inspired RAG with Knowledge Graph for Complex Problem Solving,Proceedings of the AAAI Conference on Artific,scopus
+110,PASS,,2026,PC-LLMRec: Large Language Model for Personalized Interaction Recommendations in Intelligent Cockpit,IET Intelligent Transport Systems,scopus
+111,PASS,,2026,AI-Powered Conversational Assistance in Augmented Reality for Multi-Step Tasks,Proceedings - 2026 IEEE Conference on Virtual,scopus
+112,PASS,,2026,Cognitive Grounding for Perspective Integration in Multi-LLM Systems,Computers,scopus
+113,PASS,,2026,Adaptive Modular Agent Architecture for Hybrid Two-Level Reasoning,Lecture Notes in Computer Science,scopus
+114,PASS,,2026,"Golden Gate Bridge, as Always? Eliciting Prototypical Places From Autoregressive Large Language Models via Category Production",Transactions in GIS,scopus
+115,PASS,,2026,CogEA: A Multi-Agent System for Cognitive Ability Annotation of Exercises by Simulating Human Behaviors,AAMAS 2026 - Proceedings of the 25th Internat,scopus
+116,PASS,,2026,Sentiment Analysis on Steroids: A Hybrid Model Using LLMs and Symbolic AI for Affective Reasoning in a Compassionate System,Lecture Notes in Networks and Systems,scopus
+117,PASS,,2026,Can generative artificial intelligence be considered a cognitive subject? An analytic analysis,AI and Society,scopus
+118,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Multi-Level EEG Signal Analysis for Mental Workload Classification using Hybrid CNN-Transformer-BiLSTM Model,Proceedings - 3rd International Conference on,scopus
+119,PASS,,2026,Uncovering Ontology Knowledge in Large Language Models,Data Intelligence,scopus
+120,PASS,,2026,Neural Ensemble of Thought: Toward Human-like AI through Brain-inspired Reasoning,International Winter Conference on Brain-Comp,scopus
+121,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,An AI-Enabled Social Cognitive Theory Framework for Character Modeling and Moral Learning in Hans Christian Andersen's Fairy Tales,2026 IEEE 2nd International Conference on Qua,scopus
+122,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Wealth-Voyager: Navigating IntelligentWealth Management with a Multi-Agent Framework,Proceedings of 2025 International Conference ,scopus
+123,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,MINDtrack: A Conversational Interface With an AI-Powered Adaptive Human State Recognition System,Proceedings of the 2026 International Confere,scopus
+124,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Neuroeducation-Based Predictive Model Using Eye-Tracking and Neural Signals to Estimate Memory Retention in Multimodal Lessons,Proceedings of the 4th IEEE International Con,scopus
+125,PASS,,2026,LLM-based rigid-flexible collaborative fixture optimization design of near-net-shaped jet engine blade machining,Journal of Manufacturing Processes,scopus
+126,PASS,,2026,"Towards Detecting, Mitigating and Explaining Biased and Fallacious Reasoning in Large Language Models",AAMAS 2026 - Proceedings of the 25th Internat,scopus
+127,PASS,,2026,Applications of multi-agent systems in computational materials science; [多智能体在物理材料计算领域的应用],Wuli Xuebao/Acta Physica Sinica,scopus
+128,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Aligning quality management and data science with AI agents for process optimization in manufacturing: A survey,Journal of Industrial Information Integration,scopus
+129,PASS,,2026,Towards Self-Evolving Agents: A Dual-Process Framework for Continual Context Refinement,Electronics (Switzerland),scopus
+130,PASS,,2026,The AGI-Powered Metaverse: A Decentralized Task-Based Cognitive Architecture,IEEE Access,scopus
+131,PASS,,2026,Automating OntoClean Ontology Verification,Lecture Notes in Computer Science,scopus
+132,PASS,,2025,Multimodal Cognitive Architecture with Local Generative AI for Industrial Control of Concrete Plants on Edge Devices,Sensors,scopus
+133,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,NeuroSym-CoopNet: a multi-agent collaborative model incorporating cognitive coordination and neural-symbolic reasoning,Expert Systems with Applications,scopus
+134,PASS,,2026,ShadowCoT: Cognitive Hijacking for Stealthy Reasoning Backdoors in LLMs,IEEE Transactions on Information Forensics an,scopus
+135,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Enhancing Human-Robot Collaboration through Neuro-Symbolic and Neuromorphic AI,AI Modernisation Techniques for Contemporary ,scopus
+136,PASS,,2026,"Generative AI, large language models, and their agentic framing in news media",AI and Society,scopus
+137,PASS,,2026,Agentic Code Review: A Multi-Agent Framework with Meta-Cognitive Reflection and Human-in-The-Loop Alignment,2026 IEEE 2nd Secure and Trustworthy Cyberinf,scopus
+138,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Automating Knowledge Work: A Framework for Identifying Automation Strategies for Tasks,The Artificial Intelligence Revolution: Chall,scopus
+139,PASS,,2026,"AI Systems That Think, Team, and Fight: A New Paradigm for Defense",Proceedings of the International Florida Arti,scopus
+140,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Driver readiness prediction: Bridging cognitive distraction monitoring and in-vehicle decision support systems,Decision Support Systems,scopus
+141,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,"Aligned Minds, Efficient Machines: Integrating Neuromorphic Computing for Personalized AI",Innovative Decision-Making in Engineering: Th,scopus
+142,PASS,,2026,Artificial Human Intelligence: The Role of Humans in the Development of Next Generation AI,IEEE Transactions on Emerging Topics in Compu,scopus
+143,PASS,,2026,Human-Like Remembering and Forgetting in LLM Agents: An ACT-R-Inspired Memory Architecture,HAI 2025 - Proceedings of the 13th Internatio,scopus
+144,PASS,,2026,PlanAgent: A Multi-modal Large Language Agent for Closed-loop Vehicle Motion Planning,IEEE Transactions on Cognitive and Developmen,scopus
+145,PASS,,2026,"""can You Tell Me?"": Designing Copilots to Support Human Judgement in Online Information Seeking",CHIIR 2026 - Proceedings of the 2026 Conferen,scopus
+146,PASS,,2026,GraphCogent: Mitigating LLMs' Working Memory Constraints via Multi-Agent Collaboration in Complex Graph Understanding,WWW 2026 - Proceedings of the ACM Web Confere,scopus
+147,PASS,,2026,A Path to Gradual Individual Experience and Recollection for Social Robots Based on a Cognitive Architecture,Lecture Notes in Computer Science,scopus
+148,PASS,,2026,Augmenting Clinical Decision-Making with an Interactive and Interpretable AI Copilot: A Real-World User Study with Clinicians in Nephrology and Obstet,Conference on Human Factors in Computing Syst,scopus
+149,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,HarmonyLink: Exploring Cognitive Health and Advance Care Planning through LLM-Powered Supportive Conversations,Proceedings of MUM 2025 - The 24th Internatio,scopus
+150,PASS,,2025,From Forecasting to Foresight: Building an Autonomous O&M Brain for the New Power System Based on a Cognitive Digital Twin,Electronics (Switzerland),scopus
+151,PASS,,2026,Three frameworks for AI mentality,Frontiers in Psychology,scopus
+152,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Hybrid 3D CNN and Transformer-Based Multimodal Alzheimer's in Privacy Constraint Smart Health Care Systems,Proceeding of International Conference on Com,scopus
+153,PASS,,2026,CCM-FCC: LLM-powered cognition-centered AI agent framework for proactive human-robot collaboration,Robotics and Computer-Integrated Manufacturin,scopus
+154,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,A Robot System for Indoor Environment Question Answering With Cognitive Map Leveraging Vision-Language Models,IEEE Transactions on Automation Science and E,scopus
+155,PASS,,2026,Clinical Reach into the Cognitive Space (CRITiCS): Outline conceptual framework for safe use of generative artificial intelligence in mental health de,BJPsych Bulletin,scopus
+156,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Implications of Generative AI in Higher Education: A Systematic Review and Governance Framework,Revista Iberoamericana de Tecnologias del Apr,scopus
+157,PASS,,2026,LLM-Enabled Cognitive Search for Context-Aware Knowledge Retrieval from Heterogeneous Data Sources,2026 IEEE International Conference for Conver,scopus
+158,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,AI-Enabled Process Improvement in Information-Intensive Administrative Work: Real-Case Applications of LLMs in a Lean Six Sigma Context,Sustainability (Switzerland),scopus
+159,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Synthetic Cognitive Augmentation Network,Communications in Computer and Information Sc,scopus
+160,PASS,,2026,Simulating Collaborative Cognition: an LLM Agent Framework for Multi-Stance Public Opinion Summarization,Cognitive Computation,scopus
+161,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,HINT: A Bayesian RAG-LAM Framework for Real-Time Semantic Communication in XR Services,IEEE Communications Magazine,scopus
+162,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,AI for Qualitative User Research: LLM-Mediated Collaborative Sensemaking,Conference on Human Factors in Computing Syst,scopus
+163,PASS,,2026,Expand Your SCOPE: Semantic Cognition over Potential-Based Exploration for Embodied Visual Navigation,Proceedings of the AAAI Conference on Artific,scopus
+164,PASS,,2026,A Survey of Memory Models for Virtual Agents and Humans: From Psychological Foundations to Computational Architectures,Lecture Notes in Computer Science,scopus
+165,PASS,,2026,Reproducible Expert Weight Elicitation via LLM Multi-Agent Simulation: A Best–Worst Method Decision Support Framework for AI-Driven E-Commerce Platfor,Applied Sciences (Switzerland),scopus
+166,PASS,,2026,Building Resilient Users: Towards Adaptive Support for Enhanced Digital Literacy in Information Access Systems,Lecture Notes in Computer Science,scopus
+167,PASS,,2026,"A review of the emergence of AI-driven cognitive digital phenotyping: Multimodal sensing, foundation models, and the path toward digital twins for hum",Computer Science Review,scopus
+168,EXCLUDE,proceedings_frontmatter,2026,"18th International Conference on Artificial General Intelligence, AGI 2025",Lecture Notes in Computer Science,scopus
+169,PASS,,2025,VidCog: Empowering LLM with Long Video Understanding via Human-like Temporal Cognitive Loop,Proceedings of the 7th ACM International Conf,scopus
+170,PASS,,2026,The cognitive architecture of symbolic identity: Structuring coherence in human–AI reasoning systems,Cognitive Systems Research,scopus
+171,PASS,,2026,"Human–AI social cooperation: convergences, divergences, and challenges; [人类与人工智能在社会互动中合作行为的异同与挑战]",Chinese Science Bulletin,scopus
+172,PASS,,2026,A Survey on Autonomy-Induced Security Risks in Large Model-Based Agents,IEEE Transactions on Pattern Analysis and Mac,scopus
+173,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Reasoning under limited knowledge and resources: a normative–descriptive integration,Cognitive Systems Research,scopus
+174,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Multi-Agent AI assisted Multimodal Content Synthesis: Knowledge Sharing across Barriers,Proceedings of the IEEE International Confere,scopus
+175,PASS,,2025,From Static Prediction to Mindful Machines: A Paradigm Shift in Distributed AI Systems,Computers,scopus
+176,EXCLUDE,proceedings_frontmatter,2026,"18th International Symposium on NASA Formal Methods, NFM 2026",Lecture Notes in Computer Science,scopus
+177,PASS,,2026,Fear Is a Bad Gambler: Designing for Cognitive Co-Creation in AI-Mediated Social Exposure,Conference on Human Factors in Computing Syst,scopus
+178,PASS,,2026,"Decoding Dyslexia, One Emotion at a Time: An AI-Powered Generative Framework",IEEE Transactions on Affective Computing,scopus
+179,PASS,,2026,Agentic Command Assistant: Integrating Visual Perception with Generative AI for Advanced Tactical Decision Support,ICKECS 2026 - Proceedings of 4th IEEE Interna,scopus
+180,PASS,,2026,A Human-AI Collaborative Strategy for Project-Based Learning Using Large Language Models,Communications in Computer and Information Sc,scopus
+181,PASS,,2026,Are Semantic Networks Associated with Idea Originality in Artificial Creativity? A Comparison with Human Agents,Conference on Human Factors in Computing Syst,scopus
+182,PASS,,2026,The Role of Shared Mental Models in Driving Knowledge Complementarity: Enhancing Human–AI Team Effectiveness,International Journal of Human-Computer Inter,scopus
+183,PASS,,2026,From Stimuli to Minds: Enhancing Psychological Reasoning in LLMs via Bilateral Reinforcement Learning,Proceedings of the AAAI Conference on Artific,scopus
+184,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,MIND EASE+: AI based Mental Health Support System,Proceedings of the International Conference o,scopus
+185,PASS,,2026,CARE: Collaborative Cognitive Reframing in Large Language Models via Reasoning for Psychological Counseling,Communications in Computer and Information Sc,scopus
+186,PASS,,2026,RefRea: Reference-Guided Reasoning with Meta-Cognition for Accurate Language Model Agents,Proceedings of the AAAI Conference on Artific,scopus
+187,PASS,,2026,The Robot Maze Test: An Evaluation of Situated Learning for Humans and Machine Agents,Proceedings of the International Florida Arti,scopus
+188,PASS,,2026,AI-Based Asynchronous Alert Enrichment Framework for Scalable Security Operations Centers,2026 International Conference on Smart Futuri,scopus
+189,PASS,,2026,Enhancing Edge Microservice Deployment Efficiency with an LLM-Empowered Multi-agent Framework,Communications in Computer and Information Sc,scopus
+190,PASS,,2026,Innovative Multi-Agent Architectures Propelling Genomic Analysis in General and Oncology Domains,International Conference on Agents and Artifi,scopus
+191,PASS,,2026,ACT-FLEX: A Symbolic and Generative AI integration Architecture for Generalisable and Explainable Robotic Disassembly Tasks,Robotics and Computer-Integrated Manufacturin,scopus
+192,PASS,,2025,From Numerical Optimization to Cognitive Decision-Making: A Neuroscience-Inspired Framework for Safety-Critical Vehicular,BlockNetSys 2025 - Proceedings of the 2025 AC,scopus
+193,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Deep Cognitive Computing with Swin-Bi-LSTM for Real-time SOC Estimation in Smart EV Battery Systems,Cognitive Computing with Intelligent Engineer,scopus
+194,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,How should drivers’ use of Automated Lane Keeping Systems (ALKS) be assessed? A study with experienced driving assessors in a Wizard-of-Oz vehicle,Accident Analysis and Prevention,scopus
+195,PASS,,2026,AgentCDM: Enhancing Multi-Agent Collaborative Decision-Making via ACH-Inspired Structured Reasoning,Proceedings of the AAAI Conference on Artific,scopus
+196,PASS,,2026,"A process-centric review of large language models in graphical user interface testing: architectures, lifecycle impact, and challenges",PeerJ Computer Science,scopus
+197,PASS,,2026,Simulating Public Opinion Propagation on Social Media Using Large Language Model-based Agents,Journal of Systems Science and Systems Engine,scopus
+198,PASS,,2026,PCoKG: Personality-aware Commonsense Reasoning with Debate,Proceedings of the AAAI Conference on Artific,scopus
+199,PASS,,2026,"Exploring Cognitive Bias Impact, Detection and Mitigation in Large Language Models",AAMAS 2026 - Proceedings of the 25th Internat,scopus
+200,EXCLUDE,proceedings_frontmatter,2026,"1st International Workshop on Emerging LLM/LMM Applications in Medical Imaging, ELAMI 2025, Held in Conjunction with the 28th International conference",Lecture Notes in Computer Science,scopus
+201,PASS,,2026,Towards Emotion-Aware and Context-Sensitive Decision-Making in Social Robotics: Insights from MUSIC4D and MHARA,Lecture Notes in Computer Science,scopus
+202,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Explainable Cognitive Graph Intelligence Framework for Multi-Task Graduate Employability and Salary Prediction,International Journal of Advanced Computer Sc,scopus
+203,PASS,,2026,Social Cognition Simulation with Large Language Model-driven Agents; [基于大语言模型智能体的社会认知模拟],Xitong Fangzhen Xuebao / Journal of System Si,scopus
+204,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Bridging the Design and Intentional Stances: A Path Towards Interpretable AGI,Lecture Notes in Computer Science,scopus
+205,PASS,,2026,"A Little Less Conversation, a Little More Action, Please: Investigating the Physical Common-Sense of LLMs in a 3D Embodied Environment",Lecture Notes in Computer Science,scopus
+206,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,LLM-Mediated Nudge-Based Text Detoxification: Influencing User Choices to Mitigate Hate Speech,ICHORA 2026 - 8th International Congress on H,scopus
+207,PASS,,2026,System Design and Evaluation of RAG-Enhanced Digital Humans in Design Education: Analyzing Cognitive Load and Instructional Efficiency,Applied Sciences (Switzerland),scopus
+208,PASS,,2026,Scaffolding critical thinking with generative AI: Design principles for integrating large language models in higher education,Computers and Education: Artificial Intellige,scopus
+209,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,NavBuddy: An AI-Augmented Navigation Assistant for Context-Aware Route Guidance,2026 IEEE 5th International Conference on Com,scopus
+210,PASS,,2026,Generative-Conjectural LLM Equilibrium for Agentic AI Deception with Applications to Spearphishing,Lecture Notes in Computer Science,scopus
+211,PASS,,2026,Cartesian Methodical Doubt: A Cognitive Framework for Reasoning and Explainability in AI Systems,Lecture Notes in Computer Science,scopus
+212,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,A multichannel framework for multitask learning fusion in modulation recognition tasks,Engineering Applications of Artificial Intell,scopus
+213,PASS,,2025,DIVAgent: A Diversified Search Agent that Mimics the Human Search Process,CIKM 2025 - Proceedings of the 34th ACM Inter,scopus
+214,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Radio Behavior Cognition: From Signal to Intention,IEEE Network,scopus
+215,PASS,,2026,An Empirical Investigation of Adaptive Cognitive Guidance Strategy Optimization Driven by Hierarchical Chain-of-Thought Reasoning in Large Language Mo,Engineering Reports,scopus
+216,PASS,,2026,Cognitive-Load-Aware Multimodal Video Segmentation for Adaptive Consumer Media Systems,Digest of Technical Papers - IEEE Internation,scopus
+217,PASS,,2026,Design and System Implementation of an Active Perception Architecture for Maritime Targets Based on the Cognitive Mechanism of Large Models,IEEE Sensors Journal,scopus
+218,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,"A Review of Neuro-Symbolic AI for Smart Cities: Architectures, Ontologies, and IoT-Driven Applications",IEEE Access,scopus
+219,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Who-or What-Told You? Source Memory for AI-vs. Human-Authored Content,Conference on Human Factors in Computing Syst,scopus
+220,PASS,,2026,TATA: A Trust-Aware Task-Oriented Agent Framework for Industrial Intelligence Scenarios,"Computers, Materials and Continua",scopus
+221,EXCLUDE,proceedings_frontmatter,2026,WWW Companion 2026 - Companion Proceedings of the ACM Web Conference 2026,WWW Companion 2026 - Companion Proceedings of,scopus
+222,PASS,,2026,Learning from Long-Term Engagement: Adaptive Tutoring Dialogue Planning for Personalized Education,Proceedings of the AAAI Conference on Artific,scopus
+223,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Cognitive IoT Networks with Bio-Inspired Embedded AI for Predictive Maintenance and Sustainable Energy Optimization,7th International Conference on Mobile Comput,scopus
+224,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Enabling Ergonomic Human-Robot Interaction Through Large Language Modeling,Procedia Computer Science,scopus
+225,PASS,,2025,MPI-CD: Multi-Path Information Contrastive Decoding for Mitigating Hallucinations in Large Vision-Language Models,MM 2025 - Proceedings of the 33rd ACM Interna,scopus
+226,PASS,,2026,"Generative AI for healthcare: fundamentals, challenges, and perspectives",Science China Information Sciences,scopus
+227,PASS,,2026,Large language models for battery prognostics,Journal of Energy Chemistry,scopus
+228,PASS,,2026,Metacognitive skills driven knowledge tracing,Expert Systems with Applications,scopus
+229,PASS,,2026,Heterogeneous Debate Engine: Identity-Grounded Cognitive Architecture for Resilient LLM-Based Ethical Tutoring,Lecture Notes in Computer Science,scopus
+230,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Can machines think beyond words? A critique of AI’s meaning-production process,AI and Society,scopus
+231,PASS,,2026,Intelligent Unmanned Aerial Vehicles for Low-altitude Economy: A Review of the Technology Framework and Future Prospects; [低空经济赋能者：智能无人机技术体系综述与展望],Dianzi Yu Xinxi Xuebao/Journal of Electronics,scopus
+232,PASS,,2026,"Large language models and AI agents in disaster-resilient infrastructure: concepts, applications, pathways, and challenges",Reliability Engineering and System Safety,scopus
+233,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Do small and medium-sized LLMs simulate embodied cognition? A preliminary analysis for enhancing ITS with embodied cognition capabilities,Proceedings of the ACM Symposium on Applied C,scopus
+234,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,"NeuroShield-IoE: A Cognitive, Quantum-Resilient, and Self-Evolving Cybersecurity Framework for the Internet of Energy",IEEE Network,scopus
+235,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Bridging embodied cognition and AI: Agentive Cognitive Construction Grammar as a backing theory for neuro-symbolic AI,AI and Society,scopus
+236,PASS,,2026,Large language models enable semantic-guided hierarchical games for intelligent battery coordination,Advanced Engineering Informatics,scopus
+237,PASS,,2026,LLM-GeoTextCog: A Cognitive Enhancement Framework for Geospatial Scene Understanding in Geographic Texts Using Large Language Models,Transactions in GIS,scopus
+238,PASS,,2026,Generative AI as a Cognitive Partner: Redesigning Personal Information Systems for Proactive Contextual Curation,Lecture Notes in Networks and Systems,scopus
+239,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,PsyProbe: Proactive and Interpretable Dialogue through User State Modeling for Exploratory Counseling,19th Conference of the European Chapter of th,scopus
+240,PASS,,2026,ChatMicroscopy: A Perspective Review of Large Language Models for Next-Generation Optical Microscopy,Applied Sciences (Switzerland),scopus
+241,PASS,,2026,Integrating agentic AI and digital twins for intelligent decision-making systems,Array,scopus
+242,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,A Cognitive Digital Twin-based Framework for Human-Robot Collaborative Disassembly Integrating Large Language Models,Procedia CIRP,scopus
+243,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,SmartScrape: A Neuro-Symbolic Web Information Extraction,Lecture Notes in Computer Science,scopus
+244,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,MCRA: Multicolumn Residue Accumulation Analog Compute-in-Memory Architecture with Time-Domain M-Input ΣΔ ADC,IEEE Transactions on Very Large Scale Integra,scopus
+245,PASS,,2026,A Systematic Review of Safety-Driven Approaches in Human–Robot Collaborative Systems,Sensors,scopus
+246,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Real-Time Mental Condition Monitoring and Early Suicide Warning Assisted by UAV,"Journal of Circuits, Systems and Computers",scopus
+247,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,The Möbius Mind: Quantum Semiotics and the Future of Artificial Cognition,Lecture Notes in Networks and Systems,scopus
+248,PASS,,2026,InstructQA: Constructing a Chinese Classroom Dialogue Dataset via NLP and Cognitive Modeling with Optimized Learning Algorithms,Proceedings of 2026 3rd International Confere,scopus
+249,PASS,,2026,Architecture of an Intelligent Environment for Multidisciplinary Research,Communications in Computer and Information Sc,scopus
+250,PASS,,2026,DebaToM: An Innovative Debate Framework for Theory of Mind Reasoning Using Large Language Models,"IEEE Transactions on Audio, Speech and Langua",scopus
+251,PASS,,2026,Where and How AI Shapes our Thinking is the Key Point,Philosophy and Technology,scopus
+252,PASS,,2026,Eliminate-Then-Select: A human-centric reasoning framework for educational question answering with LLMs,Information Processing and Management,scopus
+253,PASS,,2025,Inferring Cognitive Workload from Symbolic Gaze Sequences Using Large Language Models,IEEE Access,scopus
+254,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,AI-based Early Alzheimer's Disease Detection using Deep Learning,Proceedings of the 6th International Conferen,scopus
+255,PASS,,2026,Ontogenesis of AGI Consciousness in ChatGPT Enabled by an External Control Module,Lecture Notes in Networks and Systems,scopus
+256,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,A 'No Gain' Direct-Conversion IQ RF-to-Bits Receiver Without Active Linear Amplification,IEEE Journal of Solid-State Circuits,scopus
+257,PASS,,2026,Generative AI for Cultural Heritage Promotion: A Multi-Agent System Implementation,2026 25th International Symposium INFOTEH-JAH,scopus
+258,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,ProActLLM: Proactive Conversational Information Seeking with Large Language Models,CIKM 2025 - Proceedings of the 34th ACM Inter,scopus
+259,PASS,,2026,SPARK: Search Personalization via Agent-Driven Retrieval and Knowledge-sharing,Proceedings of the 19th ACM International Con,scopus
+260,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Hybrid and trustworthy AI approach to anomaly detection in realistic human–robot collaboration scenarios,Robotics and Autonomous Systems,scopus
+261,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Advanced Deep Learning Frameworks for DDoS Attack Forecasting with Neurosymbolic Reasoning,2026 IEEE 5th International Conference on Com,scopus
+262,PASS,,2026,Multi-Stage Deep Incremental Reasoning: A Multi-Modal Retrieval Method Driven by Large Language Models and Knowledge Graphs,2026 6th International Conference on Artifici,scopus
+263,PASS,,2026,Comp-PointLLM: An explainable multimodal large language model for 3D object comparison,Journal of Computational Design and Engineeri,scopus
+264,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Are MLLMs Trapped in the Visual Room?,Lecture Notes in Computer Science,scopus
+265,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Fast and interpretable time series forecasting using long short-term cognitive networks,Evolving Systems,scopus
+266,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,A Multi-crop Ensemble Framework for Yield Prediction,Indian Journal of Agricultural Research,scopus
+267,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Efficient 2-D/3-D Gaze Estimation Using TGGNet: A Transformer Graph Approach,IEEE Transactions on Cognitive and Developmen,scopus
+268,PASS,,2026,Exploration of the Impact from Early Injection of Symbolic Knowledge into a Language Model,Lecture Notes in Networks and Systems,scopus
+269,PASS,,2026,VS-BIM: A cognitive map-driven framework enhancing MLLM for automatic safety inspection in construction,Advanced Engineering Informatics,scopus
+270,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Human-Digital Twin Symbiosis Using Cognitive AI for Smart Manufacturing,2026 IEEE International Conference for Conver,scopus
+271,PASS,,2026,Ladder of Intentions: Unifying Agent Architectures for Explainability and Transferability,Lecture Notes in Computer Science,scopus
+272,PASS,,2026,LLM-Powered Autonomous Security Agents for Next-Generation Cyber Defence,2026 IEEE 5th International Conference on AI ,scopus
+273,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Sophimatics and 2D Complex Time to Mitigate Hallucinations in LLMs for Novel Intelligent Information Systems in Digital Transformation,Applied Sciences (Switzerland),scopus
+274,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,HMA-DER: A Hierarchical Attention and Expert Routing Framework for Accurate Gastrointestinal Disease Diagnosis,"Computers, Materials and Continua",scopus
+275,PASS,,2026,A Review of Applications and Challenges of Large Language Models for Foundry Intelligence in the Casting Industry,"Computers, Materials and Continua",scopus
+276,PASS,,2026,Theory of Mind as a Core Component of Artificial General Intelligence,Lecture Notes in Computer Science,scopus
+277,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,A Behavioral Analytics-Driven Workforce Intelligence Model for Productivity Forecasting and Employee Retention Management,Proceedings - ICSES 2026: 5th International C,scopus
+278,PASS,,2026,Applying Cognitive Design Patterns to General LLM Agents,Lecture Notes in Computer Science,scopus
+279,EXCLUDE,proceedings_frontmatter,2026,"18th Asian Conference on Intelligent information and Database Systems, ACIIDS 2026",Lecture Notes in Computer Science,scopus
+280,PASS,,2025,UXSim: Towards a Hybrid User Search Simulation,CIKM 2025 - Proceedings of the 34th ACM Inter,scopus
+281,PASS,,2026,A Hydro-Intelligence Body: Cognitive Architecture for Project-Oriented Autonomous Water Systems Driven by Multi-Modal Sensing and Water Utility Panel,IEEE Transactions on Consumer Electronics,scopus
+282,PASS,,2026,From Sensing to Sense-Making: A Framework for On-Person Intelligence with Wearable Biosensors and Edge LLMs,Sensors,scopus
+283,PASS,,2026,CEDA-Opera: A Cognitive-Execution Decoupling System for Peking Opera Animation Generation,2026 6th International Conference on Artifici,scopus
+284,PASS,,2026,From Black Box to Learning Artifact: A Proposed Pedagogical Redesign of AI Coding Assistants for Novice Programmers,Conference on Human Factors in Computing Syst,scopus
+285,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Agentic digital twin-embedded maintenance methodology for energy equipment: A self-evolving operational paradigm,Journal of Manufacturing Systems,scopus
+286,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Cognitwin: A Neuro-Digital Synthesis for Predictive Decision Intelligence in Smart Ecosystems,2026 4th International Conference on Artifici,scopus
+287,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Explicit and Implicit Knowledge in Deep Learning: A Systematic Review of Cognitive-Inspired Representations,Lecture Notes in Networks and Systems,scopus
+288,PASS,,2026,A counselor-inspired agent framework for AI counselors to enhance client engagement,Technology in Society,scopus
+289,PASS,,2025,Quantum-inspired modeling of social impact in complex networks with artificial intelligent agents,Scientific Reports,scopus
+290,PASS,,2026,Key Technologies of Specialized Large Language Model for Operation of Next-era Distribution System: A Prospective Study; [新型配电系统运行专用大模型关键技术展望],Zhongguo Dianji Gongcheng Xuebao/Proceedings ,scopus
+291,PASS,,2026,A sentence is worth a thousand pictures: can large language models understand hum4n L4ngu4ge and the W0rld behind W0rds?,"Philosophical transactions. Series A, Mathema",scopus
+292,PASS,,2026,"Edge General Intelligence Through World Models, Large Language Models, and Agentic AI: Fundamentals, Solutions, and Challenges",IEEE Transactions on Cognitive Communications,scopus
+293,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,LLM Assisted SecOps: A Cognitive Assistant Framework for Cybersecurity Analysts,Proceedings of International Conference on Ne,scopus
+294,PASS,,2026,Through the Lens of Human-Human Collaboration: An Configurable Research Platform for Exploring Human-Agent Collaboration,Conference on Human Factors in Computing Syst,scopus
+295,PASS,,2026,Towards Self-cognitive Exploration: Metacognitive Knowledge Graph Retrieval Augmented Generation,Proceedings of the ACM SIGKDD International C,scopus
+296,PASS,,2026,CANalyze-AI: Semantic Zero-Day Detection and Rule Synthesis via LoRA-Fine-Tuned LLM for CAN Security,Lecture Notes in Computer Science,scopus
+297,PASS,,2026,Empowering Vision Language Models for Training-Free Visual Search via Context-Aware Scanpath Simulation,ICMR 2026 - Proceedings of the 16th ACM Inter,scopus
+298,PASS,,2026,"Bad Reasoners, the Turing Trap and the Problem of Artificial Dualism",Lecture Notes in Computer Science,scopus
+299,PASS,,2026,A Principle-Driven Adaptive Policy for Group Cognitive Stimulation Dialogue for Elderly with Cognitive Impairment,Proceedings of the AAAI Conference on Artific,scopus
+300,PASS,,2026,Hybrid Retrieval-Augmented Generation for Interpretable Traffic Forecasting in Urban ITS,IEEE Canadian Journal of Electrical and Compu,scopus
+301,PASS,,2026,Diffusion Generative Recommendation with Continuous Tokens,WWW 2026 - Proceedings of the ACM Web Confere,scopus
+302,EXCLUDE,proceedings_frontmatter,2026,"16th Annual International Conference on Biologically Inspired Cognitive Architectures, BICA 2025",Studies in Computational Intelligence,scopus
+303,PASS,,2026,COAPT: Bridging Semantic-Operational Divide in Autonomous Penetration Testing Through LLM-Driven Cognitive Planning,Big Data Mining and Analytics,scopus
+304,PASS,,2026,LLM-Based Evaluation of Utterances with Implicature Understanding-A Preliminary Study,HAI 2025 - Proceedings of the 13th Internatio,scopus
+305,PASS,,2026,Probing AR-assisted seamless HRC assembly for industry 5.0: Multi-modal mutual cognition and LLM-driven knowledge reasoning,Robotics and Computer-Integrated Manufacturin,scopus
+306,PASS,,2026,Intent-Driven Network Optimization Copilot with a Dual-Check Cognitive Agent,IEEE Wireless Communications and Networking C,scopus
+307,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,AskNearby: An LLM-Based Application for Neighborhood Information Retrieval and Personalized Cognitive-Map Recommendations,GeoAI 2025 - Proceedings of the 8th ACM SIGSP,scopus
+308,PASS,,2026,Decentralized Belief Propagation in LLM Agents: A Brain-Inspired Approach to AI Safety Analysis,Lecture Notes in Computer Science,scopus
+309,PASS,,2026,A diagnostic-driven multi-agent Socratic teaching system,APIET 2026 - Proceedings of 2026 Asia-Pacific,scopus
+310,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Spectrum Sensing in Cognitive Radio Using Transformer Based Deep Learning Architecture,Lecture Notes in Computer Science,scopus
+311,PASS,,2025,Eliciting problem specifications for LLM-Modulo cognitive systems,Cognitive Systems Research,scopus
+312,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Design and implementation of an intelligent educational interaction system with integrated multimodal emotion recognition and adaptive content deliver,Discover Artificial Intelligence,scopus
+313,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,NARCOX: Non-stationary auto-regressive transformers for cognitive modeling with ocular exogenous input,Neurocomputing,scopus
+314,PASS,,2026,"Heterogeneous Compute-in-Memory Fabrics for Efficient, Scalable Edge Inference and Learning",Proceedings - International Symposium on Qual,scopus
+315,PASS,,2025,Towards a next-generation LLM empowered low-code programming industrial robotic system for human-centric smart manufacturing,Journal of Manufacturing Systems,scopus
+316,PASS,,2026,Empowering Embodied Agents with Semantic Intelligence,Lecture Notes in Computer Science,scopus
+317,PASS,,2026,Large language models in mechanical design of mechatronic systems: A review,Advanced Engineering Informatics,scopus
+318,PASS,,2026,Agentic Hyper-Personalized Dimensions: Six Dimensions of Business Dark Data,Agentic Hyper-Personalized Dimensions: Six Di,scopus
+319,PASS,,2026,LLM-OCR-SWPC: Hanzi's Cognitive Advantage and Token Efficiency in Multimodal AI,Proceedings of 2026 18th International Confer,scopus
+320,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Leveraging AI Agents for Autonomous Networks: A Reference Architecture and Empirical Studies,IEEE Communications Magazine,scopus
+321,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,DataSpeck: An AI-Driven Human-in-the-Loop System for Automating Transformations in Data Conversion Workflows,Conference on Human Factors in Computing Syst,scopus
+322,PASS,,2026,Architectural Resilience in AI-Driven Decision Systems under Adversarial Conditions,2026 IEEE 5th International Conference on AI ,scopus
+323,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Transformer-Based Variational Autoencoder for Anomaly Detection in Public Lighting Power Consumption Data,Digest of Technical Papers - IEEE Internation,scopus
+324,PASS,,2026,Influence of LLM Prioritizations on Human Decisions in Requirements Engineering,Lecture Notes in Computer Science,scopus
+325,PASS,,2025,Cognitive-Enhanced Hierarchical Coordination for Lunar Energy Storage IoT Systems,BlockNetSys 2025 - Proceedings of the 2025 AC,scopus
+326,PASS,,2026,Cognitive Industrial Twin–a Survey,Lecture Notes in Mechanical Engineering,scopus
+327,PASS,,2026,"A survey of large language models in transportation planning: modelling, design and decision-making",Transportmetrica A: Transport Science,scopus
+328,PASS,,2026,Knowledge Graph-Enhanced LLMs for Unified Climate-Aware Risk Management in Banking: The Cognitive Bank Architecture,2026 International Conference on Artificial I,scopus
+329,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Agent Simulation in Virtual World With Memory and Planning,2026 International Conference on Emerging Tec,scopus
+330,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,A novel intelligent hybrid reinforcement learning framework for autonomous decision making in complex health cognitive systems,Scientific Reports,scopus
+331,PASS,,2026,The Agentic Kill Chain: A Cognitive Threat Framework for Autonomous Agent Ecosystems,CEUR Workshop Proceedings,scopus
+332,PASS,,2026,Simulating student learning behaviors with LLM-based role-playing agents: A data-driven and cognitively inspired framework,Expert Systems with Applications,scopus
+333,PASS,,2026,Real-time dynamic graph construction and reasoning to support human-AI collaborative product conceptual design,Journal of Engineering Design,scopus
+334,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Dynamic Cognition Graph for Adaptive Learning: Integrating Reasoning Evidence and Reinforcement Learning,Applied Sciences (Switzerland),scopus
+335,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,A Transformer-Enabled Method for Identifying Air Traffic Controllers’ Situation Awareness Using Eye Tracking,Lecture Notes in Computer Science,scopus
+336,PASS,,2026,MOSAIC: A Cognitively Motivated Multi-Agent Framework for Interpretable and Training-Free Empathetic Dialogue,Electronics (Switzerland),scopus
+337,PASS,,2026,Generative agents for urban mobility: A cognitive framework for realistic travel behavior simulation,Simulation Modelling Practice and Theory,scopus
+338,PASS,,2026,Influence in Motion: Tracing Persuasive Dynamics via LLM based Multi-Agent Networks,Computational Communication Research,scopus
+339,PASS,,2026,"The hidden functions of sycophancy in AI systems: steering, consistency, and cognitive dependency",AI and Society,scopus
+340,PASS,,2026,SPIRAL: Symbolic LLM Planning via Grounded and Reflective Search,Proceedings of the AAAI Conference on Artific,scopus
+341,PASS,,2026,Construction of a Large Language Model-Supported Problem Chain Guided Teaching Model,2026 15th International Conference on Educati,scopus
+342,PASS,,2026,FLUTE: FSS-Based Secure Two-Party LLM Inference Using Partial Transformer Encryption,IEEE Transactions on Dependable and Secure Co,scopus
+343,PASS,,2026,Embodied Intelligence,Handbook of Human-Centered Artificial Intelli,scopus
+344,PASS,,2026,A Benchmark for Evaluating Cognitive Reasoning in Modern Language Models,Applied Sciences (Switzerland),scopus
+345,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,TaskWise: Enhancing Cognitive Performance in Task Management through Interactive Detail Enrichment,UbiComp Companion 2025 - Companion of the 202,scopus
+346,PASS,,2026,Modeling the Spreading of Fake News Through the Interactions Between Human Heuristics and Recommender Systems,Information (Switzerland),scopus
+347,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Blind Image Denoising Using Dual-Branch Fusion Attention Network; [基 于 双 分 支 融 合 注 意 力 网 络 的 图 像 盲 去 噪 方 法 研 究],Laser and Optoelectronics Progress,scopus
+348,PASS,,2026,Intention-behavior consistency-based automated failure attribution for LLM-driven multi-agent systems,Expert Systems with Applications,scopus
+349,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,SIGMA: self-supervised inference of gene networks via masked auto-encoding,Frontiers in Genetics,scopus
+350,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Rewiring the Mind for AI: A Pilot Study on Neuro-Cognitive Changes from Prompt Engineering Training,2026 IEEE 5th International Conference on Com,scopus
+351,PASS,,2026,Personalization and Generative Dialogue in Social Robotics for Eldercare: A User Study,Applied Sciences (Switzerland),scopus
+352,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Towards Sustainable Smart Cities with AGI-Enabled Cyber-Physical-Social-Thinking Systems: A Comprehensive Review,IEEE Internet of Things Journal,scopus
+353,PASS,,2026,A Resilient Edge-Cloud Orchestration Framework for Sustaining Tactical Intelligence Continuity in LLM-Enabled V2X Systems,IEEE Access,scopus
+354,PASS,,2026,Empathic Agents and the Emotion of Being Moved: Enhancing Human–Computer Interaction,"Smart Innovation, Systems and Technologies",scopus
+355,PASS,,2026,Emotion Ontology From the Perspective of Developmental Robotics: A Review,IEEE Access,scopus
+356,PASS,,2026,The Illusion of Rationality: Tacit Bias and Strategic Dominance in Frontier LLM Negotiation Games,IEEE Transactions on Artificial Intelligence,scopus
+357,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,ADPSL: Adaptive and privacy preserving dynamic split learning for lightweight transformer models on heterogeneous IoT devices,Journal of Systems Architecture,scopus
+358,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Cognitive collaboration: A design methodology for future-oriented intelligent industrial systems,Journal of Industrial Information Integration,scopus
+359,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Industrial Brain: Self-Evolving Neuro-Symbolic Autonomy with Causal Resilience for Cyber-Physical Systems,IEEE Transactions on Pattern Analysis and Mac,scopus
+360,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,RadialFocus: Geometric Graph Transformers via Distance-Modulated Attention,CIKM 2025 - Proceedings of the 34th ACM Inter,scopus
+361,PASS,,2025,LLM-based robot personality simulation and cognitive system,Scientific Reports,scopus
+362,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,From Rule-Based to Goal-Oriented: A Systematic Review of Agentic AI in Education,IEEE Access,scopus
+363,PASS,,2026,Harnessing Large Language Models for Next-Generation Artificial Intelligence Applications,2026 2nd International Conference on Big Data,scopus
+364,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Towards Meta-Cognitive Knowledge Editing for Multimodal LLMs,WWW 2026 - Proceedings of the ACM Web Confere,scopus
+365,PASS,,2026,Why Generating Answers Is Not Enough: An Agentic AI Position Paper on Mathematical Proof and Reasoning,Procedia Computer Science,scopus
+366,PASS,,2026,Leveraging Generative AI And Reinforcement Learning For Autonomous Cyber Threat Mitigation,2026 IEEE 5th International Conference on AI ,scopus
+367,PASS,,2026,A cognitive-inspired multimodal framework for robust deepfake detection in asynchronous media,Expert Systems with Applications,scopus
+368,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Cultivating Connection: A Feasibility Study of Robot-Mediated Plant Care and Emotional Support for Older Adults,Companion Proceedings of the 21st ACM/IEEE In,scopus
+369,PASS,,2026,CogTrust: Cognitive Logic-Based framework for dynamic trust evaluation in multi-agent systems,Expert Systems with Applications,scopus
+370,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Teaching Spell Checkers to Teach: Pedagogical Program Synthesis for Interactive Learning,International Conference on Intelligent User ,scopus
+371,EXCLUDE,proceedings_frontmatter,2026,"5th International Conference on Computing and Communication Networks, ICCCN 2025",Lecture Notes in Networks and Systems,scopus
+372,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Modeling Mind and Mood with CLAIRE: Neuro-Symbolic Meta-Cognition for Interpretable Emotion Recognition,2026 IEEE Conference on Artificial Intelligen,scopus
+373,PASS,,2026,Intelligent Tutoring Systems from Symbolic AI to LLMs: A Critical Review,2026 6th International Conference on Innovati,scopus
+374,PASS,,2026,Balancing Personalization and Protocol Fidelity: A Protocol-Guided Dialogue Architecture for LLMs within Cognitive Behavioral Therapeutic Intervention,CEUR Workshop Proceedings,scopus
+375,PASS,,2026,Implementation of a Metacognition Framework for Self-Awareness and Self-Regulation in Ensembles of LLMs,WWW Companion 2026 - Companion Proceedings of,scopus
+376,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,LTDAN: A Lightweight Transformer-Based Dynamic Attention Network for Image Denoising,2026 9th International Conference on Advanced,scopus
+377,PASS,,2026,Automatic Short Answer Grading with LLMs: From Memorization to Reasoning,16th International Learning Analytics and Kno,scopus
+378,PASS,,2026,Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology,Proceedings of the AAAI Conference on Artific,scopus
+379,PASS,,2026,Unveiling the influencing factors of maritime accidents through data-driven approaches: leveraging large language model tools,Safety Science,scopus
+380,PASS,,2026,Large Language Model-Augmented Semantic Digital Twins for Real-Time Fault Diagnosis and Closed-Loop Control,Journal of Computing and Information Science ,scopus
+381,PASS,,2026,"Large language models in human-robot collaboration: A systematic review, trends, and challenges",Journal of Manufacturing Systems,scopus
+382,PASS,,2026,SOA: Improving Simulation Fidelity in Electrical System Modeling via Bilevel Optimization with LLMs and Fuzzy Rules,IEEE Transactions on Fuzzy Systems,scopus
+383,PASS,,2026,"Cognitive Internet of Things: A Review of Theory, Applications, and Recent Advances",IEEE Communications Surveys and Tutorials,scopus
+384,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Neurocomputational Linguistics and AIAugmented Cognitive Modeling in Education,Reshaping Language and Cognition in Education,scopus
+385,PASS,,2026,Agentic AI Architecture for Structural Design Automation: From Regulatory Retrieval to Physics-Based Optimization,International Conference on Industrial Cyber ,scopus
+386,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,"Behaviour-driven adaptive feedback in LLM-guided 3D spatial tasks: effects on trust, reflection, and task performance",Behaviour and Information Technology,scopus
+387,PASS,,2026,DMS-ToM: Enhancing LLMs’ Theory of Mind via Dramaturgy-Driven Mental-State Process,Lecture Notes in Computer Science,scopus
+388,PASS,,2026,Cognitive Fallibility in LLMs: Modeling Human Forgetting and Reconstruction Bias to Enhance Trust,2026 IEEE 2nd International Conference on Qua,scopus
+389,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,AI-Powered Cognitive Adaptive Risk Intelligence Framework for Automated Decision Support in Banking and Finance,Lecture Notes in Networks and Systems,scopus
+390,PASS,,2026,When Cognition Meets Data: An Investigation into Large Language Models' Acquisition of Image Schemas and Their Limitations,Proceedings of 2025 International Conference ,scopus
+391,PASS,,2026,Beyond Accuracy: A Cognitive Load Framework for Mapping the Capability Boundaries of Tool-use Agents,Proceedings of the AAAI Conference on Artific,scopus
+392,PASS,,2026,Beyond automation: Unveiling the potential of agentic intelligence,Renewable and Sustainable Energy Reviews,scopus
+393,PASS,,2026,Local LLMs for Industrial Supervision and Control: An Edge AI Event-Driven Architecture for Proactive Operational Context Management in Real Industria,Electronics (Switzerland),scopus
+394,PASS,,2026,DualMind: Towards Understanding Cognitive-Affective Cascades in Public Opinion Dissemination via Multi-Agent Simulation,WWW Companion 2026 - Companion Proceedings of,scopus
+395,PASS,,2026,A State-Driven Planning Framework for Research Dialogue Agents with Selective Retrieval-Augmented Generation,2026 International Conference on Advances in ,scopus
+396,PASS,,2026,Prompt-Aware Adapter: Learning Adaptive Visual Tokens for Multimodal Large Language Models,IEEE Transactions on Artificial Intelligence,scopus
+397,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,A Vision-Language Fusion Framework for Ethnic Minority Costume Image Captioning,Lecture Notes in Computer Science,scopus
+398,PASS,,2026,"Psychometric Assessment of the Efficacy of Thought Management Interventions in engendering Wellbeing, Productivity and Leadership Acumen",Ianna Journal of Interdisciplinary Studies,scopus
+399,PASS,,2026,AI-Driven Virtual Assistant with Immersive Experience,2026 International Conference on Smart Futuri,scopus
+400,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,BCI-Net: Biological multisensory-cognition-inspired deep network for significant wave height prediction,Ocean Engineering,scopus
+401,PASS,,2026,Read the Room or Lead the Room: Understanding Socio-Cognitive Dynamics in Human-AI Teaming,16th International Learning Analytics and Kno,scopus
+402,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Dual-Signal Validation for Reliable Transformer-Driven Higher-Order Question Generation,Proceedings of the 2026 International Confere,scopus
+403,PASS,,2026,From Software Agents to Agentic Scientists: Towards Self-Adaptive Collective Intelligence in Complex Environments,2026 International Conference on Development ,scopus
+404,PASS,,2026,A Tutorial on Cognitive Biases in Agentic AI-Driven 6G Autonomous Networks,IEEE Open Journal of the Communications Socie,scopus
+405,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Real-time cognitive and emotional state tracking in intelligent tutoring systems for enhanced learning outcomes,Journal of Big Data,scopus
+406,PASS,,2026,Expectation-Driven and Backtracking Chain-of-Thought With Structured Situational Knowledge Representation for Robotic Cognition and Industrial Situati,IEEE Transactions on Automation Science and E,scopus
+407,PASS,,2026,How Language Shapes the Way we Think,The Routledge Handbook of Communication and S,scopus
+408,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Adaptive spatio-temporal fusion network for high-frequency water quality forecasting,Journal of Hydrology,scopus
+409,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Ontology-Guided Multimodal Framework for Explainable Music Similarity and Recommendation,Big Data and Cognitive Computing,scopus
+410,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Empathy by Design: Reframing the Empathy Gap Between AI and Humans in Mental Health Chatbots,Information (Switzerland),scopus
+411,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Cognitive architecture and behavioral model based on social evidence and resource constraints,Brain Informatics,scopus
+412,PASS,,2027,THiNK: Can Large Language Models Think-Aloud?,Lecture Notes in Computer Science,scopus
+413,PASS,,2026,Hint-oriented self-suggestive learning for commonsense information processing,Information Processing and Management,scopus
+414,PASS,,2026,The Framework Design of Intelligent Assessment Tasks Recommendation System for Personalized Learning,Advanced AI Technologies for Improving Educat,scopus
+415,PASS,,2026,Cognitive Shields: Generative and Explainable AI for Autonomous Cyber Defense in Complex Network Ecosystems,The Rise of Explainable and Generative AIDriv,scopus
+416,PASS,,2026,Self-Evolving Multi-Agent Fuzzing for Industrial IoT with Knowledge-Driven Cognitive Reasoning,Sensors,scopus
+417,PASS,,2026,Decoupling Knowledge and Reasoning in LLMs: An Exploration Using Cognitive Dual-System Theory,Proceedings of the AAAI Conference on Artific,scopus
+418,PASS,,2026,A Virtual Tutor Based on Integration of LLM with a Cognitive Architecture,Studies in Computational Intelligence,scopus
+419,PASS,,2026,RecToM: A Benchmark for Evaluating Machine Theory of Mind in LLM-based Conversational Recommender Systems,Proceedings of the AAAI Conference on Artific,scopus
+420,PASS,,2025,Compositional AI Beyond LLMs: System Implications of Neuro-Symbolic-Probabilistic Architectures,International Conference on Architectural Sup,scopus
+421,PASS,,2026,Seeing graphs like humans: Benchmarking computational measures and MLLMs for similarity assessment,Information Visualization,scopus
+422,PASS,,2026,LLM agents overcome the machine penalty when acting fairly but not when acting selfishly or altruistically,National Science Review,scopus
+423,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,AGCTN: adaptive graph convolutional transformer network for hyperscanning EEG mental workload recognition,Expert Systems with Applications,scopus
+424,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Dual-enhanced human object interaction detection: Content-aware positional embedding and cognition-inspired reasoning,Expert Systems with Applications,scopus
+425,PASS,,2026,Ebbinghaus Forgetting Curve and Large Language Model Memory Management: A Cognitive Science-Driven Long-Context Enhancement Framework Design and Prosp,ICICT 2026 - Proceedings of 2026 the 9th Inte,scopus
+426,PASS,,2026,Sensemaking in Multi-Agent LLM Interfaces: How Users Interpret Transparency and Trustworthiness Cues,Conference on Human Factors in Computing Syst,scopus
+427,PASS,,2026,Knowledge Representation for Human- and Machine-Centric Explanations,Knowledge Graph and Semantic Web Technology b,scopus
+428,PASS,,2026,Enhancing Security in Embodied Intelligence: Attack Detection via Constraint Functions,Lecture Notes in Computer Science,scopus
+429,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Reducing Social Isolation and Solitary Deaths with AI-Powered Conversational Companions,Lecture Notes in Networks and Systems,scopus
+430,PASS,,2026,Expert-level financial sentiment analysis via internal and external financial knowledge fusion,Information Fusion,scopus
+431,PASS,,2026,Beating Transformers Using Synthetic Cognition,Lecture Notes in Computer Science,scopus
+432,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Concept-Level Cognitive Modeling via Multimodal Interaction: A Neuro-Symbolic Hybrid Approach for Early Concept Acquisition,International Journal of Pattern Recognition ,scopus
+433,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Transformer-Based Early Detection of Mild Cognitive Impairment Using Smart Home Behavioral Sensor Data,International Conference on Computational Rob,scopus
+434,PASS,,2025,PlantPal: Tutoring Pest and Disease Knowledge via Large Language Models,Proceedings - SIGGRAPH Asia 2025 Educator's F,scopus
+435,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,OpenCog Hyperon: A Practical Path to Beneficial AGI and ASI,Lecture Notes in Computer Science,scopus
+436,PASS,,2026,Exploring the Cognitive Capabilities of Large Language Models in Autonomous and Swarm Navigation Systems,Electronics (Switzerland),scopus
+437,PASS,,2026,PromptX: A Cognitive Agent Platform with Long-term Memory,WWW Companion 2026 - Companion Proceedings of,scopus
+438,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Early warning and intervention for college students’ mental health status based on multimodal deep learning,Discover Applied Sciences,scopus
+439,PASS,,2026,"Simulating students with large language models: A review of architecture, mechanisms, and role modeling in education with generative AI",Computer Science Review,scopus
+440,PASS,,2026,AutocleanEEG - ICVision: Automated ICA Artifact Classification Using Vision-Language AI,2026 IEEE 5th International Conference on Com,scopus
+441,PASS,,2026,Neuro-Symbolic LIDA’s Semantic Vision System,Lecture Notes in Computer Science,scopus
+442,PASS,,2026,"Cognitive 3D CAD model retrieval: a multi-agent system for intent-driven, cross-modal search",Journal of Engineering Design,scopus
+443,PASS,,2026,Adaptive Micro-Break Scheduling Using Reinforcement Learning and Multi-Modal Fatigue Detection,Proceedings of 5th International Conference o,scopus
+444,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,RIMER: A Shoulder-Mounted Remote Dialogue Facilitation Robot for Situated Reminiscence Therapy,HAI 2025 - Proceedings of the 13th Internatio,scopus
+445,PASS,,2025,CogPlanner: Unveiling the Potential of Agentic Multimodal Retrieval Augmented Generation with Planning,SIGIR-AP 2025 - Proceedings of the 2025 Annua,scopus
+446,PASS,,2026,A Multi-Dimensional Framework for Adaptive Scaffolding in Large Language Model,2026 6th International Conference on Innovati,scopus
+447,PASS,,2026,From Pattern Recognizers to Personalized Companions: a Survey of Large Language Models in Mental Health,IEEE Transactions on Affective Computing,scopus
+448,PASS,,2025,Utilizing AI Technology to Enhance Primitive Idea-Driven Mathematics Instruction,ICNISC 2025 - 11th Annual International Confe,scopus
+449,PASS,,2026,Adaptive Semantic Compression and Transmission for Cognitive Knowledge Coordination in a Hierarchical LLM-Agents System,IEEE Internet of Things Journal,scopus
+450,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Artificial creativity: can there be creativity without cognition?,AI and Society,scopus
+451,PASS,,2026,Interpreting Interaction Patterns and Cognitive Strategies in LLM-Supported Exploratory Learning: A Mixed-Methods Analysis Using the DOK Framework,Information (Switzerland),scopus
+452,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,REASON: Accelerating Probabilistic Logical Reasoning for Scalable Neuro-Symbolic Intelligence,Proceedings - International Symposium on High,scopus
+453,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,A bidirectional neuro-symbolic framework for clinical decision support via dynamic integration of deep learning and symbolic reasoning,Network Modeling Analysis in Health Informati,scopus
+454,PASS,,2026,LLM-driven human-AI collaborative decision support system for complex industrial processes: A case study in metallurgy,Neural Networks,scopus
+455,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Artificial emotion-assisted data and modeling dual-drive methods for voltage control in renewable energy enriched grids,Engineering Applications of Artificial Intell,scopus
+456,PASS,,2026,Cognitive Security: Integrating Generative AI for Adaptive and Self-Learning Defenses,Generative Artificial Intelligence for Next-G,scopus
+457,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Beyond the Click: A Framework for Inferring Cognitive Traces in Search,Lecture Notes in Computer Science,scopus
+458,PASS,,2025,Behavior tree generation and adaptation for a social robot control with LLMs,Robotics and Autonomous Systems,scopus
+459,PASS,,2026,Personalized Itinerary Planning with LLM-Guided Interaction,Recent Advances in Computer Science and Commu,scopus
+460,PASS,,2026,Towards Trustworthy Legal AI: A Multi-Agent Approach to Integrating Legislative Knowledge,Lecture Notes in Computer Science,scopus
+461,PASS,,2026,A cognitive-affective chain-driven framework for emotion understanding,Information Processing and Management,scopus
+462,PASS,,2026,World Models for Cognitive Agents: Transforming Edge Intelligence in Future Networks,IEEE Communications Magazine,scopus
+463,PASS,,2026,A Step Towards Cognitive Automation: Integrating LLM Agents with Process Rules,Lecture Notes in Computer Science,scopus
+464,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,The Observer-Situation Lattice: A Unified Formal Basis for Perspective-Aware Cognition,AAMAS 2026 - Proceedings of the 25th Internat,scopus
+465,PASS,,2027,Multi-RAG: A Multimodal Retrieval-Augmented Generation System for Adaptive Video Understanding,Lecture Notes in Computer Science,scopus
+466,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,"Artificial General Intelligence: Current Progress, Safety Considerations, and Ethical Imperatives",Proceedings of the 2026 6th International Con,scopus
+467,PASS,,2026,Adaptive empathy evaluation: an intelligent social robot tutor with multimodal assessment,Enterprise Information Systems,scopus
+468,PASS,,2025,"A Novel Architecture for Understanding, Context Adaptation, Intentionality and Experiential Time in Emerging Post-Generative AI Through Sophimatics",Electronics (Switzerland),scopus
+469,PASS,,2026,GATSim: Urban mobility simulation with generative agents,Transportation Research Part C: Emerging Tech,scopus
+470,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,SigMA: Path signatures and multi-head attention for learning parameters in fBm-driven SDEs,Neurocomputing,scopus
+471,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Emergent Self-Awareness in Distributed AI Systems: From GlobalWorkspace Integration to Measurable Consciousness,AICCC 2025 - 2025 8th Artificial Intelligence,scopus
+472,PASS,,2026,CAAD: A Cognitive-Aware Framework for AI Agent Design in Complex Tasks,Lecture Notes in Computer Science,scopus
+473,PASS,,2026,GNN-LLM hybrid cognitive architectures for generative task adaptation in multi-human multi-robot collaborative disassembly,Robotics and Computer-Integrated Manufacturin,scopus
+474,PASS,,2026,CAIM: Development and Evaluation of a Cognitive AI Memory Framework for Long-Term Interaction with Intelligent Agents,International Conference on Intelligent User ,scopus
+475,PASS,,2026,The Trust Paradox in LLM-Based Multi-Agent Systems: When Collaboration Becomes a Security Vulnerability,IEEE Transactions on Computational Social Sys,scopus
+476,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,From Understanding to Anchoring: Informal Caregivers' Mental Models of Generative Artificial Intelligence-based Conversational Agents for Problem-Solv,UMAP 2026 - Proceedings of the 34th ACM Inter,scopus
+477,PASS,,2025,CogMAEC'25: The 1st Workshop on Cognition-oriented Multimodal Affective and Empathetic Computing,MM 2025 - Proceedings of the 33rd ACM Interna,scopus
+478,PASS,,2026,Integrating Large Language Models as Cognitive Agents into the GAMA Platform for Urban Mobility Simulation,Proceedings of the International Florida Arti,scopus
+479,PASS,,2026,Neuro-Adaptive Agentic AI Platform (NAAP): A Cognitive-Technological Framework for Cybersecurity and Human Performance Optimization,2026 IEEE Conference on Artificial Intelligen,scopus
+480,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Navigating the Hard Problem of Machine Consciousness in the Age of Artificial General Intelligence: Beyond the Turing Test,Philosophical Considerations of Computational,scopus
+481,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Exploring Bias Formation Mechanisms in Legal LLMs from a Cognitive Science Perspective,Communications in Computer and Information Sc,scopus
+482,PASS,,2026,An Intelligent Teaching System with Proactive Cognitive Guidance Based on Retrieval-Augmented Generation,Lecture Notes on Data Engineering and Communi,scopus
+483,PASS,,2026,Luminara: Transforming Dunhuang Murals into Interactive Narratives Through AI Analysis and Multi-Agent Generation,DIS 2026 - Proceedngs of the 2026 ACM Designi,scopus
+484,PASS,,2026,A survey of slow thinking-based reasoning LLMs using reinforcement learning and test-time scaling law,Information Processing and Management,scopus
+485,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,A hippocampal-PFC inspired neuro-symbolic architecture for contextually anchored question chain generation,Neurocomputing,scopus
+486,PASS,,2026,NL2CA: Auto-formalizing Cognitive Decision-Making from Natural Language Using an Unsupervised CriticNL2LTL Framework,Proceedings of the AAAI Conference on Artific,scopus
+487,PASS,,2026,Confirmation Bias Awareness in Visual Information Retrieval via LLM-Guided Interaction-Trace Monitoring,IEEE Pacific Visualization Symposium,scopus
+488,PASS,,2026,AgenticNav: A Hierarchical Multi-Agentic System for LLM-Driven Autonomous Problem-Solving in Robotics,IEEE Access,scopus
+489,PASS,,2026,A Black-Box Inversion Attack on Small Language Models and Differential Privacy-Based Defense,LM-SHIELD 2026 - Workshop on Privacy in Large,scopus
+490,PASS,,2026,From prompt to persona: a literature review on LLMs as single cognitive agents,Journal of Ambient Intelligence and Humanized,scopus
+491,PASS,,2026,"TAXAL framework: Triadic fusion of cognitive, functional, and causal dimensions for explainability in agentic LLMs",Information Fusion,scopus
+492,PASS,,2026,Synthetic Intuition: A System-1/System-2 Architecture for Fast and Slow Thinking in Large Language Models,2026 IEEE 16th Annual Computing and Communica,scopus
+493,PASS,,2026,"Integrated Architectures for Generative Humanoids: A Review of Mechanical Design, Perception, and LLM-Driven Control",ICKECS 2026 - Proceedings of 4th IEEE Interna,scopus
+494,PASS,,2026,Navigating the Infinite Dynamic Web Space: Effective In-Context Exploration via Cognitive Multi-Agent Collaboration,EACL 2026 - 19th Conference of the European C,scopus
+495,PASS,,2026,Recent Advances in Artificial Intelligence in Organic Electronic Research,Advanced Materials,scopus
+496,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,A Dual-Layer Dynamic Obstacle Avoidance Path Replanning Framework Based on Transformer for UAV,IEEE Internet of Things Journal,scopus
+497,PASS,,2026,Intelligence by design: Large language model work integration as strategic enablers for supply chain regeneration through digital and cognitive capabi,Technological Forecasting and Social Change,scopus
+498,PASS,,2025,LoDriver: A Region-Localized Autonomous Driver Using Large Language Models,"IEEE Intelligent Vehicles Symposium, Proceedi",scopus
+499,PASS,,2025,From automation to augmentation: a human-centered framework for generative AI in adaptive educational content creation,CEUR Workshop Proceedings,scopus
+500,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Self-learning Cognitive Digital Twin Network of Autonomous Risk Intelligence and Predictive Fraud Protection in Next-Gen Banking,Proceedings of 5th International Conference o,scopus
+501,PASS,,2025,Hybrid Intelligence for Collaborative Assembly: Integrating Human and Robotic Agents via Shared Perception–Cognition–Action Cycles,2025 International Conference on Sustainable ,scopus
+502,EXCLUDE,no_foundationmodel_or_cognitive_signal,2024,Training and Serving System of Foundation Models: A Comprehensive Survey,IEEE Open Journal of the Computer Society,scopus
+503,PASS,,2025,From Language to Cognition: How LLMs Outgrow the Human Language Network,EMNLP 2025 - 2025 Conference on Empirical Met,scopus
+504,PASS,,2025,Intelligent Tutoring Agent with Retrieval-Augmented Generation: A Case Study of Quality Management System Course,2025 5th International Conference on Consumer,scopus
+505,PASS,,2025,Bridging Human Cognition and AI: Enhancing Transparency and Explainability with Hierarchical Conceptual Graphs and the Knowing Protocol,Proceedings of Machine Learning Research,scopus
+506,EXCLUDE,proceedings_frontmatter,2021,"5th International Conference on Cognitive Systems and Signal Processing, ICCSIP 2020",Communications in Computer and Information Sc,scopus
+507,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Explaining Listener Reactions: Personality-Guided Facial Response Generation with Cross-Modal Attention,MM 2025 - Proceedings of the 33rd ACM Interna,scopus
+508,PASS,,2025,Leveraging Machine Learning and NLP for Adaptive Education Systems: A Personalized Approach for Children,2025 IEEE International Conference on Quantum,scopus
+509,EXCLUDE,proceedings_frontmatter,2024,"20th International Conference on Generative Intelligence and Intelligent Tutoring Systems, ITS 2024",Lecture Notes in Computer Science (including ,scopus
+510,PASS,,2025,An Intelligent Cognitive Framework Integrating SOAR Architecture with Large Language Models and AI Agents for Cyber Defence,2025 IEEE 1st International Conference on Rec,scopus
+511,PASS,,2025,LLM-Powered Embodied Intelligence for Socially-Aware Robot Navigation in Human-Robot Interaction,SSTD 2025 - Proceedings of the 19th Internati,scopus
+512,PASS,,2025,Exploration of Intelligent Educational Reform in University Foundational Courses Based on AI Tutors,"Proceedings - 2025 China Automation Congress,",scopus
+513,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Adaptive Federated Learning With Local Large Language Models for Modeling Photonic and Chemical Systems,IEEE Access,scopus
+514,PASS,,2025,AI That Helps Us Help Each Other: A Proactive System for Scaffolding Mentor-Novice Collaboration in Entrepreneurship Coaching,Proceedings of the ACM on Human-Computer Inte,scopus
+515,PASS,,2025,TutorGym: A Testbed for Evaluating AI Agents as Tutors and Students,Lecture Notes in Computer Science,scopus
+516,PASS,,2025,Embodied Augmented Reality Disassembly System for Human-robot-environment Integration; [面向人-机-环境共融的具身增强现实拆解系统],Jixie Gongcheng Xuebao/Journal of Mechanical ,scopus
+517,PASS,,2025,Synergistic Interplay of Large Language Model and Digital Twin for Autonomous Optical Networks: Field Demonstrations,IEEE Communications Magazine,scopus
+518,PASS,,2025,UniDebugger: Hierarchical Multi-Agent Framework for Unified Software Debugging,EMNLP 2025 - 2025 Conference on Empirical Met,scopus
+519,PASS,,2025,AI-Driven Multimodal Mind Mapping: A Framework for Enhanced Knowledge Modeling and Human-Computer Interaction,2025 8th International Conference on Algorith,scopus
+520,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Towards Energy-Accuracy Scalable Multimodal Cognitive Systems,IEEE Embedded Systems Letters,scopus
+521,EXCLUDE,no_foundationmodel_or_cognitive_signal,2024,A FRAMEWORK FOR INFERENCE INSPIRED BY HUMAN MEMORY MECHANISMS,12th International Conference on Learning Rep,scopus
+522,PASS,,2024,XAI Transformer based Approach for Interpreting Depressed and Suicidal User Behavior on Online Social Networks,Cognitive Systems Research,scopus
+523,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,DNEN-ACVIT: A Deep Neural Ensemble Network for Automatic Modulation Classification Based on Attention Convolution and Vision Transformer,2025 10th International Conference on Cloud C,scopus
+524,PASS,,2025,CHARTQAPRO: A More Diverse and Challenging Benchmark for Chart Question Answering,Proceedings of the Annual Meeting of the Asso,scopus
+525,EXCLUDE,no_foundationmodel_or_cognitive_signal,2024,Transformers Meet ACT-R: Repeat-Aware and Sequential Listening Session Recommendation,RecSys 2024 - Proceedings of the 18th ACM Con,scopus
+526,PASS,,2025,Cognitive Map-Driven Intelligent Navigation and Control for Quadruped Medical Rescue Robots,2025 IEEE International Conference on Cyborg ,scopus
+527,EXCLUDE,proceedings_frontmatter,2020,"13th International Conference on Artificial General Intelligence, AGI 2020",Lecture Notes in Computer Science (including ,scopus
+528,PASS,,2022,The Need for a Meta-Architecture for Robot Autonomy,Electronic Proceedings in Theoretical Compute,scopus
+529,PASS,,2024,A comprehensive survey and assumption of remote sensing foundation modal; [遥感基础模型发展综述与未来设想],National Remote Sensing Bulletin,scopus
+530,PASS,,2025,Enhancing Emotion Reasoning for Image Multi-Emotion Prediction,"ICASSP, IEEE International Conference on Acou",scopus
+531,PASS,,2025,"Beyond Words: Integrating Theory of Mind into Conversational Agents for Human-Like Belief, Desire, and Intention Alignment",Proceedings of the Annual Meeting of the Asso,scopus
+532,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Neuro-Driven Agent-Based Security for Quantum-Safe 6G Networks,Mathematics,scopus
+533,PASS,,2025,AI Feels Time: Augmenting LLMs with a Bio-Inspired Temporal Cognitive Notebook :,2025 3rd International Conference on Foundati,scopus
+534,PASS,,2025,Empathetic AI for Mental Health: A Comparative Study of Retrieval-Augmented Language Models in CBT Applications,3rd International Conference on Intelligent M,scopus
+535,PASS,,2025,A Unified Perception-Language-Action Framework for Adaptive Autonomous Driving,2025 3rd International Conference on Foundati,scopus
+536,PASS,,2024,LLM experiments with simulation: Large Language Model Multi-Agent System for Simulation Model Parametrization in Digital Twins,IEEE International Conference on Emerging Tec,scopus
+537,EXCLUDE,no_foundationmodel_or_cognitive_signal,2021,A Metamodel and Framework for Artificial General Intelligence From Theory to Practice,Journal of Artificial Intelligence and Consci,scopus
+538,PASS,,2025,TPE: Towards Better Compositional Reasoning over Cognitive Tools via Multi-persona Collaboration,Lecture Notes in Computer Science (including ,scopus
+539,PASS,,2024,Social–Emotional Conversational Agents Based on Cognitive Architectures and Machine Learning,Pattern Recognition and Image Analysis,scopus
+540,EXCLUDE,proceedings_frontmatter,2024,"6th conference on Computing Systems and Applications, CSA 2024",Lecture Notes in Networks and Systems,scopus
+541,EXCLUDE,no_foundationmodel_or_cognitive_signal,2024,"Toward Cognitive Assistance and Prognosis Systems in Power Distribution Grids - Open Issues, Suitable Technologies, and Implementation Concepts",IEEE Access,scopus
+542,PASS,,2024,Position: A Call for Embodied AI,Proceedings of Machine Learning Research,scopus
+543,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,"Cognitive Autonomy for Machine-Centric IoT: A Foundation-Model Blueprint for Secure, Real-Time Automation at the Edge",2025 5th International Conference on Emerging,scopus
+544,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,"Building, Reusing, and Generalizing Abstract Representations from Concrete Sequences",13th International Conference on Learning Rep,scopus
+545,PASS,,2024,Incremental learning of humanoid robot behavior from natural interaction and large language models,Frontiers in Robotics and AI,scopus
+546,PASS,,2025,Designing Multimodal Nonverbal Communication Cues for Multirobot Supervision Through Event Detection and Policy Mapping,ICMI 2025 - Proceedings of the 27th Internati,scopus
+547,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Revolutionizing Network Management: The Journey to AI-native Autonomy,Revolutionizing Network Management: The Journ,scopus
+548,PASS,,2025,NeuroCognitor: Unified EEG-Language Framework for Cognitive Load Analysis via Instruction-Tuned Multi-Task Learning,IEEE Access,scopus
+549,PASS,,2024,ViewInfer3D: 3D Visual Grounding Based on Embodied Viewpoint Inference,IEEE Robotics and Automation Letters,scopus
+550,EXCLUDE,proceedings_frontmatter,2023,"15th International Conference on Ubiquitous Computing and Ambient Intelligence, UCAmI 2023",Lecture Notes in Networks and Systems,scopus
+551,PASS,,2025,GlyphPattern: An Abstract Pattern Recognition for Vision-Language Models,Proceedings of the Annual Meeting of the Asso,scopus
+552,PASS,,2024,Cantor: Inspiring Multimodal Chain-of-Thought of MLLM,MM 2024 - Proceedings of the 32nd ACM Interna,scopus
+553,PASS,,2025,Human-AI Synergy in Medical Education: A Conceptual Framework for Neuro-Adaptive Learning using EEG and LLMs,IEIR 2025 - Proceedings of the 4th Internatio,scopus
+554,PASS,,2025,Retrieving Memory Content from a Cognitive Architecture by Impressions from Language Models for Use in a Social Robot,Applied Sciences (Switzerland),scopus
+555,PASS,,2025,A Multi-Agent Quantum Chain of Thought Reasoning and Accuracy Accelerators Framework,IEEE International WIE Conference on Electric,scopus
+556,PASS,,2025,E-GPT: A Multi-Agent LLM Framework for Intelligent Educational Assistance,2025 1st International Conference on Advancem,scopus
+557,PASS,,2024,Do Language Models Exhibit the Same Cognitive Biases in Problem Solving as Human Learners?,Proceedings of Machine Learning Research,scopus
+558,PASS,,2025,Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents,2025 8th International Conference on Algorith,scopus
+559,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,CANSR: Cognitive-Aware NeuroSymbolic Recommendations,ICNAS 2025 - 7th International Conference on ,scopus
+560,EXCLUDE,proceedings_frontmatter,2024,"13th International Conference on Brain Inspired Cognitive Systems, BICS 2023",Lecture Notes in Computer Science (including ,scopus
+561,EXCLUDE,no_foundationmodel_or_cognitive_signal,2024,Self-Regulated Learning (SRL) with AI in Problem-Based Learning,Studies in Computational Intelligence,scopus
+562,PASS,,2025,Agile Software Management with Cognitive Multi-Agent Systems,International Conference on Agents and Artifi,scopus
+563,PASS,,2025,El Agente: An autonomous agent for quantum chemistry,Matter,scopus
+564,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Impact of GenAI using Auto Content Generation Tools on Cognitive Thinking Process in Academia,2025 15th IEEE Integrated STEM Education Conf,scopus
+565,PASS,,2025,Enhancing Cognitive Functions in Large Language Models Towards AGI: A State-of-the-Art Survey and Exploratory Review,2025 10th International Conference on Machine,scopus
+566,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,MoRTELaban: A Neurosymbolic Framework for Motion Representation and Analysis based on Labanotation and Laban Movement Analysis,UMAP 2025 - Adjunct Proceedings of the 33rd A,scopus
+567,PASS,,2025,A VR-Based Paradigm for Examining Relationship-Building Behaviors in LLM-Driven Intelligent Virtual Agents (IVAs),IVA 2025 - Adjunct Proceedings of the 25th AC,scopus
+568,PASS,,2025,Leveraging Large Language Models to Detect and Summarize Cognitive Presence in Online Discussion Forums,2025 IEEE Digital Education and MOOCS Confere,scopus
+569,PASS,,2025,ACVA: An Agentic LLM-Based Framework for CVA Calculation,Proceedings of the IEEE International Confere,scopus
+570,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Adaptive Multimodal Biomarker Fusion: A Machine Learning Framework for Personalized Mood Disorder Management,2025 3rd International Conference on Intellig,scopus
+571,PASS,,2019,A normative theory for causal inference and bayes factor computation in neural circuits,Advances in Neural Information Processing Sys,scopus
+572,PASS,,2025,InfiniteICL: Breaking the Limit of Context Window Size via Long Short-term Memory Transformation,Proceedings of the Annual Meeting of the Asso,scopus
+573,PASS,,2024,Towards LLM-augmented multiagent systems for agile software engineering,Proceedings - 2024 39th ACM/IEEE Internationa,scopus
+574,PASS,,2025,The neural correlates of logical-mathematical symbol systems processing resemble those of spatial cognition more than language processing,iScience,scopus
+575,PASS,,2025,SDQ-LLM: Sigma-Delta Quantization for 1-Bit LLMs of Any Size,Frontiers in Artificial Intelligence and Appl,scopus
+576,PASS,,2025,Modeling Cognitive and Implicit Biases in Multi-Agent Medical Systems for Clinical Diagnoses,Proceedings - 2025 IEEE/CVF International Con,scopus
+577,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,GEXMERT: Geometrically enhanced cross-modality encoder representations from transformers inspired by higher-order visual percepts,Pattern Recognition,scopus
+578,PASS,,2025,Generative AI-Powered Cognitive Agent for Holistic Human Performance Optimization,ICHMS 2025 - 5th IEEE International Conferenc,scopus
+579,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,The Ethics of Psychological Manipulation in Adversarial Conversational AI: Confronting the Recognition-Behaviour Gap,CUI 2025 - Proceedings of the 2025 ACM Confer,scopus
+580,PASS,,2024,Cognitive Architectures for Language Agents,Transactions on Machine Learning Research,scopus
+581,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,A Comparative Analysis of Neural Network Architectures for Automatic Digital Modulation Classification under Fading Conditions,Proceedings of the 17th International Scienti,scopus
+582,PASS,,2025,Do LLMs Make Mistakes Like Students? Exploring Natural Alignments Between Language Models and Human Error Patterns,Lecture Notes in Computer Science,scopus
+583,PASS,,2025,Research on Personalized Cognitive Graph Based on Large Language Models (LLM) for Education,Proceedings - Frontiers in Education Conferen,scopus
+584,PASS,,2025,ARTIFICIAL INTELLIGENCE IN THE WORK OF A PSYCHOLOGIST: AN EXAMPLE OF ANALYSIS OF VERBAL FORECASTS. Part II.; [ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ В ДЕЯТЕЛЬНОСТИ П,Psikhologicheskii Zhurnal,scopus
+585,PASS,,2025,Exploring Multimodal Quiz Generation and Evaluation Aligned with Higher-Order Learning Objectives in Bloom’s Taxonomy,Communications in Computer and Information Sc,scopus
+586,PASS,,2025,Human-Robot Collaborative Assembly Line Balancing via LLM-Guided Swarm Optimization,2025 7th International Symposium on Robotics ,scopus
+587,PASS,,2025,Emotional Advice Compared Between an Affective Intelligent Authoring Tool and Generative AI: A Cognitive Walkthrough in Medical Mobile Tutor and ChatG,"16th International Conference on Information,",scopus
+588,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,A Generative Neuro-Cognitive Architecture Using Quantum Algorithms for the Autonomous Behavior of a Smart Agent in a Simulation Environment,"Computers, Materials and Continua",scopus
+589,PASS,,2025,Third-Person Appraisal Agent: Simulating Human Emotional Reasoning in Text with Large Language Models,EMNLP 2025 - 2025 Conference on Empirical Met,scopus
+590,PASS,,2024,Enhancing Abstraction in Large Language Models Through Nature-Inspired Semantic Patterns,"2024 IEEE 15th Annual Ubiquitous Computing, E",scopus
+591,PASS,,2025,Comparing TRIZ and brainstorming in human-agent design collaboration: effects on cognitive processes and performance,Artificial Intelligence for Engineering Desig,scopus
+592,PASS,,2025,Enhancing Human-IDE Interaction in the SDLC using LLM-based Mediator Agents,Proceedings of the ACM SIGSOFT Symposium on t,scopus
+593,PASS,,2025,Case-Based Reasoning in Generative Agents: Review and Prospect,Lecture Notes in Computer Science,scopus
+594,PASS,,2025,A brain-inspired memory transformation based differentiable neural computer for reasoning-based question answering,Frontiers in Artificial Intelligence,scopus
+595,PASS,,2025,Script-based Inferences in an Image Schema Story Understander,CEUR Workshop Proceedings,scopus
+596,EXCLUDE,no_foundationmodel_or_cognitive_signal,2024,Empowering Medical Data Analysis: An Advanced Deep Fusion Model for Sorting Medicine Document,IEEE Access,scopus
+597,PASS,,2025,AllSpark: A Multimodal Spatiotemporal General Intelligence Model With Ten Modalities via Language as a Reference Framework,IEEE Transactions on Geoscience and Remote Se,scopus
+598,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Edge Large AI Model Empowered Cognitive Multimodal Semantic Communication System,IEEE International Conference on Communicatio,scopus
+599,PASS,,2025,Evaluating Cognitive Performance Through Prompt-Based Methods Using LLM in Education,Proceedings - 25th IEEE International Confere,scopus
+600,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,AI-Driven Hybrid Deep Cognitive Framework for Intrusion Detection and Decision-Making in Cognitive Radio Cybersecurity Systems,Proceedings ICECONF 2025 - 2025 2nd Internati,scopus
+601,EXCLUDE,no_foundationmodel_or_cognitive_signal,2023,Cognitive Neuro-Symbolic Reasoning Systems,CEUR Workshop Proceedings,scopus
+602,PASS,,2025,"Evaluating Prompt Strategies for Multi-Robot Planning with ChatGPT: Batch, Interactive, and Algorithmic Modes",Conference Proceedings - IEEE International C,scopus
+603,PASS,,2025,Automatic Detection of Early Cognitive Decline Using Multimodal Feature Fusion and Transfer Learning on Real-World Conversational Speech,IEEE Journal of Biomedical and Health Informa,scopus
+604,PASS,,2023,Knowledge Augmentation and Task Planning in Large Language Models for Dexterous Grasping,IEEE-RAS International Conference on Humanoid,scopus
+605,PASS,,2025,Cognitive Agents in Urban Mobility: Integrating LLM Reasoning into Multi-Agent Simulations,Sensors,scopus
+606,EXCLUDE,no_foundationmodel_or_cognitive_signal,2023,Lean six sigma methodology for waste reduction in ship production,Teknomekanik,scopus
+607,EXCLUDE,no_foundationmodel_or_cognitive_signal,2023,An Interpretable Neuro-symbolic Model for Raven’s Progressive Matrices Reasoning,Cognitive Computation,scopus
+608,PASS,,2025,SecLLM-Intent-Driven Orchestration of Heterogeneous Security Devices via MCP Function Calling and Retrieval-Augmented Generation,2025 8th International Conference on Computer,scopus
+609,PASS,,2024,Overall Prompting Effectiveness for Optimising Human-Machine Interaction in Cyber-Physical Systems,Journal of Integrated Design and Process Scie,scopus
+610,EXCLUDE,no_foundationmodel_or_cognitive_signal,2021,Abstract Spatial-Temporal Reasoning via Probabilistic Abduction and Execution,Proceedings of the IEEE Computer Society Conf,scopus
+611,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,A Tactile Cognitive Model Based on Correlated Texture Information Entropy and Multimodal Fusion Learning,Sensors,scopus
+612,PASS,,2025,An Architecture for Integrating Large Language Models with Digital Twins and Automation Systems,IEEE International Conference on Emerging Tec,scopus
+613,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,NeuroAgent-X: A Self-Evolving Cognitive Agent for Securing Consumer IoT Systems Against AI-Enabled Anomalies and Adversarial Threats,IEEE Transactions on Consumer Electronics,scopus
+614,PASS,,2025,CityGPT: Empowering Urban Spatial Cognition of Large Language Models,Proceedings of the ACM SIGKDD International C,scopus
+615,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,A review of neuro-symbolic AI integrating reasoning and learning for advanced cognitive systems,Intelligent Systems with Applications,scopus
+616,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Neuro-Semantic Federated Meta-Optimization Framework for Quantum-Assisted Predictive Congnition in Self-Evolving Cyber-Physical Infrastructures,"4th International Conference on Automation, C",scopus
+617,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Efficient Processing of Neuro-Symbolic AI: A Tutorial and Cross-Layer Co-Design Case Study,Proceedings of Machine Learning Research,scopus
+618,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Alzheimer's Disease Analysis Using Graph-Based Deep Learning Techniques,2025 IEEE International Conference on Emergin,scopus
+619,EXCLUDE,no_foundationmodel_or_cognitive_signal,2024,H3DFact: Heterogeneous 3D Integrated CIM for Factorization with Holographic Perceptual Representations,"Proceedings -Design, Automation and Test in E",scopus
+620,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Personalized English Vocabulary Learning System using Reinforcement Learning and Cognitive Behavior Pattern Recognition Techniques,Proceedings of the 7th International Conferen,scopus
+621,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,NSFlow: An End-to-End FPGA Framework with Scalable Dataflow Architecture for Neuro-Symbolic AI,Proceedings - Design Automation Conference,scopus
+622,EXCLUDE,no_foundationmodel_or_cognitive_signal,2023,Reforming higher education through AI,Governance in Higher Education: Global Reform,scopus
+623,PASS,,2025,A Cognitive Writing Perspective for Constrained Long-Form Text Generation,Proceedings of the Annual Meeting of the Asso,scopus
+624,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Cognitive Narratives: Explainable AI for Mapping Character Psychology in English Novels,Proceedings of 2025 10th International Confer,scopus
+625,EXCLUDE,no_foundationmodel_or_cognitive_signal,2022,HSI-LFS-BERT: Novel Hybrid Swarm Intelligence Based Linguistics Feature Selection and Computational Intelligent Model for Alzheimer's Prediction Using,IEEE Access,scopus
+626,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,HDS-RIIA: Adaptive Hybrid Detection for Reliable Random Readout,13th International Conference on Communicatio,scopus
+627,PASS,,2025,Security Threats in the Inference Phase of Large Language Models,Proceedings - 2025 12th International Confere,scopus
+628,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,An Enhanced Federated Siamese Network for Leveraging the Biometric Framework Mitigating Zero-Day Attacks IoT-Enabled Holographic Consumer Gadgets,IEEE Transactions on Consumer Electronics,scopus
+629,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,NeuroFusion: Embedded Model for Stress Detection Using EEG Signals,2025 2nd International Conference on New Fron,scopus
+630,PASS,,2025,CogMAS: A Cognitively-Grounded Multi-Agent Framework for Explainable and Consistent Open-Ended Student Response Scoring,Conference Proceedings - IEEE International C,scopus
+631,PASS,,2025,Perspectives of AI Applications for Improving Learning and Teaching Processes,AI in Education Systems: Successful Cases and,scopus
+632,PASS,,2025,Towards a Neuro symbolic Reasoning System Grounded in Schematic Representations,Proceedings of Machine Learning Research,scopus
+633,PASS,,2025,Cognitive SOC: Evidence-Backed Narrative Generation for Security Operations with Multi-Agent LLM Architecture,Proceedings of the IEEE International Confere,scopus
+634,PASS,,2024,Impact of Large Language Models in the Healthcare Industry: SOAR Analyses,2024 3rd International Conference on Creative,scopus
+635,EXCLUDE,no_foundationmodel_or_cognitive_signal,2024,Learning to Count with Cell Assemblies: A Neuro-Symbolic Approach,2024 28th International Conference on System ,scopus
+636,PASS,,2025,A Review of System 2 Reasoning from Cognitive Theories to Algorithmic Innovations,IEIR 2025 - Proceedings of the 4th Internatio,scopus
+637,EXCLUDE,no_foundationmodel_or_cognitive_signal,2021,Classification and feature transformation with Fuzzy Cognitive Maps,Applied Soft Computing,scopus
+638,PASS,,2025,Fast or Slow? Integrating Fast Intuition and Deliberate Thinking for Enhancing Visual Question Answering,Proceedings of the Annual Meeting of the Asso,scopus
+639,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,"Wearable Sensor Technology for Real-Time Stress, Anxiety, and Emotional Health Assessment",2025 IEEE 1st International Conference on Rec,scopus
+640,PASS,,2025,The cognitive impacts of large language model interactions on problem solving and decision making using EEG analysis,Frontiers in Computational Neuroscience,scopus
+641,EXCLUDE,no_foundationmodel_or_cognitive_signal,2024,Interval Energy Management Strategy for Multiple Energy Storage Systems Based on Traction Network Voltage and No-Load Voltage; [基于牵引网电压和空载电压的多储能系统区间能量,Diangong Jishu Xuebao/Transactions of China E,scopus
+642,EXCLUDE,no_foundationmodel_or_cognitive_signal,2023,Semantic 3D city interfaces - Intelligent interactions on dynamic geospatial knowledge graphs,Data-Centric Engineering,scopus
+643,PASS,,2025,Toward Robust Security Orchestration and Automated Response in Security Operations Centers with a Hyper-Automation Approach Using Agentic Artificial I,Information (Switzerland),scopus
+644,PASS,,2025,LLM and MCP Enabled AI Agent for Autonomous Multi-Lingual Alerts for Coastal Communities,2025 IEEE 4th International Conference for Ad,scopus
+645,PASS,,2025,Using Nonverbal Cues in Empathic Multi-Modal LLM-Driven Chatbots for Mental Health Support,Proceedings of the ACM on Human-Computer Inte,scopus
+646,PASS,,2025,A survey of cognitive digital twin and the potential use of LLMs,Manufacturing Letters,scopus
+647,PASS,,2025,Generative AI and Criminal Guilt: When No One Meant to Harm,The Cambridge Handbook of Generative AI and t,scopus
+648,EXCLUDE,no_foundationmodel_or_cognitive_signal,2024,CycleLLH: A New Network Traffic Prediction Model based on Cycle Integration; [CycleLLH:一种基于周期性整合的新型网络流量预测模型],Jisuanji Xuebao/Chinese Journal of Computers,scopus
+649,PASS,,2025,CLMC: Code-Level Metacognition for LLM Agents,IEEE International Conference on Data Mining ,scopus
+650,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Self-learning model fusion for network anomaly detection: A hybrid CNN-LSTM-transformer framework,PLOS ONE,scopus
+651,PASS,,2025,Context-Aware IoT Smart Hub: A Semantic and Cognitive Architecture for Adaptive Internet of Robotic Things Environments,2025 International Symposium on Internet of T,scopus
+652,PASS,,2025,Structured Moral Reasoning in Language Models: A Value-Grounded Evaluation Framework,EMNLP 2025 - 2025 Conference on Empirical Met,scopus
+653,PASS,,2025,Eye-tracking as Implicit Feedback for Aligning Large Language Models and Enhancing Human-AI Teaming,Eye Tracking Research and Applications Sympos,scopus
+654,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,"Thinking Smarter, not Harder? Google NotebookLM’s Misalignment Problem in Education",Proceedings of the 43rd International Confere,scopus
+655,PASS,,2024,PoSE: Suppressing Perceptual Noise in Embodied Agents for Enhanced Semantic Navigation,IEEE Robotics and Automation Letters,scopus
+656,PASS,,2024,Towards human digital twins for healthcare agent-based modeling in the Metaverse,"Human-Centered Metaverse: Concepts, Methods, ",scopus
+657,EXCLUDE,no_foundationmodel_or_cognitive_signal,2023,SaberNet: Self-attention based effective relation network for few-shot learning,Pattern Recognition,scopus
+658,PASS,,2025,Metagent-P: A Neuro-Symbolic Planning Agent with Metacognition for Open Worlds,Proceedings of the Annual Meeting of the Asso,scopus
+659,PASS,,2025,Beyond Adaptivity: Proactive Cognitive Nudging and Multimodal Engagement for Overcoming Cognitive Bias,IVA 2025 - Adjunct Proceedings of the 25th AC,scopus
+660,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Future trends in multimodal learning: from theory to practical applications,Multimodal Learning Using Heterogeneous Data,scopus
+661,EXCLUDE,no_foundationmodel_or_cognitive_signal,2023,Neuro-Symbolic AI: Integrating Symbolic Reasoning with Deep Learning,2023 10th IEEE Uttar Pradesh Section Internat,scopus
+662,PASS,,2025,Beyond Inherent Cognition Biases in LLM-Based Event Forecasting: A Multi-Cognition Agentic Framework,EMNLP 2025 - 2025 Conference on Empirical Met,scopus
+663,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,A Human–Computer-Interaction Exploration of Working Memory Using EEG,IEEE Access,scopus
+664,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Information-Measuring Approach to Multimodal Educational Content Quality via Neuro-Symbolic AI,Proceedings of the 17th International Scienti,scopus
+665,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Bridging Intuitive Associations and Deliberate Recall: Empowering LLM Personal Assistant with Graph-Structured Long-term Memory,Proceedings of the Annual Meeting of the Asso,scopus
+666,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,"AI-Powered Procurement: The Procuraedge Framework for Cognitive, Sustainable, and Resilient Supply Chain Automation",2025 IEEE Pune Section International Conferen,scopus
+667,PASS,,2019,Intersemiotic translation as a creative thinking tool: From Gertrude stein to dance,Transmediations: Communication Across Media B,scopus
+668,PASS,,2024,"Sentimental Agents: Exploring Deliberation, Cognitive Biases, and Decision-making in LLM-based Multiagent Systems",CEUR Workshop Proceedings,scopus
+669,PASS,,2025,Multi-Stage Image Aesthetic Assessment via Chain-of-Thought Reasoning,IEEE Access,scopus
+670,EXCLUDE,proceedings_frontmatter,2022,"6th International Conference on Cognitive Systems and Signal Processing, ICCSIP 2021",Communications in Computer and Information Sc,scopus
+671,PASS,,2025,Personalized Interactions With a Social Robot Based on Recollections From a Cognitive Model,CEUR Workshop Proceedings,scopus
+672,EXCLUDE,proceedings_frontmatter,2025,"2025 IEEE Symposium on Computational Intelligence in Natural Language Processing and Social Media, CI-NLPSoMe Companion 2025",2025 IEEE Symposium on Computational Intellig,scopus
+673,PASS,,2020,"From allostatic agents to counterfactual cognisers: active inference, biological regulation, and the origins of cognition",Biology and Philosophy,scopus
+674,PASS,,2025,Can Virtual AI Agents Improve Cognitive Assessment? A Virtual Reality Perspective,Proceedings of the 18th ACM International Con,scopus
+675,EXCLUDE,no_foundationmodel_or_cognitive_signal,2019,Integrated Cognitive Architecture for Robot Learning of Action and Language,Frontiers in Robotics and AI,scopus
+676,PASS,,2025,Combining Meta-Knowledge and Schema for Enhanced Mathematical Reasoning,IEIR 2025 - Proceedings of the 4th Internatio,scopus
+677,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,TrOCR-driven seal instrument detection and recognition for cognitive robotic applications,Cognitive Robotics,scopus
+678,PASS,,2025,Exploiting GenAI for Plan Generation in BDI Agents,Frontiers in Artificial Intelligence and Appl,scopus
+679,PASS,,2025,Multi-Layered Cognitive Framework for Humanlike Cognition,2025 IEEE 5th International Conference on ICT,scopus
+680,EXCLUDE,proceedings_frontmatter,2024,"Proceedings of ALTRUIST Workshop on SociAL RoboTs for PeRsonalized, ContinUous and AdaptIve ASsisTance, BAILAR Workshop on Behavior Adaptation and Lea",CEUR Workshop Proceedings,scopus
+681,PASS,,2024,Semantic Primes-Inspired Tacit Knowledge Dataset for Simulating Basic Perception Capabilities of Cognitive Architectures,Lecture Notes in Computer Science (including ,scopus
+682,PASS,,2023,Beneath Surface Similarity: Large Language Models Make Reasonable Scientific Analogies after Structure Abduction,Findings of the Association for Computational,scopus
+683,EXCLUDE,no_foundationmodel_or_cognitive_signal,2024,Anomaly Detection With Transformer for a Railway Vehicle Air Compressor,"International Journal of Control, Automation ",scopus
+684,PASS,,2025,A Cognitive Digital Twin for Industry 5.0 Based on a Large Language Model Agent,ICHMS 2025 - 5th IEEE International Conferenc,scopus
+685,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Investigating the Mitigation of Stress in Autonomous and Non-autonomous Vehicles Using LLM Feedback,Lecture Notes in Computer Science,scopus
+686,PASS,,2024,Improving Knowledge Extraction from LLMs for Task Learning through Agent Analysis,Proceedings of the AAAI Conference on Artific,scopus
+687,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Efficient Rectification of Neuro-Symbolic Reasoning Inconsistencies by Abductive Reflection (Extended Abstract),IJCAI International Joint Conference on Artif,scopus
+688,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,ProgStress-LSTM : An NLP-Enhanced Multimodal LSTM Framework for Analyzing Stress Progression,Proceedings of the 9th International Conferen,scopus
+689,PASS,,2025,SHIELD: Distributed Cognitive-Based Multi-Agent Intelligent Detection and De-sensitization System for Sensitive Information,"Proceedings - 2025 China Automation Congress,",scopus
+690,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,CogTwin: A Hybrid Cognitive Architecture Framework for Adaptable and Cognitive Digital Twins,IJCAI International Joint Conference on Artif,scopus
+691,PASS,,2024,WorldGPT: Empowering LLM as Multimodal World Model,MM 2024 - Proceedings of the 32nd ACM Interna,scopus
+692,PASS,,2023,"Predictive Analytics Based on Digital Twins, Generative AI, and ChatGPT",Proceedings of World Multi-Conference on Syst,scopus
+693,EXCLUDE,no_foundationmodel_or_cognitive_signal,2022,CNO-LSTM: A Chaotic Neural Oscillatory Long Short-Term Memory Model for Text Classification,IEEE Access,scopus
+694,PASS,,2025,Knowledge-Centered Dual-Process Reasoning for Math Word Problems With Large Language Models,IEEE Transactions on Knowledge and Data Engin,scopus
+695,PASS,,2024,Generative AI Can Be Creative Too,Lecture Notes in Computer Science (including ,scopus
+696,PASS,,2025,CodeSync: Multi-Agent System for Programming Assistance and Deterministic Thinking,Proceedings - 2025 2nd International Conferen,scopus
+697,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,A Developmentally-Staged Transformer Framework for Progressive Cognitive Learning in Language Understanding,IEEE Transactions on Cognitive and Developmen,scopus
+698,PASS,,2024,"Improving deep learning with prior knowledge and cognitive models: A survey on enhancing explainability, adversarial robustness and zero-shot learning",Cognitive Systems Research,scopus
+699,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,SynapticRAG: Enhancing Temporal Memory Retrieval in Large Language Models through Synaptic Mechanisms,Proceedings of the Annual Meeting of the Asso,scopus
+700,PASS,,2025,ExplainMed++: Generating Human-Centered Medical QA Summaries with Explanations,2025 International Conference on Artificial I,scopus
+701,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation,Proceedings - 2025 IEEE Winter Conference on ,scopus
+702,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Reflective Beam Search for Automated TTP Extraction and Sigma Rule Generation from Cyber Threat Intelligence,Proceedings of the IEEE International Confere,scopus
+703,PASS,,2025,Cognitive Kernel: An Open-source Agent System towards Generalist Autopilots,Proceedings of the 2025 Annual Conference of ,scopus
+704,PASS,,2025,MoCA-Dialog: A Benchmark for Fine-Grained Evaluation of Large Language Models in Clinical Cognitive Assessment Dialogues,Proceedings - 2025 IEEE International Confere,scopus
+705,PASS,,2025,Navigating the Unknown: A Chat-Based Collaborative Interface for Personalized Exploratory Tasks,International Conference on Intelligent User ,scopus
+706,EXCLUDE,proceedings_frontmatter,2023,"Case-Based Reasoning Research and Development - 31st International Conference, ICCBR 2023, Proceedings",Lecture Notes in Computer Science (including ,scopus
+707,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,A Visual Cognition Training System for Children with Autism Based on Gaze Estimation Model,2025 6th International Conference on Artifici,scopus
+708,PASS,,2025,Next-Generation AI Systems: From Cognitive Models to Real-World Impact,4th International Conference on Applied Artif,scopus
+709,PASS,,2025,Which AI Sees Like Us? Investigating the Cognitive Plausibility of Language and Vision Models via Eye-Tracking in Human-Robot Interaction,Sensors,scopus
+710,PASS,,2025,Atomic Learning Objectives and LLMs Labeling: A High-Resolution Approach for Physics Education,15th International Conference on Learning Ana,scopus
+711,PASS,,2025,DOES SPATIAL COGNITION EMERGE IN FRONTIER MODELS?,13th International Conference on Learning Rep,scopus
+712,PASS,,2025,M2PA: A Multi-Memory Planning Agent for Open Worlds Inspired by Cognitive Theory,Proceedings of the Annual Meeting of the Asso,scopus
+713,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Hybrid Personalization Using Declarative and Procedural Memory Modules of the Cognitive Architecture ACT-R,UMAP 2025 - Adjunct Proceedings of the 33rd A,scopus
+714,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Comprehensive Analysis on Depression Detection From Social Media Using Deep Learning and Transformer Architectures,"International Conference on Communication, Co",scopus
+715,PASS,,2025,Eliciting metaknowledge in Large Language Models,Cognitive Systems Research,scopus
+716,PASS,,2025,Not an Illusion but a Manifestation: Understanding Large Language Model Reasoning Limitations Through Dual-Process Theory,Applied Sciences (Switzerland),scopus
+717,PASS,,2024,Two-Way Human-Like Navigation System Using Large Language Models,HAI 2024 - Proceedings of the 12th Internatio,scopus
+718,EXCLUDE,proceedings_frontmatter,2023,"CogAI 2023 - Proceedings of the International Workshop on Cognitive AI 2023, co-located with the 3rd International Conference on Learning and Reasonin",CEUR Workshop Proceedings,scopus
+719,EXCLUDE,no_foundationmodel_or_cognitive_signal,2023,AVCA: Autonomous Virtual Cognitive Assessment,Lecture Notes in Computer Science (including ,scopus
+720,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Generative-assisted multi-stage integrated network: Tackling extreme noise in image denoising,Results in Engineering,scopus
+721,PASS,,2025,Feature Engineering for Agents: An Adaptive Cognitive Architecture for Interpretable ML Monitoring,Proceedings of the International Joint Confer,scopus
+722,PASS,,2025,ProMemAssist: Exploring Timely Proactive Assistance Through Working Memory Modeling in Multi-Modal Wearable Devices,UIST 2025 - Proceedings of the 38th Annual AC,scopus
+723,PASS,,2025,Blockchain Technology and Sociotechnical Cybersecurity for Educational and Learning Ecosystems,2025 IEEE International Conference on Emergin,scopus
+724,PASS,,2025,Filtering Hallucinations and Omissions in Large Language Models through a Cognitive Architecture,2025 IEEE Symposium on Computational Intellig,scopus
+725,PASS,,2024,Toward Autonomy: Metacognitive Learning for Enhanced AI Performance,AAAI Spring Symposium - Technical Report,scopus
+726,PASS,,2025,"Scaling LLMs' Social Reasoning: Sprinkle Cognitive ""Aha Moment"" into Fundamental Long-thought Logical Capabilities",Proceedings of the Annual Meeting of the Asso,scopus
+727,PASS,,2025,EMI-Agent: A Cognitive Agent for Natural-Language-Guided Exploration of Sensor Electromagnetic Vulnerabilities,Proceedings - 2025 21st International Confere,scopus
+728,PASS,,2025,Cognitive Cyber Deception: An Agentic AI Framework for Dynamically Adaptive Collaborative Honeypots,2nd Asian Conference on Intelligent Technolog,scopus
+729,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Human-like Mathematical Problem-Solving Brain for K-12 Education,IEIR 2025 - Proceedings of the 4th Internatio,scopus
+730,PASS,,2024,The Need for Grounding in LLM-based Dialogue Systems,1st Workshop on Bridging Neurons and Symbols ,scopus
+731,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,NeuroTwin Intelligence: Bridging Digital Twins and Self-Evolving AI Agents,2025 IEEE 2nd International Conference on Inf,scopus
+732,PASS,,2024,Virtual Standardized LLM-AI Patients for Clinical Practice,Annual Review of CyberTherapy and Telemedicin,scopus
+733,PASS,,2025,MMCNav: MLLM-empowered Multi-agent Collaboration for Outdoor Visual Language Navigation,ICMR 2025 - Proceedings of the 2025 Internati,scopus
+734,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Neuro-Symbolic AI for Cognitive Interaction in Humanitarian Voice-Based Interfaces,International Conference on Intelligent and I,scopus
+735,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Application of Transformers for Role-Entity Binding Extraction and Sentence Classification,Proceedings - 2025 IEEE 1st International Con,scopus
+736,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,"Cognition, Geometry, and Transformer Architectures: An Embodied Perspective on Diagram Understandability",Frontiers in Artificial Intelligence and Appl,scopus
+737,PASS,,2025,Multi-Stage Simulation of Residents’ Disaster Risk Perception and Decision-Making Behavior: An Exploratory Study on Large Language Model-Driven Social,Systems,scopus
+738,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,GenAIReading: Augmenting Human Cognition with Interactive Digital Textbooks Using Large Language Models and Image Generation Models,AHs 2025 - Proceedings of the Augmented Human,scopus
+739,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Knowledge Modeling Method for Assembly Process Planning based on Process History,IFAC-PapersOnLine,scopus
+740,PASS,,2025,MACS: A Cognitive Diversity Multi-Agent Consensus Framework for Bias Mitigation in Automated Evaluation Systems,Proceedings of the International Conference o,scopus
+741,PASS,,2025,Large Language Models as Visualization Agents for Immersive Binary Reverse Engineering,Proceedings - 2025 IEEE Working Conference on,scopus
+742,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Cross-Lingual Commonsense Reasoning Using XLM-R,2025 IEEE International Conference on Recent ,scopus
+743,PASS,,2025,Agentic artificial intelligence in cognitive screening: A translational roadmap for dementia care,Journal of Alzheimer's Disease Reports,scopus
+744,EXCLUDE,no_foundationmodel_or_cognitive_signal,2020,Leveraging Unstructured Statistical Knowledge in a Probabilistic Language of Thought,Proceedings for the 42nd Annual Meeting of th,scopus
+745,EXCLUDE,no_foundationmodel_or_cognitive_signal,2024,Using Artificial Populations to Study Psychological Phenomena in Neural Models,Proceedings of the AAAI Conference on Artific,scopus
+746,PASS,,2025,Disembodied Meaning? Generative AI and Understanding,Forum for Linguistic Studies,scopus
+747,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Electromagnetic Spectrum Situation Cognition and Conflict Resolution Method Based on Multimodal Causal Transformer (MC-Trans),2025 IEEE International Conference on Communi,scopus
+748,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,"Co-Writing with AI, on Human Terms: Aligning Research with User Demands Across the Writing Process",Proceedings of the ACM on Human-Computer Inte,scopus
+749,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Samadhan AI: An LLM-Driven Chatbot for Grievance Lodging,Lecture Notes in Networks and Systems,scopus
+750,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,A Review of Visual Perception and Generation Technologies in Intelligent Transportation Scenarios,2025 8th International Conference on Algorith,scopus
+751,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Enhancing the Validation of Human Factors in User Interface Software Testing with AI,Lecture Notes in Computer Science,scopus
+752,PASS,,2025,AI Agents in Law’s Empire: An Introduction to Law and the AI–Human Relationship,"Artificial Intelligence, Humans and the Law",scopus
+753,PASS,,2025,Enhancing Code Security Specification Detection in Software Development with LLM,2025 7th International Conference on Informat,scopus
+754,PASS,,2025,Understanding Epistemic Language with a Language-augmented Bayesian Theory of Mind,Transactions of the Association for Computati,scopus
+755,PASS,,2024,Bootstrapping Cognitive Agents with a Large Language Model,Proceedings of the AAAI Conference on Artific,scopus
+756,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,"Conversational AI for Cognitive, Emotional, and Social Engagement of Elderly Persons: A Large Language Model-Based Framework",Communications in Computer and Information Sc,scopus
+757,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Empathetic AI: Multimodal Interaction Framework for Emotional Resilience and Cognitive Engagement in Elderly Care,IEEE International Conference on Next Generat,scopus
+758,EXCLUDE,no_foundationmodel_or_cognitive_signal,2024,A neurosymbolic cognitive architecture framework for handling novelties in open worlds,Artificial Intelligence,scopus
+759,PASS,,2025,Large language model-enabled cognitive agent for self-aware manufacturing,Journal of Manufacturing Systems,scopus
+760,PASS,,2025,CoderAgent: Simulating Student Behavior for Personalized Programming Learning with Large Language Models,IJCAI International Joint Conference on Artif,scopus
+761,PASS,,2025,CAPE: A Chinese Dataset for Appraisal-based Emotional Generation using Large Language Models,2025 Annual Conference of the Nations of the ,scopus
+762,PASS,,2025,"Speaking in Words, Thinking in Logic: A Dual-Process Framework in QA Systems",Proceedings of the International Joint Confer,scopus
+763,PASS,,2025,Multimodal Behavioral Patterns Analysis with Eye-Tracking and LLM-Based Reasoning,ICMI 2025 - Proceedings of the 27th Internati,scopus
+764,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Alzhiemer Disease Detection Using MobileNetV2 Integrated with Vision Transformer,Lecture Notes in Electrical Engineering,scopus
+765,EXCLUDE,no_foundationmodel_or_cognitive_signal,2022,One Possibility of a Neuro-Symbolic Integration,Studies in Computational Intelligence,scopus
+766,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Layer-Informed Memorability Prediction and Reinforcement-Guided Multimedia Content Adjustment,McGE 2025 - Proceedings of the 3rd Internatio,scopus
+767,PASS,,2025,Towards Trustworthy and Explainable Socially Assistive Robots: A Cognitive Architecture for Dietary Guidance,2025 IEEE International Conference on Simulat,scopus
+768,PASS,,2025,Cognitive Agents Powered by Large Language Models for Agile Software Project Management,Electronics (Switzerland),scopus
+769,PASS,,2025,Enhancing AAV-Based Industrial Systems With Cognitive IoT: Detecting AI-Manipulated Visual Data Using Graph-Based Methods,IEEE Internet of Things Journal,scopus
+770,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Automation of SIEM Correlation Rules Based on Mapping and LLM,Proceedings of the 17th International Scienti,scopus
+771,PASS,,2025,CONCEPTUALIZING THE SPACE: HOW NATURAL AND ARTIFICIAL COGNITIVE AGENTS USE TOPOLOGICAL SEMANTICS SCHEMES (BASED ON DESCRIPTIONS OF PAINTINGS FROM THE ,Epistemology and Philosophy of Science,scopus
+772,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Exploring Multimodal Perception in Large Language Models Through Perceptual Strength Ratings,IEEE Access,scopus
+773,PASS,,2025,"Further N-Frame networking dynamics of conscious observer-self agents via a functional contextual interface: predictive coding, double-slit quantum me",Frontiers in Computational Neuroscience,scopus
+774,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Towards large language models with human-like episodic memory,Trends in Cognitive Sciences,scopus
+775,PASS,,2024,Deciphering AI Decision-Making: A Generalizable Framework of Human-AI Misalignment,Computing in Civil Engineering 2024: Artifici,scopus
+776,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Emotion across Modalities and Cultures: Multilingual Multimodal Emotion-Cause Analysis with Memory-inspired Framework,MM 2025 - Proceedings of the 33rd ACM Interna,scopus
+777,PASS,,2025,GameTraj-LLM: Stackelberg Game-Theoretic Trajectory Prediction for Pedestrian with Large Language Model,2025 9th CAA International Conference on Vehi,scopus
+778,PASS,,2025,OSC: Cognitive Orchestration through Dynamic Knowledge Alignment in Multi-Agent LLM Collaboration,EMNLP 2025 - 2025 Conference on Empirical Met,scopus
+779,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,"A Neuro-Symbolic, Multi-Modal Architecture for Advancing Adaptive Intelligent Tutoring Systems",Proceedings of the 17th International Scienti,scopus
+780,PASS,,2025,How to make Medical Large Language Models better utilize medical cases,2025 4th International Conference on Electron,scopus
+781,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Telling Human and Machine Handwriting Apart,"IEEE Transactions on Systems, Man, and Cybern",scopus
+782,EXCLUDE,no_foundationmodel_or_cognitive_signal,2024,Enabling human–machine symbiosis: Automated establishment of common ground and estimates of the topological structures of Commander’s Intent,Interdependent Human-Machine Teams: The Path ,scopus
+783,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Ethicore AI: Trust Driven Cognitive Intelligence with Emotion Awareness and Transparent Decision Making,Proceedings of International Conference on Su,scopus
+784,PASS,,2025,Multi-agent Architecture Search via Agentic Supernet,Proceedings of Machine Learning Research,scopus
+785,EXCLUDE,no_foundationmodel_or_cognitive_signal,2024,Towards Cognitive AI Systems: Workload and Characterization of Neuro-Symbolic AI,Proceedings - 2024 IEEE International Symposi,scopus
+786,PASS,,2025,Representing and Tracing Students' Cognitive Processes in Project-Based Learning through the Function-Behavior-Structure Framework and Knowledge Graph,"Proceedings - 2025 IEEE Smart World Congress,",scopus
+787,PASS,,2024,"A functional contextual, observer-centric, quantum mechanical, and neuro-symbolic approach to solving the alignment problem of artificial general inte",Frontiers in Computational Neuroscience,scopus
+788,PASS,,2025,Exploring Familiarity and Knowledgeability in Conversational Virtual Agents,ACM Transactions on Applied Perception,scopus
+789,PASS,,2024,WIP: Engineering Class Students' Epistemic Cognition when Interacting with Generative AI,Proceedings - Frontiers in Education Conferen,scopus
+790,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,In the eyes of a language model: A comprehensive examination through eye-tracking data,Neurocomputing,scopus
+791,PASS,,2025,"Augmented Cognition Meets AI: Enhancing Human Performance with Real-Time, Adaptive, and Trustworthy Intelligence",Proceedings of the Human Factors and Ergonomi,scopus
+792,EXCLUDE,no_foundationmodel_or_cognitive_signal,2018,A Probabilistic Model of Social Working Memory for Information Retrieval in Social Interactions,IEEE Transactions on Cybernetics,scopus
+793,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Cognitive AI Systems for Real-Time Market Anomaly Detection and Asset Pricing in Financial Markets,Cognitive Cyber Crimes in the Era of Artifici,scopus
+794,PASS,,2024,Predicting and Understanding Human Action Decisions: Insights from Large Language Models and Cognitive Instance-Based Learning,Proceedings of the AAAI Conference on Human C,scopus
+795,PASS,,2025,GAIus: Combining Genai with Legal Clauses Retrieval for Knowledge-Based Assistant,International Conference on Agents and Artifi,scopus
+796,PASS,,2025,"Large Language Models Have Intrinsic Meta-Cognition, but Need a Good Lens",EMNLP 2025 - 2025 Conference on Empirical Met,scopus
+797,PASS,,2025,Agent-driven Cognitive Object/Motion/Environment Hybrid Vision-Language Model on CCTV Surveillance-Video Bigdata,2025 3rd International Conference on Foundati,scopus
+798,PASS,,2024,"One to rule them all: natural language to bind communication, perception and action",CEUR Workshop Proceedings,scopus
+799,PASS,,2025,Emotion Change Reasoning in Chinese Multi-Turn Dialogue via Multi-Task Parameter-Efficient Fine-Tuning of Large Language Models,International Journal of Humanoid Robotics,scopus
+800,PASS,,2025,Bio-Inspired Computing with Emerging Devices: Bridging 2D Materials and Neuromorphic Architectures,Proceedings of IEEE Computer Society Annual S,scopus
+801,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Recognizing Dementia from Neuropsychological Tests with State Space Models,ASRU 2025 - 2025 IEEE Automatic Speech Recogn,scopus
+802,PASS,,2025,Using Memory Contents of a Cognitive Model for Prompt Augmentation of a Large Language Model,2025 IEEE Conference on Cognitive and Computa,scopus
+803,PASS,,2025,Enhancing Reasoning Abilities of Small LLMs with Cognitive Alignment,EMNLP 2025 - 2025 Conference on Empirical Met,scopus
+804,EXCLUDE,no_foundationmodel_or_cognitive_signal,2022,The Piagetian Modeler,Lecture Notes in Computer Science (including ,scopus
+805,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Command Cognition: A Multi-Agent Framework for Intelligent Linux CLI Assistance,Conference Proceedings - 2025 8th Internation,scopus
+806,PASS,,2024,Neuro-Vision to Language: Enhancing Brain Recording-based Visual Reconstruction and Language Interaction,Advances in Neural Information Processing Sys,scopus
+807,PASS,,2025,Agentic-ToM: Cognition-Inspired Agentic Processing For Enhancing Theory of Mind Reasoning in Large Language Models,EMNLP 2025 - 2025 Conference on Empirical Met,scopus
+808,EXCLUDE,proceedings_frontmatter,2025,"22nd International Conference on Practical Applications of Agents and Multi-Agent Systems, PAAMS 2024",Lecture Notes in Computer Science (including ,scopus
+809,PASS,,2025,Distributed Cognitive Diagnosis Through Multi-Agent Reinforcement and Reasoning,IEIR 2025 - Proceedings of the 4th Internatio,scopus
+810,PASS,,2025,Grounding Agent Reasoning in Image Schemas: A Neurosymbolic Approach to Embodied Cognition,Proceedings of the International Joint Confer,scopus
+811,PASS,,2025,Adaptive Prompt Intelligence: Towards Self-Evolving Conversational Agents,2025 IEEE 5th International Conference on ICT,scopus
+812,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,SYNthia: An Interface Concept for Writing with Large Language Models,C and C 2025 - Proceedings of the 2025 Confer,scopus
+813,PASS,,2025,LLM-ACTR: from Cognitive Models to LLMs in Manufacturing Solutions,AAAI Spring Symposium - Technical Report,scopus
+814,PASS,,2025,A Reflective Architecture for LLM-Based Systems,Proceedings - 2025 IEEE International Confere,scopus
+815,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,A Novel Algorithm for Speech Based Cognitive Assessment in Alzheimers Integrating Double Metaphone and Levenshtein Distance,2025 International Conference on Sensors and ,scopus
+816,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Accurate Time-to-Target Forecasting for Autonomous Mobile Robots,IEEE Access,scopus
+817,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Learning Where and When to Reason in Neurosymbolic Inference,Metacognitive Artificial Intelligence,scopus
+818,PASS,,2025,Relevance of Grounding AI for Health Care,Studies in Health Technology and Informatics,scopus
+819,PASS,,2025,Generative Models for Incremental Learning to Advance Autonomous Agent Evolution: A 3D Perspective,European Signal Processing Conference,scopus
+820,PASS,,2025,CognitiveOS: Large Multimodal Model Based System to Endow Any Type of Robot with Generative AI,Proceedings - IEEE International Conference o,scopus
+821,PASS,,2025,Embodied AI: From LLMs to World Models [Feature],IEEE Circuits and Systems Magazine,scopus
+822,PASS,,2025,"BOARD # 263: IUSE: Research on Generative Design Thinking: Design Cognition, Tools, and Education","ASEE Annual Conference and Exposition, Confer",scopus
+823,PASS,,2025,Epistemic trustworthiness of AI: (the necessity of) explainable AI in legal decision-making,Research Handbook on Epistemologies of Law,scopus
+824,PASS,,2024,Synthesizing the temporal self: Robotic models of episodic and autobiographical memory,Philosophical Transactions of the Royal Socie,scopus
+825,EXCLUDE,no_foundationmodel_or_cognitive_signal,2024,To the problem of digital immortality,Cognitive Systems Research,scopus
+826,PASS,,2024,Language-Conditioned Robotic Manipulation with Fast and Slow Thinking,Proceedings - IEEE International Conference o,scopus
+827,PASS,,2024,ARN: Analogical Reasoning on Narratives,Transactions of the Association for Computati,scopus
+828,EXCLUDE,proceedings_frontmatter,2020,"Proceedings of the 2020 3rd International Conference on Information Management and Management Science, IMMS 2020",ACM International Conference Proceeding Serie,scopus
+829,EXCLUDE,proceedings_frontmatter,2020,"10th International Scientific and Technical Conference on Open Semantic Technologies for Intelligent System, OSTIS 2020",Communications in Computer and Information Sc,scopus
+830,EXCLUDE,no_foundationmodel_or_cognitive_signal,2024,Neuro-symbolic recommendation model based on logic query,Knowledge-Based Systems,scopus
+831,EXCLUDE,no_foundationmodel_or_cognitive_signal,2018,Conductivity Estimation for Reliable Assessment of Power Transformer Insulation at Reduced Time,Proceedings of 2018 IEEE International Confer,scopus
+832,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,NeuroFatigueNet: Memory-Augmented Hybrid TCNTransformer Architecture for Real-Time EEG-Based Fatigue Detetction and Early Intervention on Edge Devices,Proceedings - 2025 17th International Confere,scopus
+833,PASS,,2025,"A Hybrid, Multi-Layered Memory Architecture for Collaborative Reasoning in Multi-Agent Systems",2025 3rd International Conference on Foundati,scopus
+834,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Towards Cognitive-Friendly L2 Learning: A Transformer-GAT Fusion Model with Neural Forgetting Simulation,Proceedings - 2025 2nd International Conferen,scopus
+835,PASS,,2025,Intention Reading Architecture for Virtual Agents,Lecture Notes in Computer Science,scopus
+836,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,A Grid Cell-Inspired Structured Vector Algebra for Cognitive Maps,"IEEE Neuro-Inspired Computational Elements, N",scopus
+837,PASS,,2025,Spatiotemporal-Modal Cognitive Agents Based on Programmatic Reasoning,2025 6th International Conference on Computer,scopus
+838,EXCLUDE,proceedings_frontmatter,2020,"3rd International Workshop on Formal Co-Simulation of Cyber-Physical Systems, CoSim-CPS 2019, International Workshop on Automated and verifiable Softw",Lecture Notes in Computer Science (including ,scopus
+839,PASS,,2025,A Review of Agentic Artificial Intelligence: Power of Self-Driven AI in the Future of Financial Autonomy and Enhanced Customer Engagement,Proceedings of 3rd International Conference o,scopus
+840,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Artificial Intelligence Enabled Decision Support System for Hospitality Operations,2025 IEEE 5th International Conference on ICT,scopus
+841,PASS,,2024,Learning a Structural Causal Model for Intuition Reasoning in Conversation,IEEE Transactions on Knowledge and Data Engin,scopus
+842,PASS,,2024,The Cognitive Hourglass: Agent Abstractions in the Large Models Era,Proceedings of the International Joint Confer,scopus
+843,PASS,,2024,A Socially Acceptable Conversational Agent Based on Cognitive Modeling and Machine Learning,Studies in Computational Intelligence,scopus
+844,PASS,,2025,Disentangling Belief and Inference: Adaptive Algorithms for Individual Human Reasoning,Frontiers in Artificial Intelligence and Appl,scopus
+845,PASS,,2025,Cognitive Interaction Layers for Neuro-Symbolic AI,CEUR Workshop Proceedings,scopus
+846,PASS,,2025,Development of an Intelligent Agent for Optimizing Alarm Deviation in Equipment Health Models Based on Large Language Models,2025 5th International Conference on Intellig,scopus
+847,PASS,,2025,"Path to Artificial General Intelligence: Past, present, and future",Annual Reviews in Control,scopus
+848,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,An Architectural Approach to Metacognition,Metacognitive Artificial Intelligence,scopus
+849,PASS,,2025,"Cognitive Neurosymbolic Artificial Intelligence for Complex Decision-Making: Integrating Foundation Models, Cognitive Architectures, and Knowledge",IEEE Intelligent Systems,scopus
+850,PASS,,2025,ToM-SSI: Evaluating Theory of Mind in Situated Social Interactions,EMNLP 2025 - 2025 Conference on Empirical Met,scopus
+851,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,LSD-HybridViT: A Hybrid Vision Transformer With Lightweight Mixed-Domain Attention and Frequency Multi-Scale Dilated Convolution Feature Fusion for Di,IEEE Access,scopus
+852,PASS,,2025,Enhancing Multi-Agent Systems via Reinforcement Learning with LLM-Based Planner and Graph-Based Policy,Proceedings - IEEE International Conference o,scopus
+853,EXCLUDE,proceedings_frontmatter,2022,"14th International Conference on Artificial General Intelligence, AGI 2021",Lecture Notes in Computer Science (including ,scopus
+854,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Video swin-CLSTM transformer: Enhancing human action recognition with optical flow and long-term dependencies,PLOS ONE,scopus
+855,EXCLUDE,no_foundationmodel_or_cognitive_signal,2024,"Artificial Intelligence and Brain Research: Neural Networks, Deep Learning and the Future of Cognition",Artificial Intelligence and Brain Research: N,scopus
+856,PASS,,2025,Xiaohang: Research on the Construction and Application of Educational Intelligent Agents Based on Large Language Models,Proceedings - Frontiers in Education Conferen,scopus
+857,PASS,,2025,A Comparative Evaluation of Function-Calling LLMs in a Cognitive Architecture,Conference Proceedings - 2025 IEEE Internatio,scopus
+858,PASS,,2025,TACLA: An LLM-Based Multi-Agent Tool for Transactional Analysis Training in Education,Proceedings - International Conference on Too,scopus
+859,EXCLUDE,no_foundationmodel_or_cognitive_signal,2023,Learning From Interaction-Enhanced Scene Graph for Pedestrian Collision Risk Assessment,IEEE Transactions on Intelligent Vehicles,scopus
+860,PASS,,2025,Artificial Intelligence in Cyber Threat Intelligence: A Systematic Review of Techniques and Applications,ICCR 2025 - 3rd International Conference on C,scopus
+861,PASS,,2025,Cognitive Consistency Verification: Neuro-Symbolic Approach for Mitigating VLM Hallucination,Proceedings of the IEEE International Confere,scopus
+862,PASS,,2024,Modeling the Driver's Lane-Changing Decision Under the Influence of the Blind Zone Image of an Intelligent Vehicle: A Practice Based on Cognitive-Driv,Proceedings of the 2024 8th CAA International,scopus
+863,EXCLUDE,proceedings_frontmatter,2024,"17th International Conference on Artificial General Intelligence, AGI 2024",Lecture Notes in Computer Science (including ,scopus
+864,EXCLUDE,no_foundationmodel_or_cognitive_signal,2024,SPATIALLY-AWARE TRANSFORMER FOR EMBODIED AGENTS,12th International Conference on Learning Rep,scopus
+865,PASS,,2025,Position Paper: Large Language Models need Episodic Memory,Proceedings of the International Joint Confer,scopus
+866,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Towards a psychology of machines: large language models predict human memory,PeerJ Computer Science,scopus
+867,EXCLUDE,no_foundationmodel_or_cognitive_signal,2022,Cognitive Learning Agents for Autonomous Mobility on Demand Systems,CEUR Workshop Proceedings,scopus
+868,EXCLUDE,proceedings_frontmatter,2018,"2018 14th International Conference on Development and Application Systems, DAS 2018 - Proceedings",2018 14th International Conference on Develop,scopus
+869,EXCLUDE,proceedings_frontmatter,2025,"2025 IEEE International Conference on Simulation, Modeling, and Programming for Autonomous Robots, SIMPAR 2025",2025 IEEE International Conference on Simulat,scopus
+870,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Construction and Validation of a Cognitive Model for Children's Language Acquisition Based on the Transformer Architecture,2025 10th International Conference on Compute,scopus
+871,PASS,,2025,Mutual human-robot understanding for a robot-enhanced society: the crucial development of shared embodied cognition,Frontiers in Artificial Intelligence,scopus
+872,PASS,,2025,"Recent Advances, Critical Reflections, and Future Directions in Large-Scale Group Decision-Making: A Comprehensive Survey","IEEE Transactions on Systems, Man, and Cybern",scopus
+873,EXCLUDE,proceedings_frontmatter,2024,"8th International Conference on Cognitive Systems and Information Processing, ICCSIP 2023",Communications in Computer and Information Sc,scopus
+874,PASS,,2024,Strengths-Leverage Chain-of-Thought: Enhancing Multimodal Reasoning with LLM and LMM,Proceedings - 2024 International Conference o,scopus
+875,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,LLMCloudHunter: Harnessing LLMs for Automated Extraction of Detection Rules from Cloud-Based CTI,WWW 2025 - Proceedings of the ACM Web Confere,scopus
+876,PASS,,2025,Mediating Cognitive Biases in Business Decisions Using LLMS,Proceedings - 2025 IEEE Conference on Artific,scopus
+877,PASS,,2025,The AI Imitation Game: A Cognitive Comparison of Mimicry in Large Language Models,Proceedings - 2025 IEEE International Confere,scopus
+878,PASS,,2025,A Cognitive-RAG Framework for Task Planning and Decision Generation,"Proceedings - 2025 China Automation Congress,",scopus
+879,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Cognitive Approach and Modified Vision Transformer for Improved E-Waste Management System,International Journal of Intelligent Engineer,scopus
+880,PASS,,2025,CityEQA: A Hierarchical LLM Agent on Embodied Question Answering Benchmark in City Space,EMNLP 2025 - 2025 Conference on Empirical Met,scopus
+881,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,"Deep Learning for Cognitive Human-Computer Interaction: a Comprehensive Review of Models, Techniques, and Applications",2025 6th International Conference on Data Int,scopus
+882,EXCLUDE,no_foundationmodel_or_cognitive_signal,2024,Student State-aware knowledge tracing based on attention mechanism: A cognitive theory view,Pattern Recognition Letters,scopus
+883,EXCLUDE,proceedings_frontmatter,2025,"WOA 2025 - Proceedings of the 26th Workshop ""From Objects to Agents""",CEUR Workshop Proceedings,scopus
+884,PASS,,2025,The Irrational LLM: Implementing Cognitive Agents with Weighted Retrieval-Augmented Generation,Proceedings - International Conference on Com,scopus
+885,PASS,,2024,OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI,Advances in Neural Information Processing Sys,scopus
+886,PASS,,2025,Prompting Techniques for Reducing Social Bias in LLMs through System 1 and System 2 Cognitive Processes,International Conference Recent Advances in N,scopus
+887,EXCLUDE,no_foundationmodel_or_cognitive_signal,2024,Deep Learning Forecast of Cognitive Workload Using fNIRS Data,2024 IEEE 4th International Conference on Hum,scopus
+888,PASS,,2025,Cognitive Architectures for Data Science: Integrating Continual Pre-training with Agentic LLM,2025 4th International Conference on Cognitiv,scopus
+889,EXCLUDE,no_foundationmodel_or_cognitive_signal,2022,Cognitive Modeling of Semantic Fluency Using Transformers,CEUR Workshop Proceedings,scopus
+890,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,"CogNet: EEG Analysis to Classify Normal, Mild Cognitive Impairment and Dementia using Deep Learning",16th International Conference on Advances in ,scopus
+891,EXCLUDE,proceedings_frontmatter,2022,"NeSy 2022 - Proceedings of the 16th International Workshop on Neural-Symbolic Learning and Reasoning, as part of the 2nd International Joint Conferenc",CEUR Workshop Proceedings,scopus
+892,PASS,,2025,Architecting Deterministic Agentic Workflows for Reliable Data Understanding Using LLMs,Proceedings - 2025 IEEE Annual Congress on Ar,scopus
+893,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Driving Behavior Recognition Based on Multimodal Physiological Feature Fusion; [多模态生理特征融合的驾驶行为识别研究],Tien Tzu Hsueh Pao/Acta Electronica Sinica,scopus
+894,EXCLUDE,no_foundationmodel_or_cognitive_signal,2022,Neurosymbolic Systems of Perception and Cognition: The Role of Attention,Frontiers in Psychology,scopus
+895,EXCLUDE,proceedings_frontmatter,2024,"17th International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation,",Lecture Notes in Computer Science (including ,scopus
+896,EXCLUDE,no_foundationmodel_or_cognitive_signal,2024,Perception and Planning of Intelligent Vehicles Based on BEV in Extreme Off-Road Scenarios,IEEE Transactions on Intelligent Vehicles,scopus
+897,EXCLUDE,no_foundationmodel_or_cognitive_signal,2024,A VMD and LSTM based Method for Predicting Dissolved Gas in Transformer Oil,Proceedings - 2024 Asia-Pacific Conference on,scopus
+898,EXCLUDE,no_foundationmodel_or_cognitive_signal,2023,ADS-Lead: Lifelong Anomaly Detection in Autonomous Driving Systems,IEEE Transactions on Intelligent Transportati,scopus
+899,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Intelligent English Language Processing for Autonomous Robots with Context-Aware Cognitive and Emotion Recognition Models,2025 IEEE Pune Section International Conferen,scopus
+900,PASS,,2025,MindHaven: Retrieval-Augmented Large Language Models for AI-Powered Mental Health Support,Proceedings of the 16th Student Research Conf,scopus
+901,PASS,,2025,AI-Enhanced Rescue Drone with Multi-Modal Vision and Cognitive Agentic Architecture,AI (Switzerland),scopus
+902,PASS,,2025,R-CHAR: A Metacognition-Driven Framework for Role-Playing in Large Language Models,EMNLP 2025 - 2025 Conference on Empirical Met,scopus
+903,PASS,,2025,An Explainable Cognitive Bidding Agent for Electricity Markets: A Framework for Zero-Shot Generalization using Large Language Models,2025 IEEE 9th Conference on Energy Internet a,scopus
+904,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,A Cognitive-Driven Smart Gaming System Architecture Based on Deep Attention Networks and Edge-AI Integration,2025 7th International Conference on Internet,scopus
+905,EXCLUDE,no_foundationmodel_or_cognitive_signal,2024,Do we really need a large number of visual prompts?,Neural Networks,scopus
+906,PASS,,2025,MINDSTATE: Systematic Analysis of Belief Manipulation Vulnerabilities in Multi-Agent LLM Networks,2025 IEEE MIT Undergraduate Research Technolo,scopus
+907,EXCLUDE,no_foundationmodel_or_cognitive_signal,2023,WAS BLIND BUT NOW I SEE: Addressing Blind Spots in Literacy Instruction to Promote Healthy Self-Concepts,Critical Literacy and Its Impact on Black Boy,scopus
+908,PASS,,2025,Foundational Models for Robotics need to be made Bio-Inspired,Proceedings of IEEE Workshop on Advanced Robo,scopus
+909,PASS,,2024,Metacognitive Retrieval-Augmented Large Language Models,WWW 2024 - Proceedings of the ACM Web Confere,scopus
+910,PASS,,2025,"ChatGPT’s Expanding Horizons and Transformative Impact Across Domains: A Critical Review of Capabilities, Challenges, and Future Directions",Computers,scopus
+911,PASS,,2023,"Taming Simulators: Challenges, Pathways and Vision for the Alignment of Large Language Models",Proceedings of the Inaugural 2023 Summer Symp,scopus
+912,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Research on Design Requirements Analysis for Essential Service Water System of Nuclear Power Driven by Hybrid-augmented Intelligence; [混合增强智能驱动的核电重要厂用,Jixie Gongcheng Xuebao/Journal of Mechanical ,scopus
+913,PASS,,2025,Comparative Analysis of Neural Network Architectures for Raven's Progressive Matrices Pattern Recognition,2025 3rd International Conference on Foundati,scopus
+914,PASS,,2025,Teaching in the Zone: The Vygotskyan Turn Meets Educational AI,2025 5th International Conference on Educatio,scopus
+915,PASS,,2025,Transforming the Working Style of Call Center Agents Through Generative AI,International Journal of Advanced Computer Sc,scopus
+916,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Cognitive map formation under uncertainty via local prediction learning,Intelligent Systems with Applications,scopus
+917,PASS,,2025,MemAGent: A Cognitive-Hierarchical Multi-Agent System for Long-Form Story Generation,2025 3rd International Conference on Computer,scopus
+918,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Enabling Real-World Assistive Agents: From Live Vision to Proactive Context-Aware Information Delivery,UIST Adjunct 2025 - Proceedings of the 38th A,scopus
+919,PASS,,2025,"BEE: Belief-Value-Aligned, Explainable, and Extensible Cognitive Framework for Conversational Agents",IVA 2025 - Proceedings of the 25th ACM Intern,scopus
+920,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Fraud and Misreporting Risks in Executive Pay: A Cognitive AI Detection Framework by Algorithmic Governance,Cognitive Cyber Crimes in the Era of Artifici,scopus
+921,PASS,,2025,Predicting Portfolio Price Crashes in the Vietnamese Stock Market Using Large Language Models and Deep Learning Models with Temporal Relational Reason,Proceedings - International Conference on Kno,scopus
+922,EXCLUDE,no_foundationmodel_or_cognitive_signal,2024,Retrieving memory as prompts for continual relation extraction,Expert Systems with Applications,scopus
+923,PASS,,2025,KnowFruitHarvest: An Intelligent Picking Decision and Abnormal Recovery System Based on Knowledge-aware Multimodal Large Language Models,2025 5th International Conference on Network ,scopus
+924,PASS,,2024,Simulation of Non-Primate Intelligence vs Human Intelligence vs Superhuman AGI vs Alien-Like AGI,Lecture Notes in Computer Science (including ,scopus
+925,PASS,,2025,Safe Systems with Unsafe Agents: Challenges and Opportunities,Proceedings of the International Joint Confer,scopus
+926,PASS,,2024,Enhancing Interpretability of Autonomous Driving via Human-Like Cognitive Maps: A Case Study on Lane Change,IEEE Transactions on Intelligent Vehicles,scopus
+927,PASS,,2025,"An Architectural Framework for Educational Knowledge Graphs (IEEE P2807.6): Ontology Design, Llm Integration, and Adaptive Learning Applications",Proceedings - 2025 IEEE Conference on Artific,scopus
+928,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Testing the Limits of Fine-Tuning for Improving Visual Cognition in Vision Language Models,Proceedings of Machine Learning Research,scopus
+929,PASS,,2024,How preferences enslave attention: calling into question the endogenous/exogenous dichotomy from an active inference perspective,Phenomenology and the Cognitive Sciences,scopus
+930,PASS,,2025,Navigating the AI revolution: will radiology sink or soar?,Japanese Journal of Radiology,scopus
+931,PASS,,2025,Domain-general object recognition predicts human ability to tell real from AI-generated faces.,Journal of Experimental Psychology: General,scopus
+932,EXCLUDE,no_foundationmodel_or_cognitive_signal,2023,Evaluating Cognitive Maps and planning in Large Language Models with CogEval,Advances in Neural Information Processing Sys,scopus
+933,PASS,,2023,Leveraging Cognitive Science for Testing Large Language Models,Proceedings - 5th IEEE International Conferen,scopus
+934,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,Enhancing Autonomous Driving through Dual-Process Learning with Behavior and Reflection Integration,"ICASSP, IEEE International Conference on Acou",scopus
+935,PASS,,2026,Multi-Agent Systems: From Classical Paradigms to Large Foundation Model-Enabled Futures,IEEE-CAA JOURNAL OF AUTOMATICA SINICA,wos
+936,PASS,,2026,From Large Language Models to Reasoning and Agents,IEEE SOFTWARE,wos
+937,PASS,,2023,Exploiting Language Models as a Source of Knowledge for Cognitive Agents,"PROCEEDINGS OF THE 2023 AAAI FALL SYMPOSIA, V",wos
+938,PASS,,2026,Toward Autonomous O-RAN: A Multi-Scale Agentic AI Framework for Real-Time Network Control and Management,IEEE NETWORK,wos
+939,PASS,,2026,DeepGrounder: Generalized Reasoning for MLLM-Based Remote Sensing Visual Grounding,IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SE,wos
+940,PASS,,2026,Few-Sample GNSS Signal LOS/NLOS Identification via Physical-Semantic Distillation From Large Language Models,IEEE SIGNAL PROCESSING LETTERS,wos
+941,PASS,,2026,Data-Driven Vision-Language Models for Remote Sensing: A survey,IEEE GEOSCIENCE AND REMOTE SENSING MAGAZINE,wos
+942,PASS,,2026,DS-LABRNav: Land-Air Bimodal Robot Navigation With Traversable Obstacles Base on Vision-Language Model,IEEE ROBOTICS AND AUTOMATION LETTERS,wos
+943,PASS,,2025,Generative AI and Foundation Models for Human Sensing (GenAI4HS),COMPANION OF THE 2025 ACM INTERNATIONAL JOINT,wos
+944,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,A Survey on Fine-Grained Multimodal Large Language Models,CHINESE JOURNAL OF ELECTRONICS,wos
+945,PASS,,2026,Hierarchical Planning With Object Keypoint-Axis Constraints for Robotic Manipulation: Proposing the PORM Framework,IEEE ROBOTICS \& AUTOMATION MAGAZINE,wos
+946,PASS,,2026,Referring Remote Sensing Image Segmentation With Positive-Incentive Visual Adaptation and Logical Reasoning,IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EA,wos
+947,PASS,,2026,Benchmarking Explainable Argumentation Dialogue via Freeman's Theory,IEEE INTELLIGENT SYSTEMS,wos
+948,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Scaling Trust: A Domain-Specific Relational Extraction for Formal Verification With Limited Data Annotation in NextG Security Protocols,IEEE OPEN JOURNAL OF THE COMMUNICATIONS SOCIE,wos
+949,PASS,,2021,Computational enactivism under the free energy principle,SYNTHESE,wos
+950,PASS,,2025,The Potential of Large Language Models to Achieve Artificial General Intelligence,TOPOI-AN INTERNATIONAL REVIEW OF PHILOSOPHY,wos
+951,PASS,,2026,Reasoning Trace Length is an Important Factor in Training Reasoning Models,IEEE TRANSACTIONS ON AUDIO SPEECH AND LANGUAG,wos
+952,EXCLUDE,out_of_year_range,2017,Simulation-Based Science Toward Cognitive Generative Architectures for Simulation-Driven Discovery,GUIDE TO SIMULATION-BASED DISCIPLINES: ADVANC,wos
+953,PASS,,2026,PowerIntelBench: Benchmarking Evidence-Grounded and Explainable Reasoning in Power Knowledge Management,IEEE ACCESS,wos
+954,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Meta-Memory for Large Language Models,IEEE TRANSACTIONS ON AUDIO SPEECH AND LANGUAG,wos
+955,PASS,,2026,Large Language Model-Enhanced Reinforcement Learning for Low-Altitude Economy Networking,IEEE COMMUNICATIONS MAGAZINE,wos
+956,PASS,,2026,Chain-of-Thought for Large Language Model-Empowered Wireless Communications,IEEE COMMUNICATIONS MAGAZINE,wos
+957,PASS,,2026,Effective Reinforcement Learning for Remote Sensing Vision-Language Models via Supervised Knowledge Injection,IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SE,wos
+958,PASS,,2026,Symbolic-in-the-Loop: Leveraging Knowledge Graph Engineering to Ensure High-Assurance Generative Artificial Intelligence Outcomes,IEEE INTERNET COMPUTING,wos
+959,PASS,,2026,Misinformation Detection via LLM-Based Expert Discussion Network,IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYS,wos
+960,EXCLUDE,out_of_year_range,2017,Synthetic cognitive development Where intelligence comes from,EUROPEAN PHYSICAL JOURNAL-SPECIAL TOPICS,wos
+961,PASS,,2026,LLM-ODDR: A Large Language Model Framework for Joint Order Dispatching and Driver Repositioning,IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATI,wos
+962,PASS,,2026,Driving Style Recognition Like an Expert Using Semantic Privileged Information From Large Language Models,IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATI,wos
+963,PASS,,2026,Evaluating and Mitigating LLM-as-a-Judge Bias in Communication Systems,IEEE NETWORK,wos
+964,PASS,,2026,LLM-Driven Collaborative Agents for Wireless Network Management,IEEE NETWORK,wos
+965,PASS,,2026,A Comparative Study of Small and Large Language Models for Low-Resource Poultry Disease Knowledge Extraction,IEEE ACCESS,wos
+966,PASS,,2026,Knowing When to Answer: Prompting Epistemically Responsible Behaviors in Large Language Models,IEEE ACCESS,wos
+967,PASS,,2026,AutoLegal: Toward Universal Traffic Compliance for Autonomous Vehicles Through Knowledge-Enhanced Language Models and Signal Temporal Logic,IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATI,wos
+968,PASS,,2026,From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review,IEEE ACCESS,wos
+969,PASS,,2026,LLM-Guided Adaptive Compensator: Bringing Adaptivity to Robotic Feedback Control With Large Language Model,IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND E,wos
+970,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,"HydroGen: Hydrological Report Generation With Two-Stage Instruction-Tuned Multimodal Models, Temporal Prompts, and Knowledge-Guided Agents",IEEE ACCESS,wos
+971,PASS,,2026,SciNumQA: A Benchmark for Complex Numerical Reasoning Over Scientific Tables,IEEE ACCESS,wos
+972,PASS,,2026,Mitigating Hallucination in Multimodal Information Systems: A Comparative Analysis of Modular LLM Architectures,IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYS,wos
+973,PASS,,2026,Temporal Audio Narratives: Event Reasoning Through Large Language Models,IEEE ACCESS,wos
+974,PASS,,2026,A Generalized Spatio-Temporal Causal Knowledge Graph Framework With Large Language Model-Enhanced Reasoning for Urban Event Management,IEEE ACCESS,wos
+975,PASS,,2024,Perceptual Visual Similarity from EEG: Prediction and Image Generation,PROCEEDINGS OF THE 32ND ACM INTERNATIONAL CON,wos
+976,PASS,,2026,G-DRAGON: Geospatial Reasoning and Dynamic Planning for Retrieval-Augmented Outdoor Navigation,IEEE ROBOTICS AND AUTOMATION LETTERS,wos
+977,PASS,,2026,A Think-Do Architecture for Cognitive Autonomy: LLM-Driven Agentic AI for Sustainable Resource Orchestration in 6G Satellite Networks,IEEE NETWORK,wos
+978,PASS,,2026,Power-Q: A Hybrid Screener-Analyst Framework Using LLM Agents for Real-Time Grid Monitoring and Diagnostics,IEEE ACCESS,wos
+979,PASS,,2026,Reasoning and Acting (ReAct) With Multimodal LLMs: A Framework for Intent Driven 6G Networks,IEEE OPEN JOURNAL OF THE COMMUNICATIONS SOCIE,wos
+980,PASS,,2026,Active Perception Strategies for Multimodal Integration and Latent Information Reasoning in Robotic Systems,IEEE SYSTEMS JOURNAL,wos
+981,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Beyond the Black Box: Programmable AI and Explainable Text Analysis for Trustworthy Social Intelligence,IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYS,wos
+982,PASS,,2023,Bridging Cognitive Architectures and Generative Models with Vector Symbolic Algebras,"PROCEEDINGS OF THE 2023 AAAI FALL SYMPOSIA, V",wos
+983,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Dual-Agent Self-Refinement for Scalable Transcript-Based Summarization,IEEE ACCESS,wos
+984,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,PEEM: Prompt Engineering Evaluation Metrics for Interpretable Joint Evaluation of Prompts and Responses in LLMs,IEEE ACCESS,wos
+985,PASS,,2023,Enabling High-Level Machine Reasoning with Cognitive Neuro-Symbolic Systems,"PROCEEDINGS OF THE 2023 AAAI FALL SYMPOSIA, V",wos
+986,EXCLUDE,out_of_year_range,2017,A Brain-Inspired Method of Facial Expression Generation Using Chaotic Feature Extracting Bidirectional Associative Memory,NEURAL PROCESSING LETTERS,wos
+987,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Look Before You Reason: Hierarchical Verification and Self-Reflective Recovery for Remote Sensing Agents,IEEE GEOSCIENCE AND REMOTE SENSING LETTERS,wos
+988,PASS,,2026,GoT-HCS: Graph-of-Thoughts Enhanced Hierarchical Reasoning for Automated Clinical Hospital Course Summarization,IEEE ACCESS,wos
+989,PASS,,2023,Combining Minds and Machines: Investigating the Fusion of Cognitive Architectures and Generative Models for General Embodied Intelligence,"PROCEEDINGS OF THE 2023 AAAI FALL SYMPOSIA, V",wos
+990,PASS,,2026,R2C-MGR2L: Enhancing Multigranularity Relational Representation in Dual-Temporal Optical Remote Sensing Images Through LLM-Based Scene Graph Generatio,IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SE,wos
+991,PASS,,2026,Beyond Observations: Improving Multi-Hop Question Generation via Bridging Dependency-Enhanced Counterfactual Supporting,IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYS,wos
+992,PASS,,2026,"From Agentification to Self-Evolving Agentic AI for Wireless Networks: Concepts, Approaches, and Future Research Directions",IEEE COMMUNICATIONS MAGAZINE,wos
+993,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Agentic AI-Based 5G and Beyond Radio Planning Framework,IEEE ACCESS,wos
+994,PASS,,2023,On Using Generative Models in a Cognitive Architecture for Embodied Agents,"PROCEEDINGS OF THE 2023 AAAI FALL SYMPOSIA, V",wos
+995,PASS,,2026,Embodied Spatial Affordance: Spatial-Aware Affordance Learning for Embodied Navigation and Manipulation,IEEE TRANSACTIONS ON IMAGE PROCESSING,wos
+996,PASS,,2026,GNLM: A Graph-Native Language Model With Road Name Address-Based Spatial Reasoning for Geographic Question Answering,IEEE ACCESS,wos
+997,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Code Comprehension Gaps in AI-Assisted Development: A Conceptual Framework for Knowledge Erosion Patterns,IEEE ACCESS,wos
+998,PASS,,2024,Scarecrows in Oz: The Use of Large Language Models in HRI,ACM TRANSACTIONS ON HUMAN-ROBOT INTERACTION,wos
+999,PASS,,2025,Do language models lack communicative intentions?,SYNTHESE,wos
+1000,EXCLUDE,out_of_year_range,,,,wos
+1001,EXCLUDE,out_of_year_range,,,,wos
+1002,PASS,,2026,Reasoning-Enhanced Few-Shot Human Activity Recognition via Visual Reinforcement Learning,IEEE ACCESS,wos
+1003,PASS,,2023,Synergistic Integration of Large Language Models and Cognitive Architectures for Robust AI: An Exploratory Analysis,"PROCEEDINGS OF THE 2023 AAAI FALL SYMPOSIA, V",wos
+1004,EXCLUDE,no_foundationmodel_or_cognitive_signal,2026,Engineering Students' Critical Engagement With ChatGPT: Effects of Output Accuracy on Answers and Confidence in a Real-World Probability Context,IEEE TRANSACTIONS ON EDUCATION,wos
+1005,PASS,,2026,FROM PASSIVE MIRRORS TO ACTIVE AGENTS: Holonic Digital Twins for Physical Artificial Intelligence Over Networks,IEEE VEHICULAR TECHNOLOGY MAGAZINE,wos
+1006,PASS,,2026,DKARNet: Prompt-Guided Knowledge-Driven Multimodal Reasoning Network for UAV Object Detection,IEEE JOURNAL OF SELECTED TOPICS IN APPLIED EA,wos
+1007,PASS,,2023,Automating Knowledge Acquisition for Content-Centric Cognitive Agents Using LLMs,"PROCEEDINGS OF THE 2023 AAAI FALL SYMPOSIA, V",wos
+1008,PASS,,2023,Growing An Embodied Generative Cognitive Agent,"PROCEEDINGS OF THE 2023 AAAI FALL SYMPOSIA, V",wos
+1009,PASS,,2024,Cognitive Computing Advancements: Improving Precision Crop Protection through UAV Imagery for Targeted Weed Monitoring,REMOTE SENSING,wos
+1010,EXCLUDE,out_of_year_range,2016,Toward a Unified Sub-symbolic Computational Theory of Cognition,FRONTIERS IN PSYCHOLOGY,wos
+1011,PASS,,2023,A Proposal for a Language Model Based Cognitive Architecture,"PROCEEDINGS OF THE 2023 AAAI FALL SYMPOSIA, V",wos
+1012,PASS,,2026,ACT: A Conceptual Framework for Understanding and Controlling Trustworthiness in Controllable AI,IEEE ACCESS,wos
+1013,EXCLUDE,no_foundationmodel_or_cognitive_signal,2020,Predictive coding and thought,SYNTHESE,wos
+1014,PASS,,2026,"Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts",COMPUTERS AND EDUCATION: ARTIFICIAL INTELLIGE,wos
+1015,PASS,,2025,Hey Miro! Multimodal Interaction with an Animal-like Robot Companion with Conversational Abilities,2025 20TH ACM/IEEE INTERNATIONAL CONFERENCE O,wos
+1016,EXCLUDE,out_of_year_range,2016,Real-Time GA-Based Probabilistic Programming in Application to Robot Control,ARTIFICIAL GENERAL INTELLIGENCE (AGI 2016),wos
+1017,PASS,,2024,Why concepts are (probably) vectors,TRENDS IN COGNITIVE SCIENCES,wos
+1018,PASS,,2024,The emergence of compositionality in a brain-inspired cognitive architecture,COGNITIVE SYSTEMS RESEARCH,wos
+1019,EXCLUDE,out_of_year_range,2014,Spoken Language Processing: Time to Look Outside?,"STATISTICAL LANGUAGE AND SPEECH PROCESSING, S",wos
+1020,EXCLUDE,no_foundationmodel_or_cognitive_signal,2024,The Human Affectome,NEUROSCIENCE AND BIOBEHAVIORAL REVIEWS,wos
+1021,PASS,,2023,Psychologically-Valid Generative Agents: A Novel Approach to Agent-Based Modeling in Social Sciences,"PROCEEDINGS OF THE 2023 AAAI FALL SYMPOSIA, V",wos
+1022,PASS,,2023,A Neuro-Mimetic Realization of the Common Model of Cognition via Hebbian Learning and Free Energy Minimization,"PROCEEDINGS OF THE 2023 AAAI FALL SYMPOSIA, V",wos
+1023,EXCLUDE,no_foundationmodel_or_cognitive_signal,2025,A comprehensive taxonomy of machine consciousness,INFORMATION FUSION,wos
+1024,PASS,,2026,Through the Looking Glass: A Reconstructive Architecture for Machine Access Consciousness,PROCEEDINGS OF THE 2026 AAAI SPRING SYMPOSIUM,wos
+1025,EXCLUDE,out_of_year_range,2015,"Structural Bootstrapping-A Novel, Generative Mechanism for Faster and More Efficient Acquisition of Action-Knowledge",IEEE TRANSACTIONS ON AUTONOMOUS MENTAL DEVELO,wos
+1026,PASS,,2025,The Double-Edged Sword: Exploring Older Adults' Interaction and Imagination with an LLM-Enhanced Health Agent,PROCEEDINGS OF THE 13TH INTERNATIONAL CONFERE,wos
+1027,EXCLUDE,out_of_year_range,2015,Modeling Motivation in MicroPsi 2,ARTIFICIAL GENERAL INTELLIGENCE (AGI 2015),wos
+1028,PASS,,2026,LLMs as Knowledge Workers,PROCEEDINGS OF THE 2026 AAAI SPRING SYMPOSIUM,wos
+1029,EXCLUDE,no_foundationmodel_or_cognitive_signal,2023,Neuro-symbolic model for cantilever beams damage detection,COMPUTERS IN INDUSTRY,wos

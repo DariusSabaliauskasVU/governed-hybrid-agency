@@ -2,7 +2,7 @@
 
 Supplementary data and reproducibility materials for the review:
 
-> **Governed Hybrid Agency: Cognitive Architectures as Control Systems for Foundation-Model Agents.**
+> **Governed Hybrid Agency: A Critical Evidence Map of Cognitive Architectures for Foundation-Model Agents.**
 > D. Sabaliauskas & A. Dirzyte. Submitted to the *Journal of Artificial Intelligence Research* (JAIR), Surveys track.
 
 All files share a single stable key, `record_id`, that links the de-duplicated corpus (0–1029) across every stage, so any record can be traced from identification through screening to final coding.

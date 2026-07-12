@@ -1,8 +1,9 @@
 # Systematic search protocol — Scopus & Web of Science
 
-**Review title:** Governed Hybrid Agency: Cognitive Architectures as Control Systems for Foundation-Model Agents
+**Review title:** Governed Hybrid Agency: A Critical Evidence Map of Cognitive Architectures for Foundation-Model Agents
 **Databases:** Scopus (Elsevier) and Web of Science Core Collection (Clarivate) — **only these two**
 **Coverage window:** 2018–2026 (foundation-model era; BERT/GPT-2 onward)
+**Search executed:** 10 July 2026 (Scopus and Web of Science searched and exported the same day)
 **Languages:** English
 **Document types:** journal article, review, conference/proceedings paper
 **Reporting standard:** PRISMA 2020

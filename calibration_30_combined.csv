@@ -1,31 +1,31 @@
-prefilter_decision,llm_decision,author_decision,prefilter_vs_author_agree,llm_vs_author_agree,title
-INCLUDE,INCLUDE,EXCLUDE,N,N,Toward Autonomy: Metacognitive Learning for Enhanced AI Performance
-INCLUDE,EXCLUDE,EXCLUDE,N,Y,WWW Companion 2026 - Companion Proceedings of the ACM Web Conference 2026
-EXCLUDE,EXCLUDE,EXCLUDE,Y,Y,Sophimatics and 2D Complex Time to Mitigate Hallucinations in LLMs for Nove
-EXCLUDE,EXCLUDE,INCLUDE,N,N,Hey Miro! Multimodal Interaction with an Animal-like Robot Companion with C
-EXCLUDE,EXCLUDE,EXCLUDE,Y,Y,2T-Agent: A Generative Agent-Driven Framework for Teacher-Like Thinking in 
-INCLUDE,EXCLUDE,EXCLUDE,N,Y,Theory of Mind as a Core Component of Artificial General Intelligence
-EXCLUDE,EXCLUDE,EXCLUDE,Y,Y,"Evaluating Prompt Strategies for Multi-Robot Planning with ChatGPT: Batch, "
-EXCLUDE,EXCLUDE,EXCLUDE,Y,Y,Using Nonverbal Cues in Empathic Multi-Modal LLM-Driven Chatbots for Mental
-EXCLUDE,EXCLUDE,EXCLUDE,Y,Y,Scaling Trust: A Domain-Specific Relational Extraction for Formal Verificat
-INCLUDE,EXCLUDE,EXCLUDE,N,Y,From Pattern Recognizers to Personalized Companions: a Survey of Large Lang
-EXCLUDE,EXCLUDE,EXCLUDE,Y,Y,AskNearby: An LLM-Based Application for Neighborhood Information Retrieval 
-EXCLUDE,EXCLUDE,EXCLUDE,Y,Y,GenAIReading: Augmenting Human Cognition with Interactive Digital Textbooks
-EXCLUDE,EXCLUDE,EXCLUDE,Y,Y,OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superin
-INCLUDE,EXCLUDE,EXCLUDE,N,Y,Navigating the AI revolution: will radiology sink or soar?
-EXCLUDE,EXCLUDE,EXCLUDE,Y,Y,An Effective Cognitive Cybersecurity System of Cognitive Sciences Using Ada
-INCLUDE,EXCLUDE,INCLUDE,Y,N,AutoGraph: An intelligent knowledge-graph agent for procedure automation an
-EXCLUDE,EXCLUDE,EXCLUDE,Y,Y,SPATIALLY-AWARE TRANSFORMER FOR EMBODIED AGENTS
-EXCLUDE,EXCLUDE,EXCLUDE,Y,Y,A Novel Algorithm for Speech Based Cognitive Assessment in Alzheimers Integ
-INCLUDE,EXCLUDE,INCLUDE,Y,N,Event-Driven Agentic SOC (ED-ASOC): Supervisor-Based LLM Framework for Dyna
-EXCLUDE,EXCLUDE,EXCLUDE,Y,Y,TATA: A Trust-Aware Task-Oriented Agent Framework for Industrial Intelligen
-INCLUDE,EXCLUDE,EXCLUDE,N,Y,"18th International Conference on Artificial General Intelligence, AGI 2025"
-INCLUDE,EXCLUDE,EXCLUDE,N,Y,AI-Driven Multimodal Mind Mapping: A Framework for Enhanced Knowledge Model
-INCLUDE,INCLUDE,EXCLUDE,N,N,NL2CA: Auto-formalizing Cognitive Decision-Making from Natural Language Usi
-EXCLUDE,EXCLUDE,EXCLUDE,Y,Y,Beyond Accuracy: A Cognitive Load Framework for Mapping the Capability Boun
-INCLUDE,EXCLUDE,INCLUDE,Y,N,Innovative Multi-Agent Architectures Propelling Genomic Analysis in General
-INCLUDE,EXCLUDE,EXCLUDE,N,Y,Knowledge Representation for Human- and Machine-Centric Explanations
-INCLUDE,EXCLUDE,EXCLUDE,N,Y,AI-Enabled Process Improvement in Information-Intensive Administrative Work
-INCLUDE,EXCLUDE,EXCLUDE,N,Y,From numerical perception to cognitive decision: a weather-enhanced and kno
-INCLUDE,EXCLUDE,INCLUDE,Y,N,Self-Evolving Multi-Agent Fuzzing for Industrial IoT with Knowledge-Driven 
-EXCLUDE,EXCLUDE,EXCLUDE,Y,Y,Cognitive AI Systems for Real-Time Market Anomaly Detection and Asset Prici
+record_id,prefilter_decision,llm_assessed_in_main_run,llm_decision,llm_decision_calibration_only,author_decision,llm_vs_author_agree,title
+725,PASS,Y,INCLUDE,,EXCLUDE,N,Toward Autonomy: Metacognitive Learning for Enhanced AI Performance
+221,EXCLUDE,N,NA,EXCLUDE,EXCLUDE,NA,WWW Companion 2026 - Companion Proceedings of the ACM Web Conference 2026
+273,EXCLUDE,N,NA,EXCLUDE,EXCLUDE,NA,Sophimatics and 2D Complex Time to Mitigate Hallucinations in LLMs for Nove
+1015,PASS,Y,EXCLUDE,,INCLUDE,N,Hey Miro! Multimodal Interaction with an Animal-like Robot Companion with C
+13,PASS,Y,EXCLUDE,,EXCLUDE,Y,2T-Agent: A Generative Agent-Driven Framework for Teacher-Like Thinking in 
+276,PASS,Y,EXCLUDE,,EXCLUDE,Y,Theory of Mind as a Core Component of Artificial General Intelligence
+602,PASS,Y,EXCLUDE,,EXCLUDE,Y,"Evaluating Prompt Strategies for Multi-Robot Planning with ChatGPT: Batch, "
+645,PASS,Y,EXCLUDE,,EXCLUDE,Y,Using Nonverbal Cues in Empathic Multi-Modal LLM-Driven Chatbots for Mental
+948,EXCLUDE,N,NA,EXCLUDE,EXCLUDE,NA,Scaling Trust: A Domain-Specific Relational Extraction for Formal Verificat
+447,PASS,Y,EXCLUDE,,EXCLUDE,Y,From Pattern Recognizers to Personalized Companions: a Survey of Large Lang
+307,EXCLUDE,N,NA,EXCLUDE,EXCLUDE,NA,AskNearby: An LLM-Based Application for Neighborhood Information Retrieval 
+738,EXCLUDE,N,NA,EXCLUDE,EXCLUDE,NA,GenAIReading: Augmenting Human Cognition with Interactive Digital Textbooks
+885,PASS,Y,EXCLUDE,,EXCLUDE,Y,OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superin
+930,PASS,Y,EXCLUDE,,EXCLUDE,Y,Navigating the AI revolution: will radiology sink or soar?
+41,EXCLUDE,N,NA,EXCLUDE,EXCLUDE,NA,An Effective Cognitive Cybersecurity System of Cognitive Sciences Using Ada
+33,PASS,Y,EXCLUDE,,INCLUDE,N,AutoGraph: An intelligent knowledge-graph agent for procedure automation an
+864,EXCLUDE,N,NA,EXCLUDE,EXCLUDE,NA,SPATIALLY-AWARE TRANSFORMER FOR EMBODIED AGENTS
+815,EXCLUDE,N,NA,EXCLUDE,EXCLUDE,NA,A Novel Algorithm for Speech Based Cognitive Assessment in Alzheimers Integ
+49,PASS,Y,EXCLUDE,,INCLUDE,N,Event-Driven Agentic SOC (ED-ASOC): Supervisor-Based LLM Framework for Dyna
+220,PASS,Y,EXCLUDE,,EXCLUDE,Y,TATA: A Trust-Aware Task-Oriented Agent Framework for Industrial Intelligen
+168,EXCLUDE,N,NA,EXCLUDE,EXCLUDE,NA,"18th International Conference on Artificial General Intelligence, AGI 2025"
+519,PASS,Y,EXCLUDE,,EXCLUDE,Y,AI-Driven Multimodal Mind Mapping: A Framework for Enhanced Knowledge Model
+486,PASS,Y,INCLUDE,,EXCLUDE,N,NL2CA: Auto-formalizing Cognitive Decision-Making from Natural Language Usi
+391,PASS,Y,EXCLUDE,,EXCLUDE,Y,Beyond Accuracy: A Cognitive Load Framework for Mapping the Capability Boun
+190,PASS,Y,EXCLUDE,,INCLUDE,N,Innovative Multi-Agent Architectures Propelling Genomic Analysis in General
+427,PASS,Y,EXCLUDE,,EXCLUDE,Y,Knowledge Representation for Human- and Machine-Centric Explanations
+158,EXCLUDE,N,NA,EXCLUDE,EXCLUDE,NA,AI-Enabled Process Improvement in Information-Intensive Administrative Work
+50,PASS,Y,EXCLUDE,,EXCLUDE,Y,From numerical perception to cognitive decision: a weather-enhanced and kno
+416,PASS,Y,EXCLUDE,,INCLUDE,N,Self-Evolving Multi-Agent Fuzzing for Industrial IoT with Knowledge-Driven 
+793,EXCLUDE,N,NA,EXCLUDE,EXCLUDE,NA,Cognitive AI Systems for Real-Time Market Anomaly Detection and Asset Prici

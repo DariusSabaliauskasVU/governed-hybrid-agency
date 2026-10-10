@@ -1,0 +1,12 @@
+{
+  "title": "Governed Hybrid Agency: reproducibility package (search, screening, and coding data)",
+  "upload_type": "dataset",
+  "version": "v1.0",
+  "description": "Search strings, rule-based pre-filter and LLM-assisted eligibility logs, calibration and reproducibility samples, prompt and settings, and per-record corpus coding for Sabaliauskas & Dirzyte (2026), Governed Hybrid Agency: A Critical Evidence Map of Cognitive Architectures for Foundation-Model Agents, Journal of Artificial Intelligence Research.",
+  "creators": [
+    {"name": "Sabaliauskas, Darius", "affiliation": "Vilnius University", "orcid": "0009-0007-0371-3435"},
+    {"name": "Dirzyte, Aiste", "affiliation": "Vilnius Gediminas Technical University; Mykolas Romeris University", "orcid": "0000-0003-2057-3108"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["cognitive architectures", "foundation models", "evidence map", "LLM-assisted screening"]
+}
